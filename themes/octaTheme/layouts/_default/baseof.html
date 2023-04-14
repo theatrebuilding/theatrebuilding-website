@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {{ partial "head.html" . }}
+</head>
+<body>
+    {{ partial "header.html" . }}
+    
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+
+    {{ partial "footer.html" . }}
+
+    <script src="{{ "js/load-screen.js" | absURL }}"></script>
+    <script src="{{ "js/octagon-layout.js" | absURL }}"></script>
+    <script src="{{ "js/desktop-scroll.js" | absURL }}"></script>
+
+</body>
+</html>

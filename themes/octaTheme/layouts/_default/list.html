@@ -1,0 +1,20 @@
+{{ define "main" }}
+<div class="grid-container">
+  <div class="octagon-grid">
+    {{ range .Pages }}
+      <div class="octagon">
+        {{ partial "octagon.svg" . }}
+        <div class="octagon-content">
+          <h2 class="octagon-title">{{ .Title }}</h2>
+          <p class="octagon-date">{{ .Date.Format "January 2, 2006" }}</p>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+</div>
+
+<div id="load-screen" class="load-screen">
+  <div id="loading-bar" class="loading-bar"></div>
+</div>
+
+{{ end }}
