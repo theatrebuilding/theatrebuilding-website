@@ -171,7 +171,7 @@ const body = document.body;
 const textureImage = new Image();
 
 // Set the source of the background image to a texture image.
-textureImage.src = "https://media.freestocktextures.com/cache/9a/cd/9acd3e47a78396d580147877f6da834b.jpg";
+textureImage.src = "";
 
 // Set the background image of the body to the texture image.
 body.style.backgroundImage = "url(" + textureImage.src + ")";
