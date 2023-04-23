@@ -12,9 +12,21 @@
 
     {{ partial "footer.html" . }}
 
-    <script src="{{ "js/load-screen.js" | absURL }}"></script>
-    <script src="{{ "js/octagon-layout.js" | absURL }}"></script>
-    <script src="{{ "js/desktop-scroll.js" | absURL }}"></script>
+    {{ $jsFiles := resources.Match "js/*.js" }}
+    {{ $combinedMinJs := $jsFiles | resources.Concat "js/combined.min.js" | js.Build (dict "target" "es2015" "minify" true "sourcemaps" false) }}
+    {{ $combinedJs := $jsFiles | resources.Concat "js/combined.js" | js.Build (dict "target" "es2015") }}
+   
+   
+    
+
+
+    {{ if .Site.IsServer }}
+    <script src="{{ $combinedJs.RelPermalink }}" integrity="{{ $combinedJs.Data.Integrity }}"></script>
+  {{ else }}
+  <script src="{{ $combinedMinJs.RelPermalink }}" integrity="{{ $combinedMinJs.Data.Integrity }}"></script>
+  {{ end }}
+
+
 
 </body>
 </html>

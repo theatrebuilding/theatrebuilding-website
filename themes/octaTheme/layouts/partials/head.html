@@ -3,6 +3,9 @@
 <title>{{ .Site.Title }}</title>
 
 
+
+
+
 {{ $styles := resources.Get "css/style.css" | postCSS (dict "config" "postcss.config.js") }}
 {{ if .Site.IsServer }}
   <link rel="stylesheet" href="{{ $styles.RelPermalink }}">

@@ -6,6 +6,10 @@ body {
   @apply bg-white overflow-auto;
 }
 
+main {
+  @apply flex justify-center justify-items-center;
+}
+
 #load-screen {
   @apply fixed top-0 left-0 w-full h-full bg-black flex justify-center justify-items-center;
 }
@@ -15,7 +19,11 @@ body {
 }
 
 .octagon-grid {
-  @apply absolute;
+  @apply relative;
+}
+
+.grid-container {
+  @apply grid grid-cols-3 grid-rows-3;
 }
   
   .octagon {

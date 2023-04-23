@@ -526,6 +526,12 @@ body {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
+main {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+}
+
 #load-screen {
   position: fixed;
   top: 0px;
@@ -550,7 +556,13 @@ body {
 }
 
 .octagon-grid {
-  position: absolute;
+  position: relative;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-rows: repeat(3, minmax(0, 1fr));
 }
 
 .octagon {

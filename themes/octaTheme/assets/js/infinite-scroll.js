@@ -23,10 +23,29 @@ function updateScroll() {
   const scrollX = speed * (deltaX / distance);
   const scrollY = speed * (deltaY / distance);
 
-  window.scrollBy(scrollY, scrollX);
+  let newScrollX = window.scrollX + scrollY;
+  let newScrollY = window.scrollY + scrollX;
+
+  // Loop the scroll when edges are reached
+  const bodyWidth = document.body.scrollWidth;
+  const bodyHeight = document.body.scrollHeight;
+  
+  if (newScrollX < 0) {
+    newScrollX = bodyWidth + newScrollX;
+  } else if (newScrollX + viewportWidth > bodyWidth) {
+    newScrollX = newScrollX - bodyWidth + viewportWidth;
+  }
+
+  if (newScrollY < 0) {
+    newScrollY = bodyHeight + newScrollY;
+  } else if (newScrollY + viewportHeight > bodyHeight) {
+    newScrollY = newScrollY - bodyHeight + viewportHeight;
+  }
+
+  window.scrollTo(newScrollX, newScrollY);
   requestAnimationFrame(updateScroll);
 }
 
 setTimeout(() => {
-    requestAnimationFrame(updateScroll);
-  }, 2000); // Delay the script execution for 3 seconds
+  requestAnimationFrame(updateScroll);
+}, 2000); // Delay the script execution for 2 seconds
