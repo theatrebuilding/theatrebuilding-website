@@ -5,17 +5,17 @@
     "build-css": "tailwindcss -i themes/octaTheme/assets/css/main.css -o themes/octaTheme/assets/css/style.css",
     "watch-css": "tailwindcss -i themes/octaTheme/assets/css/main.css -o themes/octaTheme/assets/css/style.css --watch",
     "hugo-server": "hugo server",
-    "start": "run-p hugo-server watch-css"
+    "start": "run-p hugo-server watch-css",
+    "dev": "tinacms dev -c \"hugo server -D\"",
+    "build": "tinacms build && hugo"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "autoprefixer": "^10.4.14",
-    "cors": "^2.8.5",
-    "express": "^4.18.2",
-    "postcss": "^8.4.21",
-    "web3": "^0.20.7"
+    "postcss": "^8.4.23",
+    "yaml": "^2.2.2"
   },
   "devDependencies": {
     "npm-run-all": "^4.1.5",

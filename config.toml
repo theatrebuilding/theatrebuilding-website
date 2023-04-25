@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://theatrebuilding.com'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'theatrebuilding.com'
 theme = "octaTheme"
 
 
