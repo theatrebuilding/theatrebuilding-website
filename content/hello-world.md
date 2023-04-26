@@ -1,8 +1,8 @@
 ---
-title: MIIIIINGE
+title: Hellow world
 ---
 
-## THis really is the mingiest post I have ever seen!
+## Lorem Ipsum
 
 Lorem ipsum dolor sit minge, consectetur adipiscing elit. Ut non lorem diam. Quisque vulputate nibh sodales eros pretium tincidunt. Aenean porttitor efficitur convallis. Nulla sagittis finibus convallis. Phasellus in fermentum quam, eu egestas tortor. Maecenas ac mollis leo. Integer maximus eu nisl vel sagittis.
 
