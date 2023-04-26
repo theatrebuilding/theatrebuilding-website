@@ -6,13 +6,9 @@ title: Sick of Nationalism
 
   <div style="position:fixed; right:300px; top:300px">
 
-```
 <audio controls controlsList="nodownload noplaybackrate">
   <source src="https://naarduikkeerher.dk/sick-of-nationalism.mp3" type="audio/mpeg">
 </audio>
-
-</audio>
-```
 
   </div>
 
@@ -51,7 +47,6 @@ title: Sick of Nationalism
   <div class="block" id="container">
     <ul data-current="0">
 
-```
   <li>
     <p class="bread"> <a href=https://en.wiktionary.org/wiki/spect-actor
         target=”_blank”>Spectactor<span>&#58;</span></a> Seriously. There's a 22-meter-long wall. On the wall
@@ -1297,8 +1292,6 @@ title: Sick of Nationalism
       <hr width="15%" size="4" align="right" color="black">
     </p>
   </li>
-
-
 
 </ul>
 ```
