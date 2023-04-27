@@ -3,27 +3,19 @@
 @tailwind utilities;
 
 body {
-  @apply bg-white overflow-auto;
-}
-
-main {
-  @apply flex justify-center justify-items-center;
+  @apply bg-white overflow-auto min-w-fit min-h-fit scrollbar-hide;
 }
 
 #load-screen {
-  @apply fixed top-0 left-0 w-full h-full bg-black flex justify-center justify-items-center;
+  @apply fixed top-0 left-0 w-full h-full bg-black flex justify-center items-center;
 }
 
 #loading-bar {
   @apply bg-cyan-500 h-[20px] w-[0%] transition-all duration-100;
 }
 
-.octagon-grid {
-  @apply relative;
-}
-
-.grid-container {
-  @apply grid grid-cols-3 grid-rows-3;
+#octagon-grid {
+  @apply w-96 h-96;
 }
   
   .octagon {

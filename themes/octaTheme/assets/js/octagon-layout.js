@@ -1,6 +1,8 @@
 const distanceBetweenOctagons = 310;
+const octagonSize = distanceBetweenOctagons - 10;
 let layer = 1
 const gridContainer = document.getElementById("grid-container");
+const octagonGrid = document.getElementById("octagon-grid");
 const gridDimsValue = layer * (distanceBetweenOctagons - 10) + distanceBetweenOctagons;
 const gridDims = gridDimsValue + "px";
 const windowWidth = window.innerWidth;
@@ -9,8 +11,8 @@ const gridWidthLessThan = windowWidth - gridDimsValue;
 const gridHeightLessThan = windowHeight - gridDimsValue;
 const cellSizeW = gridDimsValue + gridWidthLessThan;
 const cellSizeH = gridDimsValue + gridHeightLessThan;
-gridContainer.style.gridTemplateColumns = "repeat(3, " + gridDims + ")";
-gridContainer.style.gridTemplateRows = "repeat(3, " + gridDims + ")";
+//gridContainer.style.gridTemplateColumns = "repeat(3, " + gridDims + ")";
+//gridContainer.style.gridTemplateRows = "repeat(3, " + gridDims + ")";
 
 // Generate random positions for incomplete layers
 function generateRandomPositions(octagonsInLayer) {
@@ -35,7 +37,7 @@ function positionOctagons() {
   let octagonIndex = 0;
   let maxX = 0;
   let maxY = 0;
-  const elements = [document.querySelector('main'), document.querySelector('body'), document.querySelector('html')];
+  // const elements = [document.querySelector('main'), document.querySelector('body'), document.querySelector('html')];
 
   while (octagonIndex < octagons.length) {
     const octagonsInLayer = layer === 1 ? 1 : 8 * (layer - 1);
@@ -81,23 +83,35 @@ function positionOctagons() {
 
     layer++;
 
-    const translateValue = `${layer * distanceBetweenOctagons / 2}px`;
+    
     octagons.forEach(octagon => {
+      const translateValue = `${((layer - 2) * distanceBetweenOctagons)}px`;
       octagon.style.transform = `translate(${translateValue}, ${translateValue})`;
+      console.log(layer-2,translateValue);
     });
 
-    const cellDims = layer * distanceBetweenOctagons + distanceBetweenOctagons;
-    const gridDims = cellDims * 3;
-    const windowWidth = window.innerWidth;
-    const windowHeight = window.innerHeight;
+const cellDims = (layer * distanceBetweenOctagons) + 10;
+const canvasMarginW = window.innerWidth;
+const canvasMarginH = window.innerHeight;
+octagonGrid.style.width = cellDims + "px";
+octagonGrid.style.height = cellDims + "px";
+octagonGrid.style.transform = `translate(${canvasMarginW}px,${canvasMarginH}px)`;
+gridContainer.style.width = (canvasMarginW * 2) + cellDims + "px";
+gridContainer.style.height = (canvasMarginH * 2) + cellDims + "px";
+
+
+//    const cellDims = layer * distanceBetweenOctagons + distanceBetweenOctagons;
+//    const gridDims = cellDims * 3;
+//    const windowWidth = window.innerWidth;
+//    const windowHeight = window.innerHeight;
     
-    elements.forEach(el => {
-      setDimensions(
-        el,
-        `${Math.max(gridDims, windowWidth) + windowWidth}px`,
-        `${Math.max(gridDims, windowHeight) + windowHeight - maxY}px`
-      );
-    });
+//    elements.forEach(el => {
+//      setDimensions(
+//        el,
+//        `${Math.max(gridDims, windowWidth) + windowWidth}px`,
+//        `${Math.max(gridDims, windowHeight) + windowHeight - maxY}px`
+//      );
+//    });
     
     
   }
@@ -143,41 +157,22 @@ function findCenterOctaAndScroll() {
 }
 
 function setGridDimensions() {
-  const style = document.createElement("style");
-  style.textContent = `
-    #grid-container > div {
-      min-width: ${cellSizeW}px;
-      min-height: ${cellSizeH}px;
-    }`;
-  document.head.appendChild(style);
+//  const style = document.createElement("style");
+//  style.textContent = `
+//    #grid-container > div {
+//      min-width: ${cellSizeW}px;
+//      min-height: ${cellSizeH}px;
+//    }`;
+//  document.head.appendChild(style);
 
-  const octagonGrid = document.getElementById("octagon-grid");
-  octagonGrid.style.width = gridDims;
-  octagonGrid.style.height = gridDims;
+  const octagonGrid = document.getElementById("grid-container");
+  octagonGrid.style.marginLeft = window.innerWidth;
+  octagonGrid.style.marginRight = window.innerWidth;
+  octagonGrid.style.marginTop = window.innerHeight;
+  octagonGrid.style.marginBottom = window.innerHeight;
 }
 
 setGridDimensions();
 const { maxX, maxY } = positionOctagons();
 const { left: gridMoveLeft, top: gridMoveTop } = findHighestNegativePositions();
 findCenterOctaAndScroll();
-
-
-
-
-// Get the body of the HTML page.
-const body = document.body;
-
-// Create a new background image.
-const textureImage = new Image();
-
-// Set the source of the background image to a texture image.
-textureImage.src = "";
-
-// Set the background image of the body to the texture image.
-body.style.backgroundImage = "url(" + textureImage.src + ")";
-
-// Set the background repeat of the body to no-repeat.
-body.style.backgroundRepeat = "repeat";
-
-// Set the background size of the body to cover the entire body.
-body.style.backgroundSize = "500px";
