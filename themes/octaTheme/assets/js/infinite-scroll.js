@@ -18,10 +18,10 @@ function updateScroll() {
   const distance = Math.sqrt(deltaX * deltaX + deltaY * deltaY);
 
   const maxDistance = Math.sqrt(centerX * centerX + centerY * centerY);
-  const speed = Math.min(distance / maxDistance * maxSpeed, maxSpeed);
+  const speed = Math.min((distance / maxDistance) * maxSpeed, maxSpeed);
 
-  const scrollX = speed * (deltaX / distance);
-  const scrollY = speed * (deltaY / distance);
+  const scrollX = (speed * deltaX) / distance;
+  const scrollY = (speed * deltaY) / distance;
 
   let newScrollX = window.scrollX + scrollY;
   let newScrollY = window.scrollY + scrollX;
@@ -29,18 +29,9 @@ function updateScroll() {
   // Loop the scroll when edges are reached
   const bodyWidth = document.body.scrollWidth;
   const bodyHeight = document.body.scrollHeight;
-  
-  if (newScrollX < 0) {
-    newScrollX = bodyWidth + newScrollX;
-  } else if (newScrollX + viewportWidth > bodyWidth) {
-    newScrollX = newScrollX - bodyWidth + viewportWidth;
-  }
 
-  if (newScrollY < 0) {
-    newScrollY = bodyHeight + newScrollY;
-  } else if (newScrollY + viewportHeight > bodyHeight) {
-    newScrollY = newScrollY - bodyHeight + viewportHeight;
-  }
+  newScrollX = (newScrollX < 0) ? bodyWidth + newScrollX : (newScrollX + viewportWidth > bodyWidth) ? newScrollX - bodyWidth + viewportWidth : newScrollX;
+  newScrollY = (newScrollY < 0) ? bodyHeight + newScrollY : (newScrollY + viewportHeight > bodyHeight) ? newScrollY - bodyHeight + viewportHeight : newScrollY;
 
   window.scrollTo(newScrollX, newScrollY);
   requestAnimationFrame(updateScroll);
