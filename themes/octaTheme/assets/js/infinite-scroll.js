@@ -1,4 +1,37 @@
-const maxSpeed = 10; // Max scrolling speed in pixels
+function isMobileDevice() {
+  return (typeof window.orientation !== "undefined") || (navigator.userAgent.indexOf('IEMobile') !== -1 || window.matchMedia("(max-width: 600px)").matches);
+};
+
+if ( isMobileDevice() ) {
+  console.log('User is using a mobile device');
+  // MOBILE TILT SCROLLING
+  if (window.DeviceOrientationEvent) {
+    window.addEventListener("deviceorientation", function(event) {
+        var tiltLR = event.gamma; // range [-90,90], left-right tilt
+        var tiltFB = event.beta;  // range [-180,180], front-back tilt
+    
+        var sensitivity = 5; // Change this value to adjust the sensitivity to device tilt
+    
+        // Use Math.round to round tilt values to nearest whole number
+        // Multiply by sensitivity factor to speed up or slow down scrolling based on tilt
+        var scrollAmountX = Math.round(tiltLR) * sensitivity;
+        var scrollAmountY = Math.round(tiltFB) * sensitivity;
+    
+        // Adjust the current scroll position based on device tilt
+        window.scrollBy(scrollAmountX, scrollAmountY);
+        console.log(sensitivity);
+    
+    }, true);
+  } else {
+    // The browser doesn't support DeviceOrientationEvent
+    console.log("Sorry, your browser doesn't support Device Orientation events");
+    
+  }
+
+} else {
+  console.log('User is using a desktop');
+
+  const maxSpeed = 10; // Max scrolling speed in pixels
 let mouseX = 0;
 let mouseY = 0;
 
@@ -40,31 +73,12 @@ function updateScroll() {
 setTimeout(() => {
   requestAnimationFrame(updateScroll);
 }, 2000); // Delay the script execution for 2 seconds
-
-
-
-
-
-// MOBILE TILT SCROLLING
-if (window.DeviceOrientationEvent) {
-  window.addEventListener("deviceorientation", function(event) {
-      var tiltLR = event.gamma; // range [-90,90], left-right tilt
-      var tiltFB = event.beta;  // range [-180,180], front-back tilt
-
-      var sensitivity = 5; // Change this value to adjust the sensitivity to device tilt
-
-      // Use Math.round to round tilt values to nearest whole number
-      // Multiply by sensitivity factor to speed up or slow down scrolling based on tilt
-      var scrollAmountX = Math.round(tiltLR) * sensitivity;
-      var scrollAmountY = Math.round(tiltFB) * sensitivity;
-
-      // Adjust the current scroll position based on device tilt
-      window.scrollBy(scrollAmountX, scrollAmountY);
-      console.log(sensitivity);
-
-  }, true);
-} else {
-  // The browser doesn't support DeviceOrientationEvent
-  console.log("Sorry, your browser doesn't support Device Orientation events");
-  
 }
+
+
+
+
+
+
+
+
