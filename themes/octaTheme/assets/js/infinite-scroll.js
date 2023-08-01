@@ -17,26 +17,35 @@ function applyScroll(scrollAmountX, scrollAmountY) {
   window.scrollTo(newScrollX, newScrollY);
 }
 
+function handleOrientation(event) {
+  var beta = event.beta;  // range [-180,180], front-back tilt
+  var gamma = event.gamma; // range [-90,90], left-right tilt
+
+  var sensitivity = 5; // Change this value to adjust the sensitivity to device tilt
+
+  // Constrain and normalize values
+  if (gamma > 90) { gamma = 90; }
+  if (gamma < -90) { gamma = -90; }
+  if (beta > 180) { beta = 180; }
+  if (beta < -180) { beta = -180; }
+
+  gamma += 90;
+  beta += 180;
+
+  var scrollAmountX = Math.round((gamma / 180) * sensitivity);
+  var scrollAmountY = Math.round((beta / 360) * sensitivity);
+
+  applyScroll(scrollAmountX, scrollAmountY);
+}
+
 if ( isMobileDevice() ) {
   console.log('User is using a mobile device');
 
   if (window.DeviceOrientationEvent) {
-    window.addEventListener('deviceorientation', function(event) {
-      var tiltLR = event.gamma; // range [-90,90], left-right tilt
-      var tiltFB = event.beta;  // range [-180,180], front-back tilt
-
-      var sensitivity = 5; // Change this value to adjust the sensitivity to device tilt
-
-      var scrollAmountX = Math.round(tiltLR) * sensitivity;
-      var scrollAmountY = Math.round(tiltFB) * sensitivity;
-
-      applyScroll(scrollAmountX, scrollAmountY);
-
-    }, true);
+    window.addEventListener('deviceorientation', handleOrientation, true);
   } else {
     console.log("Sorry, your browser doesn't support Device Orientation events");
   }
-
 } else {
   console.log('User is using a desktop');
 
