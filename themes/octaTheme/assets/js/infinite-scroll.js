@@ -38,13 +38,23 @@ function handleOrientation(event) {
   applyScroll(scrollAmountX, scrollAmountY);
 }
 
+
 if ( isMobileDevice() ) {
-  console.log('User is using a mobile device');
-
+  alert('mobile');
+  
+  // Check for DeviceOrientationEvent support and request permission if necessary
+  if (typeof DeviceOrientationEvent.requestPermission === 'function') {
+    DeviceOrientationEvent.requestPermission()
+    .then(permissionState => {
+      if (permissionState === 'granted') {
+        window.addEventListener('deviceorientation', handleOrientation, true);
+      }
+    })
+    .catch(console.error);
+  } else {
+    // handle regular non iOS 13+ devices
     window.addEventListener('deviceorientation', handleOrientation, true);
-
-    alert("mobile");
-
+  }
 } else {
   alert("desktop");
 
