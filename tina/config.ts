@@ -24,40 +24,116 @@ export default defineConfig({
         name: "events",
         label: "Events",
         path: "content",
-        fields: [
+        format: "md",
+        ui: {
+          filename: {
+            // if disabled, the editor can not edit the filename
+            readonly: true,
+            // Example of using a custom slugify function
+            slugify: values => {
+              // Values is an object containing all the values of the form. In this case it is {title?: string, topic?: string}
+              return `events/${values?.date?.slice(0,4)}/${values?.date?.slice(5,10)}-${values?.artistName?.toLowerCase().replace(/ /g, '-')}-${values?.title?.toLowerCase().replace(/ /g, '-')}`
+            },
+          },
+        },
+        templates: [
           {
-            name: 'draft',
-            label: 'Draft',
-            type: 'boolean',
-            required: true,
-            description: 'If this is checked the post will not be published',
+            name: 'simple',
+            label: 'Simple Editor',
+            fields: [
+              {
+                type: "string",
+                name: "title",
+                label: "Title",
+                isTitle: true,
+                required: true,
+              },
+              {
+                type: "string",
+                name: "artistName",
+                label: "Name of artist or group",
+                required: true,
+              },
+              {
+                type: "string",
+                name: "location",
+                label: "Location",
+                required: true,
+              },
+              {
+                type: "datetime",
+                name: "date",
+                label: "When do you want to publish your performance?",
+                ui: {
+                  timeFormat: "HH:mm"
+                },
+                required: true,
+              },
+              {
+                type: "string",
+                name: "altDate",
+                label: "Write here if your work takes place in an alternate or different time to the Gregorian calendar time in which it is published",
+                required: false,
+              },
+              {
+                type: "rich-text",
+                name: "body",
+                label: "Body",
+                isBody: true,
+              },
+            ],
           },
           {
-            type: "string",
-            name: "title",
-            label: "Title",
-            isTitle: true,
-            required: true,
+            name: 'advanced',
+            label: 'Advanced Editor',
+            fields: [
+              {
+                type: "string",
+                name: "title",
+                label: "Title",
+                isTitle: true,
+                required: true,
+              },
+              {
+                type: "string",
+                name: "artistName",
+                label: "Name of artist or group",
+                required: true,
+              },
+              {
+                type: "string",
+                name: "location",
+                label: "Location",
+                required: true,
+              },
+              {
+                type: "datetime",
+                name: "date",
+                label: "When do you want to publish your performance?",
+                ui: {
+                  timeFormat: "HH:mm"
+                },
+                required: true,
+              },
+              {
+                type: "string",
+                name: "altDate",
+                label: "Write here if your work takes place in an alternate or different time to the Gregorian calendar time in which it is published",
+                required: false,
+              },
+              {
+                type: "rich-text",
+                name: "body",
+                label: "Body",
+                isBody: true,
+              },
+              {
+                type: "rich-text",
+                name: "css",
+                label: "Add your custom CSS here if you are coding your event in HTML (otherwise, leave blank)",
+              },
+            ],
           },
-          {
-            type: "string",
-            name: "artistName",
-            label: "Name of artist or group",
-            required: true,
-          },
-          {
-            type: "datetime",
-            name: "date",
-            label: "Date",
-            required: true,
-          },
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body",
-            isBody: true,
-          },
-
         ],
       },
     ],

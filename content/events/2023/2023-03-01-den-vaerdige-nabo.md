@@ -3,6 +3,7 @@ draft: false
 title: Den Værdige Nabo
 artistName: Monia Sander
 date: 2023-04-10T23:00:00.000Z
+_template: simple
 ---
 
 <div class="scroll">	

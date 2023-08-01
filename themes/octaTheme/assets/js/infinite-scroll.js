@@ -17,46 +17,15 @@ function applyScroll(scrollAmountX, scrollAmountY) {
   window.scrollTo(newScrollX, newScrollY);
 }
 
-function handleOrientation(event) {
-  var beta = event.beta;  // range [-180,180], front-back tilt
-  var gamma = event.gamma; // range [-90,90], left-right tilt
-
-  var sensitivity = 5; // Change this value to adjust the sensitivity to device tilt
-
-  // Constrain and normalize values
-  if (gamma > 90) { gamma = 90; }
-  if (gamma < -90) { gamma = -90; }
-  if (beta > 180) { beta = 180; }
-  if (beta < -180) { beta = -180; }
-
-  gamma += 90;
-  beta += 180;
-
-  var scrollAmountX = Math.round((gamma / 180) * sensitivity);
-  var scrollAmountY = Math.round((beta / 360) * sensitivity);
-
-  applyScroll(scrollAmountX, scrollAmountY);
-}
-
 
 if ( isMobileDevice() ) {
-  alert('mobile');
+  console.log('mobile');
   
-  // Check for DeviceOrientationEvent support and request permission if necessary
-  if (typeof DeviceOrientationEvent.requestPermission === 'function') {
-    DeviceOrientationEvent.requestPermission()
-    .then(permissionState => {
-      if (permissionState === 'granted') {
-        window.addEventListener('deviceorientation', handleOrientation, true);
-      }
-    })
-    .catch(console.error);
-  } else {
-    // handle regular non iOS 13+ devices
-    window.addEventListener('deviceorientation', handleOrientation, true);
-  }
+// TO-DO
+// Scrolling based on mobile device tilt, beta, gamma.
+
 } else {
-  alert("desktop");
+console.log("desktop")
 
   const maxSpeed = 10; // Max scrolling speed in pixels
   let mouseX = 0;
@@ -72,19 +41,19 @@ if ( isMobileDevice() ) {
     const viewportHeight = window.innerHeight;
     const centerX = viewportWidth / 2;
     const centerY = viewportHeight / 2;
-
+  
     const deltaX = mouseY - centerY; // Inverted scroll direction for X
     const deltaY = mouseX - centerX; // Inverted scroll direction for Y
     const distance = Math.sqrt(deltaX * deltaX + deltaY * deltaY);
-
+  
     const maxDistance = Math.sqrt(centerX * centerX + centerY * centerY);
     const speed = Math.min((distance / maxDistance) * maxSpeed, maxSpeed);
-
+  
     const scrollX = (speed * deltaX) / distance;
     const scrollY = (speed * deltaY) / distance;
-
+  
     applyScroll(scrollY, scrollX);
-
+  
     requestAnimationFrame(updateScroll);
   }
 

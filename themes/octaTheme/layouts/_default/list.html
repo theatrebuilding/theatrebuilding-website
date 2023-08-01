@@ -1,13 +1,14 @@
 {{ define "main" }}
 <div class="grid-container" id="grid-container">
   <div class="octagon-grid" id="octagon-grid">
-    {{ range .Pages }}
+    {{ range where site.RegularPages "Section" "events" }}
     <a href="{{ .Permalink }}">
       <div class="octagon">
         {{ partial "octagon.svg" . }}
         <div class="octagon-content">
           <h2 class="octagon-title">{{ .Title }}</h2>
-          <p class="octagon-date">{{ .Date.Format "January 2, 2006" }}</p>
+          <p>{{ .Params.location }}</p>
+          <p class="octagon-date">{{ if .Params.altDate }} {{ .Params.altDate }} {{else}} {{ .Date.Format "January 2, 2006" }} {{end}}  </p>
         </div>
       </div>
     </a>

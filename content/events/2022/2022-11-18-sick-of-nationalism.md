@@ -2,6 +2,7 @@
 title: Sick of Nationalism
 artistName: Monia Sander
 date: 2023-07-11T23:00:00.000Z
+_template: simple
 ---
 
 <div id="wrapper" class="flex-center">
