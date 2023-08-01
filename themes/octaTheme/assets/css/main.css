@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  @apply bg-white overflow-auto min-w-fit min-h-fit scrollbar-hide;
+  @apply overflow-auto min-w-fit min-h-fit scrollbar-hide;
 }
 
 #load-screen {
