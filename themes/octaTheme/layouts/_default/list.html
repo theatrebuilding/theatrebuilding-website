@@ -2,6 +2,7 @@
 <div class="grid-container" id="grid-container">
   <div class="octagon-grid" id="octagon-grid">
     {{ range .Pages }}
+    <a href="{{ .Permalink }}">
       <div class="octagon">
         {{ partial "octagon.svg" . }}
         <div class="octagon-content">
@@ -9,6 +10,7 @@
           <p class="octagon-date">{{ .Date.Format "January 2, 2006" }}</p>
         </div>
       </div>
+    </a>
     {{ end }}
   </div>
 </div>

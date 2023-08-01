@@ -1,5 +1,7 @@
 ---
 title: Sick of Nationalism
+artistName: Monia Sander
+date: 2023-07-11T23:00:00.000Z
 ---
 
 <div id="wrapper" class="flex-center">
@@ -1303,16 +1305,3 @@ title: Sick of Nationalism
   <!-- din html kode her -->
 
 </div>
-
-<script>
-let sidebar = document.querySelector(".sidebar");
-
-let top = localStorage.getItem("sidebar-scroll");
-if (top !== null) {
-  sidebar.scrollTop = parseInt(top, 10);
-}
-
-window.addEventListener("beforeunload", () => {
-  localStorage.setItem("sidebar-scroll", sidebar.scrollTop);
-});
-</script>

@@ -21,22 +21,23 @@ export default defineConfig({
   schema: {
     collections: [
       {
-        name: "post",
-        label: "Posts",
+        name: "events",
+        label: "Events",
         path: "content",
         fields: [
+          {
+            name: 'draft',
+            label: 'Draft',
+            type: 'boolean',
+            required: true,
+            description: 'If this is checked the post will not be published',
+          },
           {
             type: "string",
             name: "title",
             label: "Title",
             isTitle: true,
             required: true,
-          },
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body",
-            isBody: true,
           },
           {
             type: "string",
@@ -50,6 +51,13 @@ export default defineConfig({
             label: "Date",
             required: true,
           },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+
         ],
       },
     ],

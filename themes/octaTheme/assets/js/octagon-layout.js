@@ -87,7 +87,7 @@ function positionOctagons() {
     octagons.forEach(octagon => {
       const translateValue = `${((layer - 2) * distanceBetweenOctagons)}px`;
       octagon.style.transform = `translate(${translateValue}, ${translateValue})`;
-      console.log(layer-2,translateValue);
+//    console.log(layer-2,translateValue);
     });
 
 const cellDims = (layer * distanceBetweenOctagons) + 10;
