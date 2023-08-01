@@ -41,13 +41,12 @@ function handleOrientation(event) {
 if ( isMobileDevice() ) {
   console.log('User is using a mobile device');
 
-  if (window.DeviceOrientationEvent) {
     window.addEventListener('deviceorientation', handleOrientation, true);
-  } else {
-    console.log("Sorry, your browser doesn't support Device Orientation events");
-  }
+
+    alert("mobile");
+
 } else {
-  console.log('User is using a desktop');
+  alert("desktop");
 
   const maxSpeed = 10; // Max scrolling speed in pixels
   let mouseX = 0;
