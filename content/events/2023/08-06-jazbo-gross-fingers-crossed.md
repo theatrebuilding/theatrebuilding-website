@@ -2,7 +2,7 @@
 title: Fingers Crossed
 artistName: Jazbo Gross
 location: '20 Howie Street, London, UK'
-date: 2023-08-06T11:00:00.000Z
+date: 2023-08-03T11:00:00.000Z
 altDate: 2016 - 2023
 css: >
   @import
