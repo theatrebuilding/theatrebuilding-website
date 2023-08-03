@@ -1,6 +1,55 @@
 {{ define "main" }}
-    <h1>{{ .Title }}</h1>
-    <div>
-        {{ .Content }}
-    </div>
+
+{{ .Content }}
+
+    {{ with .Params._template }}
+
+
+
+        {{ if eq . "advanced" }}
+
+            <div id="css">{{ $.Param "css" }}</div>
+
+        {{ else }}
+
+            <div id="css">using defaul simple style from single.html</div>
+
+        {{ end }}
+
+
+    {{ end }}
+
+    <script async>
+        // Function to grab the text inside the 'css' div and add it to <style> in HEAD
+            function insertCustomStyles() {
+      const cssDiv = document.getElementById('css');
+      const customStyles = document.getElementById('custom-styles');
+
+      if (cssDiv && customStyles) {
+
+        const styleLinks = document.querySelectorAll('link[rel="stylesheet"]');
+        styleLinks.forEach(link => {
+          if (link.href && link.href.endsWith('/css/style.css')) {
+            link.remove(); // Remove the '/css/style.css' link from the DOM
+          }
+        });
+
+        const cssText = cssDiv.innerText;
+        customStyles.innerHTML = `${cssText}`;
+        cssDiv.remove(); // Remove the 'css' div from the DOM
+
+
+      }
+    }
+
+    // Call the function when the DOM is fully loaded
+    document.addEventListener('DOMContentLoaded', insertCustomStyles);
+  </script>
+
 {{ end }}
+
+
+
+
+
+

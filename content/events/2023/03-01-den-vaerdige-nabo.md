@@ -2,8 +2,17 @@
 draft: false
 title: Den Værdige Nabo
 artistName: Monia Sander
-date: 2023-04-10T23:00:00.000Z
-_template: simple
+date: 2023-03-01T00:00:00.000Z
+location: 'Dokk1, Århus'
+css: |
+  div.scroll {
+  position:relative;
+  max-width: 100vw;
+  max-height:100vh;
+  overflow: auto;
+  text-align: justify;
+  }
+_template: advanced
 ---
 
 <div class="scroll">	

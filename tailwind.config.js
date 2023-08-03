@@ -1,7 +1,11 @@
 module.exports = {
   content: ["content/**/*.md", "themes/octaTheme/layouts/**/*.html"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'lora': ['Lora', 'serif'],
+      },
+    },
   },
   plugins: [
     require('tailwind-scrollbar-hide')

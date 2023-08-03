@@ -1,8 +1,93 @@
 ---
 title: Sick of Nationalism
 artistName: Monia Sander
-date: 2023-07-11T23:00:00.000Z
-_template: simple
+date: 2022-11-18T16:00:00.000Z
+location: 'SMK, Copenhagen'
+css: >
+  @import
+  url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua\&family=Lora\&display=swap');
+
+
+  bread {
+
+  min-height: 100vh;
+
+  overflow: scroll;
+
+  font-family: 'Lora', serif;
+
+  font-size: 20px;
+
+
+  }
+
+
+  a:link {
+
+  color: black;
+
+  }
+
+
+  /\* visited link \*/
+
+  a:visited {
+
+  color: black;
+
+  }
+
+
+  /\* mouse over link \*/
+
+  a:hover {
+
+  color: white;
+
+  }
+
+
+  /\* selected link \*/
+
+  a:active {
+
+  color: black;
+
+
+  }
+
+  .vericaltext{
+
+  position:fixed; text-align: right; left: 30%; right:20px; top:50px;
+  font-style: italic;
+
+  }
+
+
+  div.block {
+
+
+  border: none;
+
+
+  max-height: 100vh;
+
+  overflow-y: auto;
+
+  }
+
+  div.block::-webkit-scrollbar {
+
+  display: none;
+
+  }
+
+  ul {
+
+  list-style-type: none;
+
+  }
+_template: advanced
 ---
 
 <div id="wrapper" class="flex-center">

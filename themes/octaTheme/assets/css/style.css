@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap');
+
 /*
 ! tailwindcss v3.3.1 | MIT License | https://tailwindcss.com
 */
@@ -6,14 +8,6 @@
 1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)
 2. Allow adding a border to an element by just adding a border-width. (https://github.com/tailwindcss/tailwindcss/pull/116)
 */
-
-/* CSS media query for a mobile device */
-@media only screen and (max-width: 600px) {
-  body {
-      background-color: lightblue;
-  }
-}
-
 
 *,
 ::before,
@@ -430,7 +424,7 @@ video {
   display: none;
 }
 
-*, ::before, ::after {
+*, ::before, ::after{
   --tw-border-spacing-x: 0;
   --tw-border-spacing-y: 0;
   --tw-translate-x: 0;
@@ -477,7 +471,7 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-::backdrop {
+::backdrop{
   --tw-border-spacing-x: 0;
   --tw-border-spacing-y: 0;
   --tw-translate-x: 0;
@@ -524,69 +518,59 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.container {
+.container{
   width: 100%;
 }
 
-@media (min-width: 640px) {
-  .container {
+@media (min-width: 640px){
+  .container{
     max-width: 640px;
   }
 }
 
-@media (min-width: 768px) {
-  .container {
+@media (min-width: 768px){
+  .container{
     max-width: 768px;
   }
 }
 
-@media (min-width: 1024px) {
-  .container {
+@media (min-width: 1024px){
+  .container{
     max-width: 1024px;
   }
 }
 
-@media (min-width: 1280px) {
-  .container {
+@media (min-width: 1280px){
+  .container{
     max-width: 1280px;
   }
 }
 
-@media (min-width: 1536px) {
-  .container {
+@media (min-width: 1536px){
+  .container{
     max-width: 1536px;
   }
 }
 
-.block {
+.block{
   display: block;
 }
 
-.border {
-  border-width: 1px;
-}
-
-.italic {
-  font-style: italic;
-}
-
-body {
+body{
   min-height: -moz-fit-content;
   min-height: fit-content;
   min-width: -moz-fit-content;
   min-width: fit-content;
   overflow: auto;
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
   -ms-overflow-style: none;
   scrollbar-width: none;
 }
 
-body::-webkit-scrollbar {
+body::-webkit-scrollbar{
   display: none;
 }
 
-#load-screen {
+#load-screen{
   position: fixed;
   top: 0px;
   left: 0px;
@@ -599,7 +583,7 @@ body::-webkit-scrollbar {
   background-color: rgb(0 0 0 / var(--tw-bg-opacity));
 }
 
-#loading-bar {
+#loading-bar{
   height: 20px;
   width: 0%;
   --tw-bg-opacity: 1;
@@ -609,25 +593,25 @@ body::-webkit-scrollbar {
   transition-duration: 100ms;
 }
 
-#octagon-grid {
+#octagon-grid{
   height: 24rem;
   width: 24rem;
 }
 
-.octagon {
+.octagon{
   position: absolute;
   margin: 0.5rem;
   height: 300px;
   width: 300px;
 }
 
-.octagon svg {
+.octagon svg{
   position: absolute;
   height: 100%;
   width: 100%;
 }
 
-.octagon-content {
+.octagon-content{
   display: flex;
   height: 100%;
   width: 100%;
@@ -637,14 +621,16 @@ body::-webkit-scrollbar {
   text-align: center;
 }
 
-.octagon-title {
+.octagon-title{
   padding: 1.25rem;
+  font-family: Lora, serif;
   font-size: 1.25rem;
   line-height: 1.75rem;
   font-weight: 700;
 }
 
-.octagon-date {
+.octagon-info{
+  font-family: Lora, serif;
   font-size: 0.875rem;
   line-height: 1.25rem;
 }

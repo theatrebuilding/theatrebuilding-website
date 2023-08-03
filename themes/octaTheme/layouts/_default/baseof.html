@@ -18,7 +18,7 @@
    
    
     
-
+    {{ if .IsHome }}
 
     {{ if .Site.IsServer }}
     <script src="{{ $combinedJs.RelPermalink }}" integrity="{{ $combinedJs.Data.Integrity }}"></script>
@@ -26,6 +26,8 @@
   <script src="{{ $combinedMinJs.RelPermalink }}" integrity="{{ $combinedMinJs.Data.Integrity }}"></script>
   {{ end }}
 
+
+  {{ end }}
 
 
 </body>

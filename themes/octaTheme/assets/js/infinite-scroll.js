@@ -27,7 +27,7 @@ if ( isMobileDevice() ) {
 } else {
 console.log("desktop")
 
-  const maxSpeed = 10; // Max scrolling speed in pixels
+  const maxSpeed = 2; // Max scrolling speed in pixels
   let mouseX = 0;
   let mouseY = 0;
 
