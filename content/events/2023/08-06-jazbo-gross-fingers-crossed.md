@@ -12,7 +12,7 @@ css: >
 
   .qrCode {margin-top:50px; text-align: center}
 
-  p {font-size: 2vw; font-family: lora, serif;}
+  p {font-size: 2vw; font-family: lora, serif; padding-bottom: 50px;}
 
   span {font-style: italic}
 _template: advanced
