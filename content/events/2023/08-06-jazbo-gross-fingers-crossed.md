@@ -10,7 +10,7 @@ css: >
 
   .wrapper {margin-left: 25vw; margin-right:25vw;}
 
-  .qrCode {margin-top:50px; text-align: center}
+  .qrCode p {margin-top:50px; text-align: center}
 
   p {font-size: 2vw; font-family: lora, serif; padding-bottom: 50px;}
 
