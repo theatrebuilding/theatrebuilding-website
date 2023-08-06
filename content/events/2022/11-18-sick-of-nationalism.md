@@ -95,7 +95,7 @@ _template: advanced
   <div style="position:fixed; right:300px; top:300px">
 
 <audio controls controlsList="nodownload noplaybackrate">
-  <source src="https://naarduikkeerher.dk/sick-of-nationalism.mp3" type="audio/mpeg">
+  <source src="https://ipfs.io/ipfs/QmUCZeLktPQcGzG4qMUbwEf7ZSR6aGGEYH7PGJ8buHyiPi?filename=sick-of-nationalism.mp3" type="audio/mpeg">
 </audio>
 
   </div>
