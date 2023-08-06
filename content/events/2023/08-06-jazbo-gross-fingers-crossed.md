@@ -14,7 +14,10 @@ css: >
 
   p {font-size: 2vw; font-family: lora, serif; padding-bottom: 50px;}
 
+  a { color: blue; text-decoration: underlined;}
+
   span {font-style: italic}
+  @media only screen and (max-width: 800px) { .wrapper {margin-left: 10px; margin-right:10px;} p {font-size: 4vw; font-family: lora, serif; padding-bottom: 50px;} }}
 _template: advanced
 ---
 

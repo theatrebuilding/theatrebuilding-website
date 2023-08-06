@@ -32,7 +32,7 @@ export default defineConfig({
             // Example of using a custom slugify function
             slugify: values => {
               // Values is an object containing all the values of the form. In this case it is {title?: string, topic?: string}
-              return `events/${values?.date?.slice(0,4)}/${values?.date?.slice(5,10)}-${values?.artistName?.toLowerCase().replace(/ /g, '-')}-${values?.title?.toLowerCase().replace(/ /g, '-')}`
+              return `events/${values?.date?.slice(0,4)}/${values?.date?.slice(5,10)}-${values?.location?.toLowerCase().replace(/ /g, '-')}-${values?.artistName?.toLowerCase().replace(/ /g, '-')}-${values?.title?.toLowerCase().replace(/ /g, '-')}`
             },
           },
         },

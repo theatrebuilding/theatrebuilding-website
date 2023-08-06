@@ -556,6 +556,26 @@ video {
   display: block;
 }
 
+.flex{
+  display: flex;
+}
+
+.transform{
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.border{
+  border-width: 1px;
+}
+
+.italic{
+  font-style: italic;
+}
+
+.underline{
+  text-decoration-line: underline;
+}
+
 body{
   min-height: -moz-fit-content;
   min-height: fit-content;
