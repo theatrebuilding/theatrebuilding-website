@@ -19,6 +19,7 @@
     "postcss-cli": "^10.1.0",
     "tailwind": "^4.0.0",
     "tailwind-scrollbar-hide": "^1.1.7",
+    "tina": "^0.3.23",
     "tinacms": "^1.5.13",
     "yaml": "^2.2.2"
   },

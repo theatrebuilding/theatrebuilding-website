@@ -17,15 +17,27 @@ css: >
   a { color: blue; text-decoration: underlined;}
 
   span {font-style: italic}
-  @media only screen and (max-width: 800px) { .wrapper {margin-left: 10px; margin-right:10px;} p {font-size: 4vw; font-family: lora, serif; padding-bottom: 50px;} }}
+
+  .bgOne { position:fixed; top:0; left:0; width:100vw; height:auto; }
+
+  .bgTwo { position:fixed; top:0; left:0; width:100vw }
+
+  @media only screen and (max-width: 800px) { .wrapper {margin-left: 10px;
+  margin-right:10px;} p {font-size: 4vw; font-family: lora, serif;
+  padding-bottom: 50px;} }}
 _template: advanced
 ---
 
 <div class="wrapper">
 
+<div>
+<img class="bgOne" href="/rca-new-battersea-1.svg"></img>
+<img class="bgTwo" href="/rca-new-battersea-2.svg"></img>
+</div>
+
   <div class="qrCode">
 
-![](/QR_Code_1691073832.svg)
+<img href="/qr-code.svg"></img>
 
   </div>
 
