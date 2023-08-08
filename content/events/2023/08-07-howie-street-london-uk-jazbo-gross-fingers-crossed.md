@@ -9,25 +9,27 @@ css: >
   url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700\&display=swap');
 
 
-  .wrapper {margin-left: 25vw; margin-right:25vw;}
+  .wrapper {margin-left: 15vw; margin-right:52vw;}
+
+  .text {margin-bottom:250px; position:relative; z-index:10;}
 
 
-  .qrCode {margin-top:50px; text-align: center}
+  .qrCode {position: fixed; top:25px; right:25px;}
 
 
-  p {font-size: 2vw; font-family: lora, serif; padding-bottom: 50px;}
+  p { font-size: 1.5vw; font-family: lora, serif; padding-bottom: 50px; }
 
 
-  a { color: blue; text-decoration: underline;}
+  a { color: blue; text-decoration: underline; z-index:10;}
 
 
   span {font-style: italic}
 
 
-  .bgOne { position:fixed; top:0; left:0; width:100vw; height:auto; }
+  .bgOne { position:fixed; bottom:0; left:0; width:100vw; z-index:1;}
 
 
-  .bgTwo { position:fixed; top:0; left:0; width:100vw }
+  .bgTwo { position:fixed; bottom:0; left:0; width:100vw; z-index:1;}
 
 
   @media only screen and (max-width: 800px) { .wrapper {margin-left: 10px;
@@ -38,18 +40,18 @@ css: >
 _template: advanced
 ---
 
-<div class="wrapper">
-
-<div>
-<img class="bgOne" href="/rca-new-battersea-1.svg">
-<img class="bgTwo" href="/rca-new-battersea-2.svg">
-</div>
-
   <div class="qrCode">
 
-<img style="width:200px;height:200px;overflow-clip-margin: unset;overflow:unset;" href="https://upload.wikimedia.org/wikipedia/commons/d/df/Goo_%28search_engine%29_logo_2020.svg">
+<img style="text-align:center;" src="https://ipfs.io/ipfs/QmezjnT3U9fFo17QcMJzzK5bKjr2ygd6wb3gHEn19ULDWx?filename=qr-code.svg">
+
 
   </div>
+
+<div class="wrapper">
+
+
+
+
 
   <div class="text">
   <p>
@@ -77,5 +79,10 @@ Det er åndedrættet jeg kan mærke. Det er murene, der gisper. Det er anspændt
   </p>
 
   </div>
+
+  <div>
+<img class="bgOne" src="https://ipfs.io/ipfs/QmPMGpyUZr1yL9qzV6LoH5wd9BUYdyxNjk3dgCS1pZygnC?filename=rca-new-battersea-1.svg">
+<img class="bgTwo" src="https://ipfs.io/ipfs/QmehSdXgRgVGPturisM1pSqrK8woDtVyTUn2pbGPn2SEqL?filename=rca-new-battersea-2.svg">
+</div>
 
 </div>
