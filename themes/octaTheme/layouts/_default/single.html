@@ -29,8 +29,8 @@
 
         const styleLinks = document.querySelectorAll('link[rel="stylesheet"]');
         styleLinks.forEach(link => {
-          if (link.href && link.href.endsWith('/css/style.css')) {
-            link.remove(); // Remove the '/css/style.css' link from the DOM
+          if (link.href) {
+            link.remove();
           }
         });
 
