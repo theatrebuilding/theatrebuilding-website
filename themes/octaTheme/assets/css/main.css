@@ -16,6 +16,10 @@ body {
   @apply bg-cyan-500 h-[20px] w-[0%] transition-all duration-100;
 }
 
+#octaMenu {
+  @apply fixed top-0 left-0 mt-6 ml-6 w-10 h-10;
+}
+
 #octagon-grid {
   @apply w-96 h-96;
 }
@@ -39,3 +43,4 @@ body {
   .octagon-info {
     @apply text-sm font-lora;
   }
+

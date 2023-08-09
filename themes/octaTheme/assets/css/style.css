@@ -570,6 +570,10 @@ video {
   }
 }
 
+.fixed{
+  position: fixed;
+}
+
 .block{
   display: block;
 }
@@ -627,6 +631,16 @@ body::-webkit-scrollbar{
   transition-duration: 100ms;
 }
 
+#octaMenu{
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  margin-top: 1.5rem;
+  margin-left: 1.5rem;
+  height: 2.5rem;
+  width: 2.5rem;
+}
+
 #octagon-grid{
   height: 24rem;
   width: 24rem;
@@ -668,3 +682,4 @@ body::-webkit-scrollbar{
   font-size: 0.875rem;
   line-height: 1.25rem;
 }
+
