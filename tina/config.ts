@@ -29,7 +29,6 @@ export default defineConfig({
           filename: {
             // if disabled, the editor can not edit the filename
             readonly: true,
-            // Example of using a custom slugify function
             slugify: values => {
               // Values is an object containing all the values of the form. In this case it is {title?: string, topic?: string}
               return `events/${values?.date?.slice(0,4)}/${values?.date?.slice(5,10)}-${values?.location?.toLowerCase().replace(/ /g, '-').replace(/[#_,.&!@£*()|^§±œ∑¥]/g, '')}-${values?.artistName?.toLowerCase().replace(/ /g, '-').replace(/[#_,.&!@£*()|^§±œ∑¥]/g, '')}-${values?.title?.toLowerCase().replace(/ /g, '-').replace(/[#_,.&!@£*()|^§±œ∑¥]/g, '')}`
