@@ -9,13 +9,13 @@ export default defineConfig({
   token: "0b794dde3d0446ff7987d6a83edbd9e0849720f0", // Get this from tina.io
 
   build: {
-    outputFolder: "admin",
-    publicFolder: "static",
+    publicFolder: 'public', // The public asset folder for your framework
+    outputFolder: 'admin'  // within the public folder
   },
   media: {
     tina: {
       mediaRoot: "",
-      publicFolder: "static",
+      publicFolder: "uploads",
     },
   },
   schema: {
@@ -23,7 +23,7 @@ export default defineConfig({
       {
         name: "events",
         label: "Events",
-        path: "",
+        path: "content",
         format: "md",
         ui: {
           filename: {
