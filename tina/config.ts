@@ -34,6 +34,26 @@ export default defineConfig({
               return `${values?.date?.slice(0,4)}/${values?.date?.slice(5,10)}-${values?.location?.toLowerCase().replace(/ /g, '-').replace(/[#_,.&!@£*()|^§±œ∑¥]/g, '')}-${values?.artistName?.toLowerCase().replace(/ /g, '-').replace(/[#_,.&!@£*()|^§±œ∑¥]/g, '')}-${values?.title?.toLowerCase().replace(/ /g, '-').replace(/[#_,.&!@£*()|^§±œ∑¥]/g, '')}`
             },
           },
+          beforeSubmit: async ({
+            form,
+            cms,
+            values,
+          }: {
+            form: Form
+            cms: TinaCMS
+            values: Record<string, any>
+          }) => {
+            if (form.crudType === 'create') {
+              return {
+                ...values,
+                createdAt: new Date().toISOString(),
+              }
+            }
+            return {
+              ...values,
+              lastUpdated: new Date().toISOString(),
+            }
+          }
         },
         templates: [
           {
