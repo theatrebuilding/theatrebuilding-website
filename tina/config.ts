@@ -15,7 +15,7 @@ export default defineConfig({
   media: {
     tina: {
       mediaRoot: "",
-      publicFolder: "public",
+      publicFolder: "static/uploads",
     },
   },
   schema: {
@@ -31,7 +31,7 @@ export default defineConfig({
             readonly: true,
             slugify: values => {
               // Values is an object containing all the values of the form. In this case it is {title?: string, topic?: string}
-              return `${values?.date?.slice(0,4)}/${values?.date?.slice(5,10)}-${values?.location?.toLowerCase().replace(/ /g, '-').replace(/[#_,.&!@£*()|^§±œ∑¥]/g, '')}-${values?.artistName?.toLowerCase().replace(/ /g, '-').replace(/[#_,.&!@£*()|^§±œ∑¥]/g, '')}-${values?.title?.toLowerCase().replace(/ /g, '-').replace(/[#_,.&!@£*()|^§±œ∑¥]/g, '')}`
+              return `/${values?.date?.slice(0,4)}/${values?.date?.slice(5,10)}-${values?.location?.toLowerCase().replace(/ /g, '-').replace(/[#_,.&!@£*()|^§±œ∑¥]/g, '')}-${values?.artistName?.toLowerCase().replace(/ /g, '-').replace(/[#_,.&!@£*()|^§±œ∑¥]/g, '')}-${values?.title?.toLowerCase().replace(/ /g, '-').replace(/[#_,.&!@£*()|^§±œ∑¥]/g, '')}`
             },
           },
           beforeSubmit: async ({
