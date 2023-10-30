@@ -15,22 +15,14 @@
     {{ end }}
   </div>
 </div>
-
 {{ $jsFiles := resources.Match "js/*.js" }}
 {{ $combinedMinJs := $jsFiles | resources.Concat "js/combined.min.js" | js.Build (dict "target" "es2015" "minify" true "sourcemaps" false) }}
 {{ $combinedJs := $jsFiles | resources.Concat "js/combined.js" | js.Build (dict "target" "es2015") }}
-
-
-
-{{ if .IsHome }}
-
-{{ if .Site.IsServer }}
-<script src="{{ $combinedJs.RelPermalink }}" integrity="{{ $combinedJs.Data.Integrity }}"></script>
-{{ else }}
-<script src="{{ $combinedMinJs.RelPermalink }}" integrity="{{ $combinedMinJs.Data.Integrity }}"></script>
-{{ end }}
-
-
-{{ end }}
-
+  {{ if .IsHome }}
+    {{ if .Site.IsServer }}
+    <script src="{{ $combinedJs.RelPermalink }}" integrity="{{ $combinedJs.Data.Integrity }}"></script>
+    {{ else }}
+    <script src="{{ $combinedMinJs.RelPermalink }}" integrity="{{ $combinedMinJs.Data.Integrity }}"></script>
+    {{ end }}
+  {{ end }}
 {{ end }}

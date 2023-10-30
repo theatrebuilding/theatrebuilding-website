@@ -1,24 +1,16 @@
 <div id="header-container">
-    {{ if .IsHome }}
-    <div id="octaMenu">
-        <svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="-1 -0.5 102 101">
-            <polygon points="30,0 70,0 100,30 100,70 70,100 30,100 0,70 0,30" fill="white" stroke="black" stroke-width="2"/>
-          </svg>
-    </div>
-    
-    <div id="menu-items">
+{{ if .IsHome }}
 
-        <h2><a href="">what is it?</a></h2>
-        <h2><a href="">our supporters</a></h2>
-        <h2><a href="">contact us</a></h2>
-        
-
-        
-    </div>
-
-</div>
 {{ else }}
-
-
+    
+        <div id="octaMenu" style="  height: 3.5rem; width: 3.5rem; transition: 1s all; display: flex;">
+            <a href="{{ .Site.BaseURL }}">
+            <svg style="width: 100%; height: 100%; transition: 1s all;" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="-1 -0.5 102 101">
+                <polygon points="30,0 70,0 100,30 100,70 70,100 30,100 0,70 0,30" fill="white" stroke="black" stroke-width="2"/>
+            </svg>
+        </a>
+        </div>
+    
 {{ end }}
+</div>
 
