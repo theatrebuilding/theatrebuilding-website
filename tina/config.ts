@@ -23,7 +23,7 @@ export default defineConfig({
       {
         name: "events",
         label: "Events",
-        path: "content",
+        path: "content/events",
         format: "md",
         ui: {
           filename: {
