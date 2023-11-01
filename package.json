@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "hugo-server": "hugo server",
-    "start": " run-p hugo-server",
+    "start": "run-p hugo-server",
     "dev": "tinacms dev -c \"hugo server -D\"",
     "build": "tinacms build && hugo"
   },
