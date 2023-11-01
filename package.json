@@ -5,7 +5,8 @@
     "hugo-server": "hugo server",
     "start": "run-p hugo-server",
     "dev": "tinacms dev -c \"hugo server -D\"",
-    "build": "tinacms build && hugo"
+    "build": "tinacms build && hugo",
+    "build-future": "tinacms build && hugo --buildFuture"
   },
   "keywords": [],
   "author": "",
