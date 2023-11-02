@@ -5,8 +5,8 @@ const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
 
 export default defineConfig({
   branch,
-  clientId: process.env.TINA_CLIENT_ID, // Get this from tina.io
-  token: process.env.TINA_CONTENT, // Get this from tina.io
+  clientId: process.env.TINA_CLIENT_ID, // This is generated on tina.io and updated as environment variable in fleek deploy settings.
+  token: process.env.TINA_CONTENT, // This is generated on tina.io and updated as environment variable in fleek deploy settings.
 
   build: {
     publicFolder: 'public', // The public asset folder for your framework
@@ -159,7 +159,7 @@ export default defineConfig({
   },
   search: {
     tina: {
-      indexerToken: process.env.TINA_SEARCH,
+      indexerToken: process.env.TINA_SEARCH, // This is generated on tina.io and updated as environment variable in fleek deploy settings.
       stopwordLanguages: ['eng']
     },
     indexBatchSize: 100,
