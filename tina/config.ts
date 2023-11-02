@@ -15,7 +15,7 @@ export default defineConfig({
   media: {
     tina: {
       publicFolder: "public",
-      mediaRoot: "uploads",
+      mediaRoot: "themes/octaTheme/static/uploads",
     },
   },
   schema: {
