@@ -2,7 +2,7 @@
 <div class="grid-container" id="grid-container">
   <div class="octagon-grid" id="octagon-grid">
     {{ range where site.RegularPages "Section" "events" }}
-    <a href="{{ .Permalink }}">
+    <a href="{{ .RelPermalink }}">
       <div class="octagon">
         {{ partial "octagon.svg" . }}
         <div class="octagon-content">
