@@ -4,6 +4,13 @@
 
 {{ if eq (getenv "HUGO_ENV") "future" }}
 <meta name="robots" content="noindex, nofollow">
+<script type="text/javascript">
+  var password = prompt('Please enter the password to view this page:', '');
+  if (password !== '123') {
+      alert('you entered the wrong password and will be sent to the public homepage of theatrebuilding instead :)')
+      window.location.href = 'https://theatrebuilding.com'; // Redirect to if the password is wrong
+  }
+</script>
 {{ end }}
 
 
@@ -16,14 +23,6 @@
 {{ end }}
 
 
-
-<script type="text/javascript">
-  var password = prompt('Please enter the password to view this page:', '');
-  if (password !== '123') {
-      alert('you entered the wrong password and will be sent to the public homepage of theatrebuilding instead :)')
-      window.location.href = 'https://theatrebuilding.com'; // Redirect to if the password is wrong
-  }
-</script>
 
 
 
