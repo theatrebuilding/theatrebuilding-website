@@ -2,6 +2,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ .Site.Title }}</title>
 
+{{ if eq (getenv "HUGO_ENV") "future" }}
+<meta name="robots" content="noindex, nofollow">
+{{ end }}
+
 
 {{ $styles := resources.Get "css/main.scss" | toCSS | postCSS (dict "config" "postcss.config.js") }}
 {{ if .Site.IsServer }}
@@ -10,6 +14,16 @@
   {{ $styles := $styles | minify | fingerprint | resources.PostProcess }}
   <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}">
 {{ end }}
+
+
+
+<script type="text/javascript">
+  var password = prompt('Please enter the password to view this page:', '');
+  if (password !== '123') {
+      alert('you entered the wrong password and will be sent to the public homepage of theatrebuilding instead :)')
+      window.location.href = 'https://theatrebuilding.com'; // Redirect to if the password is wrong
+  }
+</script>
 
 
 
