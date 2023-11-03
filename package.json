@@ -7,7 +7,7 @@
     "start": "run-p hugo-server",
     "dev": "tinacms dev -c \"hugo server -D\"",
     "build": "tinacms build && hugo",
-    "build-future": "HUGO_ENV=future tinacms build && npm run hugo-future"
+    "build-future": "tinacms build && npm run hugo-future"
   },
   "keywords": [],
   "author": "",
