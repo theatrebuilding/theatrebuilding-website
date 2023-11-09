@@ -39,11 +39,7 @@ css: |
   left: 0;
   width: 100vw;
   margin-left: 20px;
-
-  ```
   z-index: 2;
-  ```
-
   }
 
   \#container {
@@ -67,7 +63,7 @@ css: |
 
   \#canvas {
   position: fixed;
-  z-index: 3;\
+  z-index: 3;
   pointer-events: none;
   bottom: 0;
   left: 0;
@@ -79,7 +75,7 @@ css: |
 
   \#vimeo-container {
   position: fixed;
-  z-index: 1;\
+  z-index: 1;
   pointer-events: none;
   top: 0;
   left: 0;
