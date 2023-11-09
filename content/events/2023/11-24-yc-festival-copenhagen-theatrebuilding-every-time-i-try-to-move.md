@@ -3,100 +3,43 @@ title: every time I try to move
 artistName: Theatrebuilding
 location: 'YC Festival, Copenhagen'
 date: 2023-11-24T08:00:00.000Z
-css: |
-  \#background {
-  position: fixed;
-  z-index: -1;
-  width: 100%;
-  height: 100%;
-  background: white;
-  transition: all 1s ease;
-  }
+css: >
+  \#background {    position: fixed;    z-index: -1;    width: 100%;    height:
+  100%;    background: white;    transition: all 1s ease;}
 
-  \#welcome-screen {
-  display: flex;
-  position: fixed;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  left: 0;
-  top: 0;
-  height: 100vh;
-  width: 100vw;
-  background-color: white;
-  z-index: 5;
-  }
+  \#welcome-screen {  display: flex;  position: fixed;  flex-direction: column; 
+  align-items: center;  justify-content: center;  left: 0;  top: 0;  height:
+  100vh;  width: 100vw;  background-color: white;  z-index: 5;}
 
-  \#startVideo {
-  margin: 25px;
-  width: 100px;
-  height: 100px;
-  }
+  \#startVideo {  margin: 25px;  width: 100px;  height: 100px;}
 
-  \#text-container {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  margin-left: 20px;
-  z-index: 2;
-  }
+  \#text-container {    position: fixed;    top: 0;    left: 0;    width:
+  100vw;    margin-left: 20px;        z-index: 2;}
 
-  \#container {
-  position: absolute;
-  height: 100vh;
-  overflow-y: scroll;
-  padding-right: 10vw;
+  \#container {    position: absolute;    height: 100vh;    overflow-y:
+  scroll;     padding-right: 10vw;
 
   }
 
-  ul{
-  list-style-type: none;
-  padding: 0px;
-  }
+  ul{    list-style-type: none;    padding: 0px;}
 
-  li {
-  font-size: 4vw;
-  color: black;
-  text-decoration: none;
-  }
+  li {    font-size: 4vw;    color: black;    text-decoration: none;}    #canvas
+  {    position: fixed;    z-index: 3;      pointer-events: none;    bottom:
+  0;    left: 0;    width: 100vw;    height: 100vh;    transform: scaleX(-1);   
+  transition: all 1s ease;}
 
-  \#canvas {
-  position: fixed;
-  z-index: 3;
-  pointer-events: none;
-  bottom: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  transform: scaleX(-1);
-  transition: all 1s ease;
-  }
+  \#vimeo-container {    position: fixed;    z-index: 1;      pointer-events:
+  none;    top: 0;    left: 0;    height: 100vh;    width: auto;    transition:
+  all 1s ease;}
 
-  \#vimeo-container {
-  position: fixed;
-  z-index: 1;
-  pointer-events: none;
-  top: 0;
-  left: 0;
-  height: 100vh;
-  width: auto;
-  transition: all 1s ease;
-  }
+  i {  font-style: italic;}
 
-  i {
-  font-style: italic;
-  }
-
-  html, body {
-  margin: 0;
-  padding: 0;
-  height: 100%;
-  width: 100%;
-  overflow: hidden;
-  }
+  html, body {    margin: 0;    padding: 0;    height: 100%;    width: 100%;   
+  overflow: hidden;}
 _template: advanced
 ---
+
+<script src="https://player.vimeo.com/api/player.js"></script>  
 
 <div id="text-container">
     <div class="block" id="container">
