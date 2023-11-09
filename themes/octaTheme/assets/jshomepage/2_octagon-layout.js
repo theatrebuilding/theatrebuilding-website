@@ -11,8 +11,6 @@ const gridWidthLessThan = windowWidth - gridDimsValue;
 const gridHeightLessThan = windowHeight - gridDimsValue;
 const cellSizeW = gridDimsValue + gridWidthLessThan;
 const cellSizeH = gridDimsValue + gridHeightLessThan;
-//gridContainer.style.gridTemplateColumns = "repeat(3, " + gridDims + ")";
-//gridContainer.style.gridTemplateRows = "repeat(3, " + gridDims + ")";
 
 // Generate random positions for incomplete layers
 function generateRandomPositions(octagonsInLayer) {
@@ -37,7 +35,6 @@ function positionOctagons() {
   let octagonIndex = 0;
   let maxX = 0;
   let maxY = 0;
-  // const elements = [document.querySelector('main'), document.querySelector('body'), document.querySelector('html')];
 
   while (octagonIndex < octagons.length) {
     const octagonsInLayer = layer === 1 ? 1 : 8 * (layer - 1);
@@ -98,22 +95,6 @@ octagonGrid.style.height = cellDims + "px";
 octagonGrid.style.transform = `translate(${canvasMarginW}px,${canvasMarginH}px)`;
 gridContainer.style.width = (canvasMarginW * 2) + cellDims + "px";
 gridContainer.style.height = (canvasMarginH * 2) + cellDims + "px";
-
-
-//    const cellDims = layer * distanceBetweenOctagons + distanceBetweenOctagons;
-//    const gridDims = cellDims * 3;
-//    const windowWidth = window.innerWidth;
-//    const windowHeight = window.innerHeight;
-    
-//    elements.forEach(el => {
-//      setDimensions(
-//        el,
-//        `${Math.max(gridDims, windowWidth) + windowWidth}px`,
-//        `${Math.max(gridDims, windowHeight) + windowHeight - maxY}px`
-//      );
-//    });
-    
-    
   }
   return { maxX, maxY };
 }
@@ -157,14 +138,6 @@ function findCenterOctaAndScroll() {
 }
 
 function setGridDimensions() {
-//  const style = document.createElement("style");
-//  style.textContent = `
-//    #grid-container > div {
-//      min-width: ${cellSizeW}px;
-//      min-height: ${cellSizeH}px;
-//    }`;
-//  document.head.appendChild(style);
-
   const octagonGrid = document.getElementById("grid-container");
   octagonGrid.style.marginLeft = window.innerWidth;
   octagonGrid.style.marginRight = window.innerWidth;

@@ -5,6 +5,30 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>theatrebuilding.com</title>
 
+<script type="text/javascript">
+  
+  function addNoIndexMetaTag() {
+    var meta = document.createElement('meta');
+    meta.name = "robots";
+    meta.content = "noindex, nofollow";
+    document.getElementsByTagName('head')[0].appendChild(meta);
+  }
+
+  
+  if (window.location.href.indexOf("https://future.") === 0) {
+    addNoIndexMetaTag(); 
+    
+    var password = prompt('Please enter the password to view this page:', '');
+    var correctPassword = 'futureperformances!';
+
+    if (password !== correctPassword) {
+        alert('You entered the wrong password and will be redirected to the public version of the page.')
+        window.location.href = 'https://theatrebuilding.com/'; 
+    }
+  }
+</script>
+
+
 
 
 
@@ -14,12 +38,14 @@
 
 
 
+
+
 <style type="text/css" id="custom-styles"></style>
 
 </head>
 <body>
 
-    <div id="header-container" style="background-color: transparent; position: fixed; z-index: 9999;">
+<div id="header-container" style="background-color: transparent; position: fixed; z-index: 9999;">
 
     
         <div id="octaMenu" style="  height: 3.5rem; width: 3.5rem; transition: 1s all; display: flex; background-color: transparent;">
@@ -35,11 +61,12 @@
 
 
 
+<main class="container">
     
-    <main class="container">
-        
 
-<div id="wrapper" class="flex-center">
+
+
+  <div id="wrapper" class="flex-center">
   <div style="position:fixed; right:300px; top:300px">
 <audio controls controlsList="nodownload noplaybackrate">
   <source src="https://naarduikkeerher.dk/sick-of-nationalism.mp3" type="audio/mpeg">
@@ -1325,18 +1352,12 @@
 </ul>
 ```
   </div>
-  <script src="/scrollmemory.js" async></script>
   <!-- din html kode her -->
 </div>
 
-
-    
-
-
-
-        
-
-            <div id="css">@import url(&#39;https://fonts.googleapis.com/css2?family=Inknut&#43;Antiqua\&amp;family=Lora\&amp;display=swap&#39;);
+      
+          
+              <div id="css">@import url(&#39;https://fonts.googleapis.com/css2?family=Inknut&#43;Antiqua\&amp;family=Lora\&amp;display=swap&#39;);
 
 bread {
 min-height: 100vh;
@@ -1383,51 +1404,21 @@ ul {
 list-style-type: none;
 }
 </div>
+          
+      
+  
 
+</main>
+
+
+
+
+    
+    
+    
         
-
-
-    
-
-    <script async>
+            <script src="/js/combined.min.js" integrity=""></script>
         
-            function insertCustomStyles() {
-      const cssDiv = document.getElementById('css');
-      const customStyles = document.getElementById('custom-styles');
-
-      if (cssDiv && customStyles) {
-
-        const styleLinks = document.querySelectorAll('link[rel="stylesheet"]');
-        styleLinks.forEach(link => {
-          if (link.href) {
-            link.remove();
-          }
-        });
-
-        const cssText = cssDiv.innerText;
-        customStyles.innerHTML = `${cssText}`;
-        cssDiv.remove(); 
-
-
-      }
-    }
-
-    
-    document.addEventListener('DOMContentLoaded', insertCustomStyles);
-  </script>
-
-
-    </main>
-    
-
-    
-    
-    
-    
-    
-
-
-
 
 
 </body>

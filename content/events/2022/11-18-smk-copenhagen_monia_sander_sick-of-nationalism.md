@@ -1387,7 +1387,7 @@ _template: advanced
 
   </div>
 
-  <script src="/scrollmemory.js" async></script>
+
 
   <!-- din html kode her -->
 

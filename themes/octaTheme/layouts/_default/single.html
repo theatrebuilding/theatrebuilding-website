@@ -1,54 +1,29 @@
 {{ define "main" }}
-
-{{ .Content }}
-
-    {{ with .Params._template }}
-
-
-
-        {{ if eq . "advanced" }}
-
-            <div id="css">{{ $.Param "css" }}</div>
-
-        {{ else }}
-
-            <div id="css">using defaul simple style from single.html</div>
-
-        {{ end }}
-
-
-    {{ end }}
-
-    <script async>
-        // Function to grab the text inside the 'css' div and add it to <style> in HEAD
-            function insertCustomStyles() {
-      const cssDiv = document.getElementById('css');
-      const customStyles = document.getElementById('custom-styles');
-
-      if (cssDiv && customStyles) {
-
-        const styleLinks = document.querySelectorAll('link[rel="stylesheet"]');
-        styleLinks.forEach(link => {
-          if (link.href) {
-            link.remove();
-          }
-        });
-
-        const cssText = cssDiv.innerText;
-const cleanCssText = cssText.replace(/\\/g, ''); // This will remove all backslashes
-customStyles.innerHTML = `${cleanCssText}`;
-cssDiv.remove(); // Remove the 'css' div from the DOM
-
-
-      }
-    }
-
-    // Call the function when the DOM is fully loaded
-    document.addEventListener('DOMContentLoaded', insertCustomStyles);
-  </script>
-
+{{ $now := now }}
+{{ $postDate := .Date }}
+{{ if gt $postDate $now }}
+  {{ $diff := $postDate.Sub $now }}
+  <div style="@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap'); font-family: Lora, serif; text-align: center; font-size: 24px; display: flex; width: 100vw; height: 100vh; align-items: center; justify-content: center; flex-direction: column;">
+    <div><h2>The digital performance</h2></div>
+    <div style="font-size: 36px; font-weight: 700;"><h1>{{ .Title }}</h1></div>
+    <div><h2>will go live in</h2></div>
+    <div>
+      <h2 id="countdown" data-seconds="{{ $postDate }}">
+      <!-- The countdown timer will be injected here by countdown.js -->
+    </h2>
+  </div>
+  </div>
+{{ else }}
+  {{ .Content }}
+      {{ with .Params._template }}
+          {{ if eq . "advanced" }}
+              <div id="css">{{ $.Param "css" }}</div>
+          {{ else }}
+              <div id="css">using defaul simple style from single.html</div>
+          {{ end }}
+      {{ end }}
+  {{ end }}
 {{ end }}
-
 
 
 

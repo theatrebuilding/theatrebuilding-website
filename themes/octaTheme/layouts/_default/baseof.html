@@ -5,30 +5,34 @@
 </head>
 <body>
 
-    {{ partial "header.html" . }}
+{{ partial "header.html" . }}
 
-    
-    <main class="container">
-        {{ block "main" . }}{{ end }}
-    </main>
-    {{ if .IsHome }}
-    {{ partial "footer.html" . }}
-    {{ end }}
+<main class="container">
+    {{ block "main" . }}{{ end }}
+</main>
 
-    
-    
-    
-    
-    
-{{ $jsFiles := resources.Match "js/*.js" }}
-{{ $combinedMinJs := $jsFiles | resources.Concat "js/combined.min.js" | js.Build (dict "target" "es2015" "minify" true "sourcemaps" false) }}
-{{ $combinedJs := $jsFiles | resources.Concat "js/combined.js" | js.Build (dict "target" "es2015") }}
 {{ if .IsHome }}
-{{ if .Site.IsServer }}
-<script src="{{ $combinedJs.RelPermalink }}" integrity="{{ $combinedJs.Data.Integrity }}"></script>
-{{ else }}
-<script src="{{ $combinedMinJs.RelPermalink }}" integrity="{{ $combinedMinJs.Data.Integrity }}"></script>
+    {{ partial "footer.html" . }}
 {{ end }}
+
+{{ if .IsHome }}
+    {{ $jsFiles := resources.Match "jshomepage/*.js" }}
+    {{ $combinedMinJs := $jsFiles | resources.Concat "js/combined.min.js" | js.Build (dict "target" "es2015" "minify" true "sourcemaps" false) }}
+    {{ $combinedJs := $jsFiles | resources.Concat "js/combinedHome.js" | js.Build (dict "target" "es2015") }}
+        {{ if .Site.IsServer }}
+            <script src="{{ $combinedJs.RelPermalink }}"></script>
+        {{ else }}
+            <script src="{{ $combinedMinJs.RelPermalink }}" integrity="{{ $combinedMinJs.Data.Integrity }}"></script>
+        {{ end }}
+{{ else }}
+    {{ $jsFiles := resources.Match "jsnode/*.js" }}
+    {{ $combinedMinJs := $jsFiles | resources.Concat "js/combined.min.js" | js.Build (dict "target" "es2015" "minify" true "sourcemaps" false) }}
+    {{ $combinedJs := $jsFiles | resources.Concat "js/combinedNode.js" | js.Build (dict "target" "es2015") }}
+        {{ if .Site.IsServer }}
+            <script src="{{ $combinedJs.RelPermalink }}"></script>
+        {{ else }}
+            <script src="{{ $combinedMinJs.RelPermalink }}" integrity="{{ $combinedMinJs.Data.Integrity }}"></script>
+        {{ end }}
 {{ end }}
 
 </body>

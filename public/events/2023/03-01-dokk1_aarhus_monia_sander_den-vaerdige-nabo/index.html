@@ -5,6 +5,30 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>theatrebuilding.com</title>
 
+<script type="text/javascript">
+  
+  function addNoIndexMetaTag() {
+    var meta = document.createElement('meta');
+    meta.name = "robots";
+    meta.content = "noindex, nofollow";
+    document.getElementsByTagName('head')[0].appendChild(meta);
+  }
+
+  
+  if (window.location.href.indexOf("https://future.") === 0) {
+    addNoIndexMetaTag(); 
+    
+    var password = prompt('Please enter the password to view this page:', '');
+    var correctPassword = 'futureperformances!';
+
+    if (password !== correctPassword) {
+        alert('You entered the wrong password and will be redirected to the public version of the page.')
+        window.location.href = 'https://theatrebuilding.com/'; 
+    }
+  }
+</script>
+
+
 
 
 
@@ -14,12 +38,14 @@
 
 
 
+
+
 <style type="text/css" id="custom-styles"></style>
 
 </head>
 <body>
 
-    <div id="header-container" style="background-color: transparent; position: fixed; z-index: 9999;">
+<div id="header-container" style="background-color: transparent; position: fixed; z-index: 9999;">
 
     
         <div id="octaMenu" style="  height: 3.5rem; width: 3.5rem; transition: 1s all; display: flex; background-color: transparent;">
@@ -35,11 +61,12 @@
 
 
 
+<main class="container">
     
-    <main class="container">
-        
 
-<div class="scroll">	
+
+
+  <div class="scroll">	
 <p><audio style="position:fixed; right:10%; top:5%" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/dvn1.mp3" type="audio/mpeg"></audio></p>
 <p><audio style="position:fixed; right:30%; top:15%" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/dvn2.mp3" type="audio/mpeg"></audio></p>
 <p><audio style="position:fixed; right:10%; top:25%" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/dvn3.mp3" type="audio/mpeg"></audio></p>
@@ -51,14 +78,9 @@
 <p><audio style="position:fixed; left:10%; top:85%" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/dvn9.mp3" type="audio/mpeg"></audio></p>
 </div>
 
-
-    
-
-
-
-        
-
-            <div id="css">div.scroll {
+      
+          
+              <div id="css">div.scroll {
 position:relative;
 max-width: 100vw;
 max-height:100vh;
@@ -66,51 +88,21 @@ overflow: auto;
 text-align: justify;
 }
 </div>
+          
+      
+  
 
+</main>
+
+
+
+
+    
+    
+    
         
-
-
-    
-
-    <script async>
+            <script src="/js/combined.min.js" integrity=""></script>
         
-            function insertCustomStyles() {
-      const cssDiv = document.getElementById('css');
-      const customStyles = document.getElementById('custom-styles');
-
-      if (cssDiv && customStyles) {
-
-        const styleLinks = document.querySelectorAll('link[rel="stylesheet"]');
-        styleLinks.forEach(link => {
-          if (link.href) {
-            link.remove();
-          }
-        });
-
-        const cssText = cssDiv.innerText;
-        customStyles.innerHTML = `${cssText}`;
-        cssDiv.remove(); 
-
-
-      }
-    }
-
-    
-    document.addEventListener('DOMContentLoaded', insertCustomStyles);
-  </script>
-
-
-    </main>
-    
-
-    
-    
-    
-    
-    
-
-
-
 
 
 </body>

@@ -5,6 +5,30 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>theatrebuilding.com</title>
 
+<script type="text/javascript">
+  
+  function addNoIndexMetaTag() {
+    var meta = document.createElement('meta');
+    meta.name = "robots";
+    meta.content = "noindex, nofollow";
+    document.getElementsByTagName('head')[0].appendChild(meta);
+  }
+
+  
+  if (window.location.href.indexOf("https://future.") === 0) {
+    addNoIndexMetaTag(); 
+    
+    var password = prompt('Please enter the password to view this page:', '');
+    var correctPassword = 'futureperformances!';
+
+    if (password !== correctPassword) {
+        alert('You entered the wrong password and will be redirected to the public version of the page.')
+        window.location.href = 'https://theatrebuilding.com/'; 
+    }
+  }
+</script>
+
+
 
 
 
@@ -14,12 +38,14 @@
 
 
 
+
+
 <style type="text/css" id="custom-styles"></style>
 
 </head>
 <body>
 
-    <div id="header-container" style="background-color: transparent; position: fixed; z-index: 9999;">
+<div id="header-container" style="background-color: transparent; position: fixed; z-index: 9999;">
 
     
         <div id="octaMenu" style="  height: 3.5rem; width: 3.5rem; transition: 1s all; display: flex; background-color: transparent;">
@@ -35,13 +61,12 @@
 
 
 
+<main class="container">
     
-    <main class="container">
-        
 <div class="grid-container" id="grid-container">
   <div class="octagon-grid" id="octagon-grid">
     
-    <a href="https://theatrebuilding.com/events/2023/08-07-howie-street-london-uk-jazbo-gross-fingers-crossed/">
+    <a href="/events/2023/08-07-howie-street-london-uk-jazbo-gross-fingers-crossed/">
       <div class="octagon">
         <svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="-1 -0.5 102 101">
   <polygon points="30,0 70,0 100,30 100,70 70,100 30,100 0,70 0,30" fill="none" stroke="black" stroke-width="1"/>
@@ -50,12 +75,20 @@
         <div class="octagon-content">
           <h2 class="octagon-title">Fingers Crossed</h2>
           <p class="octagon-info">Howie Street, London, UK</p>
-          <p class="octagon-info"> 2017-2023   </p>
+          
+          
+          
+              <p class="octagon-info">
+               
+                2017-2023 
+              
+            
+                                  
         </div>
       </div>
     </a>
     
-    <a href="https://theatrebuilding.com/events/2023/03-01-dokk1_aarhus_monia_sander_den-vaerdige-nabo/">
+    <a href="/events/2023/03-01-dokk1_aarhus_monia_sander_den-vaerdige-nabo/">
       <div class="octagon">
         <svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="-1 -0.5 102 101">
   <polygon points="30,0 70,0 100,30 100,70 70,100 30,100 0,70 0,30" fill="none" stroke="black" stroke-width="1"/>
@@ -64,12 +97,21 @@
         <div class="octagon-content">
           <h2 class="octagon-title">Den værdige nabo</h2>
           <p class="octagon-info">Dokk1, Århus</p>
-          <p class="octagon-info"> March 1, 2023   </p>
+          
+          
+          
+              <p class="octagon-info">
+               
+                March 1, 2023 
+              </p>
+              
+            
+                                  
         </div>
       </div>
     </a>
     
-    <a href="https://theatrebuilding.com/events/2022/11-18-smk-copenhagen_monia_sander_sick-of-nationalism/">
+    <a href="/events/2022/11-18-smk-copenhagen_monia_sander_sick-of-nationalism/">
       <div class="octagon">
         <svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="-1 -0.5 102 101">
   <polygon points="30,0 70,0 100,30 100,70 70,100 30,100 0,70 0,30" fill="none" stroke="black" stroke-width="1"/>
@@ -78,7 +120,16 @@
         <div class="octagon-content">
           <h2 class="octagon-title">Sick of Nationalism</h2>
           <p class="octagon-info">SMK, Copenhagen</p>
-          <p class="octagon-info"> November 18, 2022   </p>
+          
+          
+          
+              <p class="octagon-info">
+               
+                November 18, 2022 
+              </p>
+              
+            
+                                  
         </div>
       </div>
     </a>
@@ -87,20 +138,17 @@
 </div>
 
 
-
-  
-
-    </main>
-    
-
-    
-    
-    
-    
-    
+</main>
 
 
 
+
+    
+    
+    
+        
+            <script src="/js/combined.min.js" integrity=""></script>
+        
 
 
 </body>

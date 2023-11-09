@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "scripts": {
     "hugo-server": "hugo server",
-    "hugo-future": "hugo -F",
+    "hugo-draft": "hugo -F -D",
+    "hugo-public": "hugo -F",
     "start": "run-p hugo-server",
-    "dev": "tinacms dev -c \"hugo server --buildFuture -D\"",
-    "build": "tinacms build && hugo",
-    "build-future": "tinacms build && npm run hugo-future"
+    "dev": "tinacms dev -c \"hugo server -F -D \"",
+    "build": "tinacms build && hugo-public",
+    "build-future": "tinacms build && npm run hugo-draft"
   },
   "keywords": [],
   "author": "",
