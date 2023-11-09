@@ -8,7 +8,23 @@
         <div class="octagon-content">
           <h2 class="octagon-title">{{ .Title }}</h2>
           <p class="octagon-info">{{ .Params.location }}</p>
-          <p class="octagon-info">{{ if .Params.altDate }} {{ .Params.altDate }} {{else}} {{ .Date.Format "January 2, 2006" }} {{end}}  </p>
+          {{ $now := now }}
+          {{ $postDate := .Date }}
+          {{ if gt $postDate $now }}
+            {{ $diff := $postDate.Sub $now }}
+            <p class="octagon-info" id="countdown" data-seconds="{{ $diff.Seconds }}">
+              <!-- The countdown timer will be injected here by JavaScript -->
+            </p>
+            {{ else }}
+              <p class="octagon-info">
+              {{ if .Params.altDate }} 
+                {{ .Params.altDate }} 
+              {{else}} 
+                {{ .Date.Format "January 2, 2006" }} 
+              </p>
+              {{end}}
+            
+          {{ end }}                        
         </div>
       </div>
     </a>

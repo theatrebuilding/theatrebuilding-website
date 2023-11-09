@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Fingers Crossed
 artistName: Jazbo Gross
 location: 'Howie Street, London, UK'

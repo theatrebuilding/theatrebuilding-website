@@ -5,7 +5,7 @@
     "hugo-server": "hugo server",
     "hugo-future": "hugo -F",
     "start": "run-p hugo-server",
-    "dev": "tinacms dev -c \"hugo server -D\"",
+    "dev": "tinacms dev -c \"hugo server --buildFuture -D\"",
     "build": "tinacms build && hugo",
     "build-future": "tinacms build && npm run hugo-future"
   },

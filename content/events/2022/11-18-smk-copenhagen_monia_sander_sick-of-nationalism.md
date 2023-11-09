@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Sick of Nationalism
 artistName: Monia Sander
 date: 2022-11-18T16:00:00.000Z
