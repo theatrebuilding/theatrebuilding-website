@@ -35,8 +35,9 @@
         });
 
         const cssText = cssDiv.innerText;
-        customStyles.innerHTML = `${cssText}`;
-        cssDiv.remove(); // Remove the 'css' div from the DOM
+const cleanCssText = cssText.replace(/\\/g, ''); // This will remove all backslashes
+customStyles.innerHTML = `${cleanCssText}`;
+cssDiv.remove(); // Remove the 'css' div from the DOM
 
 
       }
