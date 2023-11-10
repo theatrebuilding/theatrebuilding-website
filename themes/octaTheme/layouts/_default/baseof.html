@@ -3,7 +3,7 @@
 <head>
     {{ partial "head.html" . }}
 </head>
-<body style="margin: unset; padding: unset; display: unset;">
+<body {{ if .IsHome }} {{ else }} style="margin: unset; padding: unset; display: unset;" {{ end }}>
 
 {{ partial "header.html" . }}
 

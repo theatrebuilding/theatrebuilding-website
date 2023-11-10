@@ -12,10 +12,12 @@ css: >
 
   .wrapper {margin-left: 15vw; margin-right:52vw;}
 
-  .text {margin-bottom:250px; position:relative; z-index:10;}
+  .text {margin-bottom:25vh; position:relative; z-index:10;}
 
 
   .qrCode {position: fixed; top:25px; right:25px;}
+
+  .qrCode>img {width: 150px; height: 150px;}
 
 
   p { font-size: 1.5vw; font-family: lora, serif; padding-bottom: 50px; }
@@ -33,11 +35,14 @@ css: >
   .bgTwo { position:fixed; bottom:0; left:0; width:100vw; z-index:1;}
 
 
-  @media only screen and (max-width: 800px) { .wrapper {margin-left: 10px;
-
-  margin-right:10px;} p {font-size: 4vw; font-family: lora, serif;
-
-  padding-bottom: 50px;} }}
+  @media only screen and (max-width: 800px) { 
+    .wrapper {margin-left: 10px; margin-right:10px;} 
+    p {font-size: 4vw; font-family: lora, serif; padding-bottom: 50px;} 
+    .qrCode>img {width: 100px; height: 100px;}
+    .text {margin-top:150px;}
+    .bgOne { width:unset; height:100vh;}
+    .bgTwo { width:unset; height:100vh;}
+  }
 _template: advanced
 ---
 
