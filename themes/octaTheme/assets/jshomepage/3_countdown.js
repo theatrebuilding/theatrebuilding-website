@@ -1,9 +1,3 @@
-if ( isMobileDevice() ) {
-
-
-
-} else {
-
 function startCountdown() {
   document.addEventListener('DOMContentLoaded', () => {
     const countdownElements = document.querySelectorAll('.forthcoming');
@@ -64,6 +58,6 @@ function startCountdown() {
 
 startCountdown();
 
-}
+
 
 
