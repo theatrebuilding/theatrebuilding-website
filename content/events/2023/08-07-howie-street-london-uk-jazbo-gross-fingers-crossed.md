@@ -48,7 +48,7 @@ _template: advanced
 
   <div class="qrCode">
 
-<img style="text-align:center;" src="https://ipfs.io/ipfs/QmezjnT3U9fFo17QcMJzzK5bKjr2ygd6wb3gHEn19ULDWx?filename=qr-code.svg">
+<img style="text-align:center;" src="https://fingers-crossed.netlify.app/fingers-crossed-qr.svg">
 
 
   </div>
@@ -81,7 +81,7 @@ Det er åndedrættet jeg kan mærke. Det er murene, der gisper. Det er anspændt
   </p>
 
   <p>
-  I den bygning jeg står i nu er der vinduer. Ideen om udsyn er kommet med i designet. Men nogle af vinduerne har mursten foran. Det er en del af konceptet. Man kan ikke se noget ud af vinduet. Kun lyset, der kommer ind gennem sprækkerne mellem de forskudte sten. Her, fra det indendørs perspektiv, kan jeg pludselig se muren, og jeg kan forstå hvad det var den fik mig til at føle, da jeg stod på den anden side af den. Vi har observeret systemet, men kun set på tallene. Vi har tænkt over mangfoldigheder, men kun set på det enkelte i lys af kombinationerne, og måske kun siddet i tårnet for andres skyld. Stående ovationer til Sankt Barbara. Det rene fantasi. Det er, hvad der kommer fra de vinduesløse tårne. Og en væmmelse ved <a href="https://www.theatrebuilding.com/events/fingerscrossed.html">virkeligheden</a>.
+  I den bygning jeg står i nu er der vinduer. Ideen om udsyn er kommet med i designet. Men nogle af vinduerne har mursten foran. Det er en del af konceptet. Man kan ikke se noget ud af vinduet. Kun lyset, der kommer ind gennem sprækkerne mellem de forskudte sten. Her, fra det indendørs perspektiv, kan jeg pludselig se muren, og jeg kan forstå hvad det var den fik mig til at føle, da jeg stod på den anden side af den. Vi har observeret systemet, men kun set på tallene. Vi har tænkt over mangfoldigheder, men kun set på det enkelte i lys af kombinationerne, og måske kun siddet i tårnet for andres skyld. Stående ovationer til Sankt Barbara. Det rene fantasi. Det er, hvad der kommer fra de vinduesløse tårne. Og en væmmelse ved <a href="https://fingers-crossed.netlify.app/">virkeligheden</a>.
   </p>
 
   </div>
