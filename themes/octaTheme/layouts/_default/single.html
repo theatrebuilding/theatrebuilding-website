@@ -6,8 +6,9 @@
   <div style="@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap'); font-family: Lora, serif; text-align: center; font-size: 24px; display: flex; width: 100vw; height: 100vh; align-items: center; justify-content: center; flex-direction: column;">
     <div><h2>The digital performance</h2></div>
     <div style="font-size: 36px; font-weight: 700;"><h1>{{ .Title }}</h1></div>
-    <div><h2>will go live in</h2></div>
-    <div>
+    <div><h2>{{ .Date.Format "January 2, 2006" }}</h2></div>
+    <div style="padding-top: 25px; font-size: 18px;"><h2>will go live in</h2></div>
+    <div style="font-size: 18px;">
       <h2 id="countdown" data-seconds="{{ $postDate }}">
       <!-- The countdown timer will be injected here by countdown.js -->
     </h2>

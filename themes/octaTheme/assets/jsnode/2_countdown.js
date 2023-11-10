@@ -3,12 +3,14 @@ function startCountdown() {
     const countdownElement = document.getElementById('countdown');
     if (countdownElement) {
       // Assume the attribute is an ISO 8601 date string
-      const postDate = new Date(countdownElement.getAttribute('data-seconds'));
+      const dateAttribute = countdownElement.getAttribute('data-seconds');
+      const isoDate = dateAttribute.replace(' ', 'T').replace(' +0000 UTC', 'Z');
+      const dateObj = new Date(isoDate);
       let timerId;
 
       function updateCountdown() {
         const now = new Date();
-        let timeLeft = (postDate - now) / 1000; // convert milliseconds to seconds
+        let timeLeft = (dateObj - now) / 1000; // convert milliseconds to seconds
 
         if (timeLeft <= 0) {
           clearInterval(timerId);

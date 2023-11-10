@@ -10,8 +10,10 @@
           <p class="octagon-info">{{ .Params.location }}</p>
           {{ $now := now }}
           {{ $postDate := .Date }}
+          {{ $formattedDate := .Date.Format "January 2, 2006" }}
           {{ if gt $postDate $now }}
             {{ $diff := $postDate.Sub $now }}
+            <p class="octagon-info">{{ $formattedDate }}</p>
             <p class="octagon-info forthcoming" id="countdown" data-seconds="{{ $postDate }}">
               <!-- The countdown timer will be injected here by countdown.js -->
             </p>

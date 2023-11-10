@@ -19,14 +19,11 @@ function applyScroll(scrollAmountX, scrollAmountY) {
 
 
 if ( isMobileDevice() ) {
-  console.log('mobile');
   
 // TO-DO
 // Scrolling based on mobile device tilt, beta, gamma.
 
 } else {
-console.log("desktop")
-
   const maxSpeed = 2; // Max scrolling speed in pixels
   let mouseX = 0;
   let mouseY = 0;
