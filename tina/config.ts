@@ -61,6 +61,11 @@ export default defineConfig({
             label: 'Simple Editor',
             fields: [
               {
+                type: "boolean",
+                name: "draft",
+                label: "Draft",
+              },
+              {
                 type: "string",
                 name: "title",
                 label: "Title",
@@ -106,6 +111,11 @@ export default defineConfig({
             name: 'advanced',
             label: 'Advanced Editor',
             fields: [
+              {
+                type: "boolean",
+                name: "draft",
+                label: "Draft",
+              },
               {
                 type: "string",
                 name: "title",
