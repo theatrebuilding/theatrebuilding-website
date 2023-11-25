@@ -315,7 +315,7 @@ elements.vimeoPlayer = new Vimeo.Player(elements.vimeoContainer, VIMEO_OPTIONS);
 // elements.vimeoPlayerTwo = new Vimeo.Player(elements.vimeoContainerTwo, VIMEO_LIVE_OPTIONS);
 
 function isMobileDevice() {
-  const isMatchMediaMobile = window.matchMedia("(max-width: 768px)").matches;
+  const isMatchMediaMobile = window.matchMedia("(max-width: 1000px)").matches;
   const isUserAgentMobile = /Mobi|Android/i.test(navigator.userAgent);
   
   return isMatchMediaMobile || isUserAgentMobile;
