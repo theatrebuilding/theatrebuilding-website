@@ -14,9 +14,9 @@ function insertCustomStyles() {
 
     // Get the CSS text, remove backslashes, and add it to customStyles
     const cssText = cssDiv.innerText;
-    const cleanCssText = cssText.replace(/\\/g, ''); // This removes all backslashes that Tina seems to be adding into the CSS styles.
+    const cleanCssText = cssText.replace(/[\\`]/g, ''); // This removes all backslashes and backticks that Tina seems to be adding into the CSS styles.
     customStyles.innerHTML = cleanCssText;
-
+    
     // Remove the 'css' div from the DOM
     cssDiv.remove();
   }
