@@ -3,8 +3,139 @@ draft: false
 title: every time I try to move
 artistName: Theatrebuilding
 location: 'YC Festival, Copenhagen-Hammamet'
-date: 2023-11-25T07:00:00.000Z
-css: "\\#background {\nposition: fixed;\nz-index: -1;\nwidth: 100%;\nheight: 100%;\nbackground: white;\ntransition: all 1s ease;\n}\n\n\\#welcome-screen {\ndisplay: flex;\nposition: fixed;\nflex-direction: column;\nalign-items: center;\njustify-content: center;\nleft: 0;\ntop: 0;\nheight: 100vh;\nwidth: 100vw;\nbackground-color: white;\nz-index: 5;\n}\n\n\\#startVideo {\nmargin: 25px;\nwidth: 100px;\nheight: 100px;\n}\n\n\\#text-container {\nposition: fixed;\ntop: 0;\nleft: 0;\nwidth: 100vw;\nmargin-left: 20px;\n\n```\nz-index: 2;\n```\n\n}\n\n\\#container {\nposition: absolute;\nheight: 100vh;\noverflow-y: scroll;\npadding-right: 10vw;\n\n}\n\nul{\nlist-style-type: none;\npadding: 0px;\n}\n\nli {\nfont-size: 4vw;\ncolor: black;\ntext-decoration: none;\n}\n\n\\#canvas {\nposition: fixed;\nz-index: 3;\\\npointer-events: none;\nbottom: 0;\nleft: 0;\nwidth: 100vw;\nheight: 100vh;\ntransform: scaleX(-1);\ntransition: all 1s ease;\n}\n\n\\#vimeo-container {\nposition: fixed;\nz-index: 1;\\\npointer-events: none;\ntop: 0;\nleft: 0;\nheight: 100vh;\nwidth: auto;\ntransition: all 1s ease;\n}\n\ni {\nfont-style: italic;\n}\n\nhtml, body {\nmargin: 0;\npadding: 0;\nheight: 100%;\nwidth: 100%;\noverflow: hidden;\n}\n\n```\n\t  /* unvisited link */\n```\n\na:link {\ncolor: black;\ntext-decoration: none;\n}\n\n/\\* visited link \\*/\na:visited {\ncolor: black;\ntext-decoration: none;\n}\n\n/\\* mouse over link \\*/\na:hover {\ncolor: white;\ntext-decoration: none;\n}\n\n/\\* selected link \\*/\na:active {\ncolor: black;\ntext-decoration: none;\n\n}\n\\#welcomeText{\nfont-size: 28px;\nfont-style: italic;\nmargin-left: 10vw;\nmargin-right: 10vw;\nmargin-top: 25px;\nmargin-bottom: 25px;\n}\n\n\\#enterPerformance {\nwidth: 150px;\nheight: 100px;\nfont-size: 18px;\n}\n"
+date: 2023-11-25T12:00:00.000Z
+css: |
+  \#background {
+  position: fixed;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  background: white;
+  transition: all 1s ease;
+  }
+
+  \#welcome-screen {
+  display: flex;
+  position: fixed;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  left: 0;
+  top: 0;
+  height: 100vh;
+  width: 100vw;
+  background-color: white;
+  z-index: 5;
+  overflow-y: scroll;
+  }
+
+  \#startVideo {
+  margin: 25px;
+  width: 100px;
+  height: 100px;
+  }
+
+  \#text-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  margin-left: 20px;
+
+  ```
+  z-index: 2;
+  ```
+
+  }
+
+  \#container {
+  position: absolute;
+  height: 100vh;
+  overflow-y: scroll;
+  padding-right: 10vw;
+
+  }
+
+  ul{
+  list-style-type: none;
+  padding: 0px;
+  }
+
+  li {
+  font-size: 4vw;
+  color: black;
+  text-decoration: none;
+  }
+
+  \#canvas {
+  position: fixed;
+  z-index: 3;\
+  pointer-events: none;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  transform: scaleX(-1);
+  transition: all 1s ease;
+  }
+
+  \#vimeo-container {
+  position: fixed;
+  z-index: 1;\
+  pointer-events: none;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: auto;
+  transition: all 1s ease;
+  }
+
+  i {
+  font-style: italic;
+  }
+
+  html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  }
+
+  a:link {
+  color: black;
+  text-decoration: none;
+  }
+
+  a:visited {
+  color: black;
+  text-decoration: none;
+  }
+
+  a:hover {
+  color: white;
+  text-decoration: none;
+  }
+
+  a:active {
+  color: black;
+  text-decoration: none;
+
+  }
+  \#welcomeText{
+  font-size: 24px;
+  font-style: italic;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  }
+
+  \#enterPerformance {
+  width: 150px;
+  height: 100px;
+  font-size: 18px;
+  }
 _template: advanced
 ---
 
@@ -22,9 +153,10 @@ _template: advanced
             <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>being</p></li>
             <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>breathing</p></li>
             <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>moving</p></li>
-            <li><p><i>the <a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor</a> takes a seat. as if they were seated on a warm stone in the early autumn sun, they place their body in a relaxed position, feet apart, arms resting in their lap, relaxed shoulders and face muscles. the <a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor</a> takes a deep breath in and while they slowly exhale, they turn their head to the right.</i></p></li>
+            <li><p><i>the <a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor</a> takes a seat. as if they were sitting on a warm stone in the sun, they find a relaxed position, feet apart, arms resting, relaxed shoulders and face muscles. the <a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor</a> takes a deep breath in and while they slowly exhale, they turn their head to the left. then another breath in and while they exhale slowly, they turn their head to the right. as they keep breathing, they look straight ahead and leaves the chair.</i></p></li>
             <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>everytime I try to move</p></li>
             <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>I lose track of my destination</p></li>
+            <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>feet touching the ground</p></li>
             <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>I lose track of where I came from</p></li>
             <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>ruined</p></li>
             <li><p class="highlighted"><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>my body keeps moving</p></li>
@@ -41,6 +173,7 @@ _template: advanced
             <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>now is not the time</p></li> 
     	      <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>to give up</p></li> 
 	          <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>on your loved ones</p></li>
+	          <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>feet touching the ground</p></li>
             <li><p class="highlighted"><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>moving through time</p></li>
             <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>I am a fragment</p></li>
             <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>of a</p></li>
@@ -63,8 +196,6 @@ _template: advanced
             <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>your skin is</p></li>
             <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>reaching</p></li>
             <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>I</p></li>
-            <li><p><i>the <a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor</a> takes a seat. as if they were seated on a warm stone in the early autumn sun, they place their body in a relaxed position, feet apart, arms resting in their lap, relaxed shoulders and face muscles. the <a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor</a> takes a deep breath in and while they slowly exhale, they look straight ahead.</i></p></li>
-            <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>do I end where my voice ends?</p></li>
             <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>rewriting</p></li>
 	          <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>future</p></li>
 	          <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>memories</p></li>
@@ -89,7 +220,8 @@ _template: advanced
             <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>do you end in me?</p></li>
             <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>do I end in you?</p></li>
             <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>embrace a random object</p></li>
-            <li><p><i>the <a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor</a> takes a seat. as if they were seated on a warm stone in the early autumn sun, they place their body in a relaxed position, feet apart, arms resting in their lap, relaxed shoulders and face muscles. the <a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor</a> takes a deep breath in and while they slowly exhale, they turn their head to the left.</i></p></li>
+            <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>do I end where my feet touch the ground?</p></li>
+            <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>do I end where my hands begin?</p></li>
             <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>do I end where my voice ends?</p></li>
             <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>do I begin where my voice ends?</p></li>
             <li><p><a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactor: </a>do you begin in me?</p></li>
