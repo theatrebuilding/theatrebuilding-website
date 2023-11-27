@@ -259,8 +259,9 @@ const SELECTORS = {
     WELCOME_TEXT: '#welcomeText',
 };
 
-const VIMEO_ID = '878938745';
-const VIMEO_LIVE_ID = '3907577';
+const VIMEO_ID = '888626633';
+const VIMEO_LIVE_ID = '888109267';
+const TIME_FOR_DARK = 30; // this is the minute of every hour where the screen will go dark and highlight the script sentences with the "highlighted" ID
 const UPDATE_INTERVAL = 2000; // 2 seconds
 const INITIAL_RANDOM_NUMBER = 50;
 const timeBetweenHighlighted = 30000;
@@ -272,14 +273,7 @@ const VIMEO_OPTIONS = {
     autoplay: true,
     muted: true
 };
-const VIMEO_LIVE_OPTIONS = {
-    id: VIMEO_LIVE_ID,
-    height: window.innerHeight,
-    loop: true,
-    controls: false,
-    autoplay: true,
-    muted: true
-};
+
 
 let domSize = { height: window.innerHeight, width: window.innerWidth };
 let state = {
@@ -302,8 +296,8 @@ const elements = {
     background: document.querySelector(SELECTORS.BACKGROUND),
     script: document.querySelector(SELECTORS.SCRIPT),
     video: document.createElement('video'),
-    vimeoPlayer: null, // Initialized later
-    vimeoPlayerTwo: null // Initialized later
+    vimeoPlayer: null, // Initialized below
+
 };
 
 // Initialize styles
@@ -312,7 +306,7 @@ elements.canvas.style.display = 'block';
 elements.video.autoplay = true;
 elements.video.muted = true;
 elements.vimeoPlayer = new Vimeo.Player(elements.vimeoContainer, VIMEO_OPTIONS);
-// elements.vimeoPlayerTwo = new Vimeo.Player(elements.vimeoContainerTwo, VIMEO_LIVE_OPTIONS);
+
 
 function isMobileDevice() {
   const isMatchMediaMobile = window.matchMedia("(max-width: 1000px)").matches;
@@ -330,10 +324,6 @@ document.getElementById(SELECTORS.CONTAINER.slice(1)).addEventListener('scroll',
 
 function hideRadioLiveStream() {
   document.addEventListener( "DOMContentLoaded", function() {
-    // const liveStreamScript = document.createElement('script');
-    // const source = liveStreamScript.src = '//myradiostream.com/embed/theatrebuilding';
-    // elements.welcomeScreen.appendChild(liveStreamScript);
-    // console.log('COMEEEEE OOOOOONNNNNN');
     elements.myRadioStream.style.display = 'none';
   });
 }
@@ -345,11 +335,11 @@ function setupVimeoPlayer() {
 
 function setupVimeoPlayerTwo() {
   elements.vimeoContainerTwo.style.position = 'fixed';
-elements.vimeoContainerTwo.style.right = '0';
-elements.vimeoContainerTwo.style.top = '0';
-elements.vimeoContainerTwo.style.height = window.innerHeight + 'px';
-// Adjust the width as needed to maintain aspect ratio
-elements.vimeoContainerTwo.style.width = '56.25vh'; // This is an example value for a 16:9 aspect ratio
+  elements.vimeoContainerTwo.style.right = '0';
+  elements.vimeoContainerTwo.style.top = '0';
+  elements.vimeoContainerTwo.style.height = window.innerHeight + 'px';
+  // Adjust the width to maintain aspect ratio
+  elements.vimeoContainerTwo.style.width = '56.25vh'; // This is 16:9
 
 }
 
@@ -506,12 +496,7 @@ const showVimeo = (x) => {
 
 const showVimeoLive = () => {
   elements.vimeoContainerTwo.innerHTML = `
-  <div style="height:100%; width:100%; position:relative;">
-    <iframe src="https://vimeo.com/event/3907577/embed" frameborder="0" 
-            allow="autoplay; fullscreen; picture-in-picture" 
-            style="position:absolute;top:0;left:0;width:100%;height:100%;background:white;">
-    </iframe>
-  </div>`;
+  <div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/888109267?badge=0&amp;autopause=0&amp;quality_selector=0&amp;player_id=0&amp;app_id=58479&amp;muted=0&amp;controls=0&amp;loop=1&amp;autoplay=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="every time I try to move"></iframe></div>`;
   setupVimeoPlayerTwo();
     }
 
@@ -608,7 +593,7 @@ infinityScroll();
 showVimeo(120);
 showFace(260);
 hideVideos(5);
-turnOffLights(30);
+turnOffLights(TIME_FOR_DARK);
 hideRadioLiveStream();
 
 } else {
@@ -618,7 +603,7 @@ showVimeo(60);
 showVimeoLive();
 showFace(160);
 hideVideos(5);
-turnOffLights(8);
+turnOffLights(TIME_FOR_DARK);
 changeWelcomeText();
  }
 
