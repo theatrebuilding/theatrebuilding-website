@@ -157,10 +157,9 @@ export default defineConfig({
                 isBody: true,
               },
               {
-                type: 'string',
+                type: 'rich-text',
                 name: "css",
                 label: "Add your custom CSS here if you are coding your event in HTML (otherwise, leave blank)",
-                ui: { component: 'textarea' },
               },
             ],
           },
