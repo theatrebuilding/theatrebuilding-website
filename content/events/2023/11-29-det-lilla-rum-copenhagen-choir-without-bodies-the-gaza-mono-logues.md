@@ -3,7 +3,7 @@ title: The Gaza Mono-Logues
 artistName: Choir Without Bodies
 location: 'Det lilla rum, Copenhagen'
 date: 2023-11-29T14:20:00.000Z
-css: "body\_{\n\_\_background-color:\_black;\n}\n"
+css: ''
 _template: advanced
 ---
 
