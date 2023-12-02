@@ -2,7 +2,7 @@
 title: The Gaza Mono-Logues
 artistName: anyone
 location: anywhere
-date: 2023-12-29T23:40:00.000Z
+date: 2023-11-29T23:40:00.000Z
 _template: simple
 ---
 
