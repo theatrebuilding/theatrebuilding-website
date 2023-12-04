@@ -44,7 +44,10 @@ document.addEventListener('DOMContentLoaded', function() {
             curtain.style.width = document.documentElement.clientWidth + 'px';  
             arrowBtn.style.display = 'none';
             document.getElementById('join-console-text').style.display = 'none';  
-            document.getElementById('welcome-text').style.display = 'none';
+            document.getElementById('inner-curtain').style.height = document.documentElement.clientHeight - 100 + 'px';
+            setTimeout(function() {
+                document.getElementById('welcome-text').style.display = 'none';
+              }, 1000); // 1-second delay
             curtain.style.position = 'fixed';
         } else {
             curtain.style.top = -windowHeight + 25 + 'px';
@@ -81,27 +84,31 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function updateCurtainPositionMobile() {
-            if(!interacted) {
-                setInitialPosition();
-            } else {
-                return;
-            }
-
-        burgerMenu.onclick = burgerMenu.ontouchend = function() {
+        if (!interacted) {
+            setInitialPosition();
+        } else {
+            return;
+        }
+    
+        const welcomeText = document.getElementById('welcome-text');
+    
+        function handleBurgerMenuClick() {
             if (!interacted) {
-                console.log('burger clicked');
+           //     console.log('burger clicked');
                 interacted = true;
                 setTransition();
-                document.getElementById('welcome-text').style.display = 'block';
+                welcomeText.style.display = 'block';
                 curtain.style.top = '0';
             } else {
                 setInitialPosition();
                 interacted = false;
             }
-
-            
-        };
+        }
+    
+        burgerMenu.addEventListener('click', handleBurgerMenuClick);
+        burgerMenu.addEventListener('touchend', handleBurgerMenuClick);
     }
+    
 
     function curtainPeek() {
         const windowHeight = document.documentElement.clientHeight;
