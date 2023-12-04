@@ -51,6 +51,7 @@ document.addEventListener('DOMContentLoaded', function() {
             curtain.style.position = 'fixed';
         } else {
             curtain.style.top = -windowHeight + 25 + 'px';
+            document.getElementById('inner-curtain').style.height = document.documentElement.clientHeight - 100 + 'px';
             burgerMenu.style.display = 'none';
             arrowBtn.style.display = 'block';
         }  
