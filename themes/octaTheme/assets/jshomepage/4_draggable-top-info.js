@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
             document.getElementById('join-console-text').style.display = 'none';  
             document.getElementById('inner-curtain').style.height = document.documentElement.clientHeight - 100 + 'px';
             setTimeout(function() {
-                document.getElementById('welcome-text').style.display = 'none';
+                document.getElementById('inner-curtain').style.display = 'none';
               }, 1000); // 1-second delay
             curtain.style.position = 'fixed';
         } else {
@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
             return;
         }
     
-        const welcomeText = document.getElementById('welcome-text');
+        const welcomeText = document.getElementById('inner-curtain');
     
         function handleBurgerMenuClick() {
             if (!interacted) {
