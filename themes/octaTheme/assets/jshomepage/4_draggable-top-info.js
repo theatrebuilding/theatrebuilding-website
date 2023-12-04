@@ -3,6 +3,18 @@ document.addEventListener('DOMContentLoaded', function() {
     const footer = document.getElementById('footer');
     let startY, startTop;
     let interacted = false;
+
+    function shuffleStatements() {
+        const statements = document.getElementsByClassName('curtain-statement');
+        const statementsArray = Array.from(statements);
+            for (let i = statementsArray.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [statementsArray[i], statementsArray[j]] = [statementsArray[j], statementsArray[i]];
+            }
+        const parent = statementsArray[0].parentNode;
+        parent.textContent = '';
+        statementsArray.forEach(statement => parent.appendChild(statement));
+    }
     
     function updateCurtainPosition() {
         const windowHeight = document.documentElement.clientHeight;
@@ -65,6 +77,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     window.onresize = resize; // Update position on resize
     updateCurtainPosition(); // Initial setup
+    shuffleStatements();
 
     
 });
