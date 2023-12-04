@@ -1,85 +1,131 @@
 document.addEventListener('DOMContentLoaded', function() {
     const curtain = document.getElementById('curtain');
     const footer = document.getElementById('footer');
-    let startY, startTop;
-    let interacted = false;
+    const arrowBtn = document.getElementById('footer-arrow');
+    const burgerMenu = document.getElementById('burger-menu');
+    let startY, startTop, interacted = false;
 
     function shuffleStatements() {
         const statements = document.getElementsByClassName('curtain-statement');
         const statementsArray = Array.from(statements);
-            for (let i = statementsArray.length - 1; i > 0; i--) {
-                const j = Math.floor(Math.random() * (i + 1));
-                [statementsArray[i], statementsArray[j]] = [statementsArray[j], statementsArray[i]];
-            }
+        for (let i = statementsArray.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [statementsArray[i], statementsArray[j]] = [statementsArray[j], statementsArray[i]];
+        }
         const parent = statementsArray[0].parentNode;
         parent.textContent = '';
         statementsArray.forEach(statement => parent.appendChild(statement));
     }
-    
-    function updateCurtainPosition() {
-        const windowHeight = document.documentElement.clientHeight;
-        const maxTop = windowHeight - 25 - curtain.offsetHeight; // Maximum 'top' value
-        const initialTop = -windowHeight + 25; // Initial off-screen position
 
-        curtain.style.top = initialTop + 'px'; // Set initial position
-        
+    function setTransition(duration = '1s') {
+        curtain.style.transition = `top ease ${duration}`;
+    }
+
+    function resetTransition() {
+        curtain.style.transition = 'unset';
+    }
+
+    function resizeCurtain() {
+        curtain.style.transition = 'top ease 1s';
+        if (isMobileDevice()) {
+            updateCurtainPositionMobile();
+        } else {
+            updateCurtainPositionDesktop();
+        }
+        setTimeout(function() {
+            curtain.style.transition = 'unset';
+          }, 1000); // 1-second delay
+    }  
+
+    function setInitialPosition() {
+        const windowHeight = document.documentElement.clientHeight;
+        if(isMobileDevice()) {
+            curtain.style.top = -windowHeight + 100 + 'px';
+            curtain.style.width = document.documentElement.clientWidth + 'px';  
+            arrowBtn.style.display = 'none';
+            document.getElementById('join-console-text').style.display = 'none';  
+            document.getElementById('welcome-text').style.display = 'none';
+            curtain.style.position = 'fixed';
+        } else {
+            curtain.style.top = -windowHeight + 25 + 'px';
+            burgerMenu.style.display = 'none';
+            arrowBtn.style.display = 'block';
+        }  
+    }
+
+    function updateCurtainPositionDesktop() {
+        setInitialPosition();
 
         footer.onmousedown = footer.ontouchstart = function(e) {
             interacted = true;
             startY = (e.touches ? e.touches[0].clientY : e.clientY);
             startTop = parseInt(window.getComputedStyle(curtain).top, 10);
-            document.onmousemove = document.ontouchmove = onMove;
-            document.onmouseup = document.ontouchend = onEnd;
+
+            document.onmousemove = document.ontouchmove = function(e) {
+                e.preventDefault();
+                let clientY = e.touches ? e.touches[0].clientY : e.clientY;
+                let newPos = startTop + clientY - startY;
+
+                const windowHeight = document.documentElement.clientHeight;
+                const maxTop = windowHeight - 25 - curtain.offsetHeight;
+                if (newPos >= -windowHeight + 25 && newPos <= maxTop) {
+                    curtain.style.top = newPos + 'px';
+                }
+            };
+
+            document.onmouseup = document.ontouchend = function() {
+                document.onmousemove = document.ontouchmove = null;
+                document.onmouseup = document.ontouchend = null;
+            };
         };
+    }
 
-        function onMove(e) {
-            e.preventDefault();
-            let clientY = e.touches ? e.touches[0].clientY : e.clientY;
-            let newPos = startTop + clientY - startY;
-
-            // Restrict curtain movement within the visible viewport
-            if (newPos >= initialTop && newPos <= maxTop) {
-                curtain.style.top = newPos + 'px';
+    function updateCurtainPositionMobile() {
+            if(!interacted) {
+                setInitialPosition();
+            } else {
+                return;
             }
-        }
 
-        function onEnd() {
-            document.onmousemove = document.ontouchmove = null;
-            document.onmouseup = document.ontouchend = null;
-        }
+        burgerMenu.onclick = burgerMenu.ontouchend = function() {
+            if (!interacted) {
+                console.log('burger clicked');
+                interacted = true;
+                setTransition();
+                document.getElementById('welcome-text').style.display = 'block';
+                curtain.style.top = '0';
+            } else {
+                setInitialPosition();
+                interacted = false;
+            }
+
+            
+        };
     }
 
     function curtainPeek() {
+        const windowHeight = document.documentElement.clientHeight;
         if(!interacted) {
-            curtain.style.transition = 'top ease 1s';
+            setTransition();
             curtain.style.top = -windowHeight + 100 + 'px';
-    
+
             setTimeout(function() {
                 curtain.style.top = -windowHeight + 25 + 'px';
-                setTimeout(function() {
-                    curtain.style.transition = 'unset';
-                  }, 1000); // 1-second delay
-              }, 1000); // 1-second delay
+                setTimeout(resetTransition, 1000); // 1-second delay
+            }, 1000); // 1-second delay
         }
-      }
+    }
 
-    function resize() {
-        curtain.style.transition = 'top ease 1s';
-        updateCurtainPosition();
-        setTimeout(function() {
-            curtain.style.transition = 'unset';
-          }, 1000); // 1-second delay
-    }  
-      
 
-      setTimeout(curtainPeek, 5000);
-      setInterval(curtainPeek, 30000);
-
-    window.onresize = resize; // Update position on resize
-    updateCurtainPosition(); // Initial setup
-    shuffleStatements();
-
-    
+    if (isMobileDevice()) {
+        shuffleStatements();
+        updateCurtainPositionMobile();
+        window.onresize = setInitialPosition;
+    } else {
+        window.onresize = resizeCurtain;
+        updateCurtainPositionDesktop();
+        shuffleStatements();
+        setTimeout(curtainPeek, 5000);
+        setInterval(curtainPeek, 30000);
+    }
 });
-
-

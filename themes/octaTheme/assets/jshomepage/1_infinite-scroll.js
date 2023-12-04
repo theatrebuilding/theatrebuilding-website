@@ -1,5 +1,5 @@
 function isMobileDevice() {
-  return (typeof window.orientation !== "undefined") || (navigator.userAgent.indexOf('IEMobile') !== -1 || window.matchMedia("(max-width: 600px)").matches);
+  return (typeof window.orientation !== "undefined") || (navigator.userAgent.indexOf('IEMobile') !== -1 || window.matchMedia("(max-width: 760px)").matches);
 }
 
 function applyScroll(scrollAmountX, scrollAmountY) {
