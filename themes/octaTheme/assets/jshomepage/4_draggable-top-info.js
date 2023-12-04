@@ -50,12 +50,20 @@ document.addEventListener('DOMContentLoaded', function() {
               }, 1000); // 1-second delay
         }
       }
+
+    function resize() {
+        curtain.style.transition = 'top ease 1s';
+        updateCurtainPosition();
+        setTimeout(function() {
+            curtain.style.transition = 'unset';
+          }, 1000); // 1-second delay
+    }  
       
 
       setTimeout(curtainPeek, 5000);
-      setInterval(curtainPeek, 15000);
+      setInterval(curtainPeek, 30000);
 
-    window.onresize = updateCurtainPosition; // Update position on resize
+    window.onresize = resize; // Update position on resize
     updateCurtainPosition(); // Initial setup
 
     
