@@ -7,6 +7,8 @@ altDate: now
 _template: simple
 ---
 
+The Gaza Mono-Logues: [https://www.gazamonologues.com/copy-of-team](https://www.gazamonologues.com/copy-of-team)
+
 Forwarded from Ashtar theatre in Ramallah:
 
 Dear global Community,
@@ -62,6 +64,4 @@ ASHTAR Theatre Team
 [#ashtartheatre](https://www.instagram.com/explore/tags/ashtartheatre/)
 [#gaza](https://www.instagram.com/explore/tags/gaza/)
 
-[https://www.gazamonologues.com/copy-of-team](https://www.gazamonologues.com/copy-of-team)
-
-[https://www.globalgiving.org/projects/traumareleasepalestine/](https://www.globalgiving.org/projects/traumareleasepalestine/)
+Donate to Ashtar theatres psycho-social work: [https://www.globalgiving.org/projects/traumareleasepalestine/](https://www.globalgiving.org/projects/traumareleasepalestine/)
