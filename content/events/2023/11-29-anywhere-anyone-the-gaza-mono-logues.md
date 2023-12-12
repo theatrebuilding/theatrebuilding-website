@@ -64,4 +64,4 @@ ASHTAR Theatre Team
 [#ashtartheatre](https://www.instagram.com/explore/tags/ashtartheatre/)
 [#gaza](https://www.instagram.com/explore/tags/gaza/)
 
-Donate to Ashtar theatres psycho-social work: [https://www.globalgiving.org/projects/traumareleasepalestine/](https://www.globalgiving.org/projects/traumareleasepalestine/)
+Donate to Ashtar theatre's psycho-social work: [https://www.globalgiving.org/projects/traumareleasepalestine/](https://www.globalgiving.org/projects/traumareleasepalestine/)
