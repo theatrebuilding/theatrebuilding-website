@@ -1,4 +1,5 @@
 ---
+draft: true
 title: The Gaza Mono-Logues
 artistName: Choir Across Bodies
 location: 'Det lilla rum, Copenhagen'
