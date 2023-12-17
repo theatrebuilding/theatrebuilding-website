@@ -50,14 +50,16 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Function to set the initial position of the curtain based on device type
     function setInitialPosition() {
-        const windowHeight = document.documentElement.clientHeight;
+        const curtainHeight = curtain.clientHeight;
+        console.log(curtainHeight);
         if(isMobileDevice()) {
 
             // Mobile-specific positioning and element style adjustments
-            curtain.style.top = -windowHeight + 100 + 'px';
+            curtain.style.top = -curtainHeight + 'px';
             arrowBtn.style.display = 'none';
             document.getElementById('join-console-text').style.display = 'none';  
             document.getElementById('inner-curtain').style.height = document.documentElement.clientHeight - 100 + 'px';
+            curtain.style.top = -curtainHeight + 100 + 'px';
             setTimeout(function() {
                 document.getElementById('inner-curtain').style.display = 'none';
               }, 1000); // 1-second delay
@@ -65,7 +67,7 @@ document.addEventListener('DOMContentLoaded', function() {
         } else {
             
             // Desktop-specific positioning and element style adjustments
-            curtain.style.top = -windowHeight + 25 + 'px';
+            curtain.style.top = -curtainHeight + 25 + 'px';
             document.getElementById('inner-curtain').style.height = document.documentElement.clientHeight - 100 + 'px';
             burgerMenu.style.display = 'none';
             arrowBtn.style.display = 'block';
