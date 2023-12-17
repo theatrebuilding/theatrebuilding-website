@@ -95,13 +95,15 @@ document.addEventListener('DOMContentLoaded', function() {
     
         function handleBurgerMenuClick() {
             if (!interacted) {
-           //     console.log('burger clicked');
-                interacted = true;
                 setTransition();
                 welcomeText.style.display = 'block';
                 curtain.style.top = '0';
+                setTimeout(resetTransition, 1000); // 1-second delay
+                interacted = true;
             } else {
+                setTransition();
                 setInitialPosition();
+                setTimeout(resetTransition, 1000); // 1-second delay
                 interacted = false;
             }
         }
