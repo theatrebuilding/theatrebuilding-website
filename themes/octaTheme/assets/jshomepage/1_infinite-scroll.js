@@ -2,22 +2,6 @@ function isMobileDevice() {
   return (typeof window.orientation !== "undefined") || (navigator.userAgent.indexOf('IEMobile') !== -1 || window.matchMedia("(max-width: 760px)").matches);
 }
 
-function applyScroll(scrollAmountX, scrollAmountY) {
-  let newScrollX = window.scrollX + scrollAmountX;
-  let newScrollY = window.scrollY + scrollAmountY;
-
-  const viewportWidth = window.innerWidth;
-  const viewportHeight = window.innerHeight;
-  const bodyWidth = document.body.scrollWidth;
-  const bodyHeight = document.body.scrollHeight;
-
-  newScrollX = (newScrollX < 0) ? bodyWidth + newScrollX : (newScrollX + viewportWidth > bodyWidth) ? newScrollX - bodyWidth + viewportWidth : newScrollX;
-  newScrollY = (newScrollY < 0) ? bodyHeight + newScrollY : (newScrollY + viewportHeight > bodyHeight) ? newScrollY - bodyHeight + viewportHeight : newScrollY;
-
-  window.scrollTo(newScrollX, newScrollY);
-}
-
-
 if ( isMobileDevice() ) {
   
 // TO-DO
@@ -28,10 +12,20 @@ if ( isMobileDevice() ) {
   let mouseX = 0;
   let mouseY = 0;
 
-  document.addEventListener('mousemove', (event) => {
-    mouseX = event.clientX;
-    mouseY = event.clientY;
-  });
+  function applyScroll(scrollAmountX, scrollAmountY) {
+    let newScrollX = window.scrollX + scrollAmountX;
+    let newScrollY = window.scrollY + scrollAmountY;
+  
+    const viewportWidth = window.innerWidth;
+    const viewportHeight = window.innerHeight;
+    const bodyWidth = document.body.scrollWidth;
+    const bodyHeight = document.body.scrollHeight;
+  
+    newScrollX = (newScrollX < 0) ? bodyWidth + newScrollX : (newScrollX + viewportWidth > bodyWidth) ? newScrollX - bodyWidth + viewportWidth : newScrollX;
+    newScrollY = (newScrollY < 0) ? bodyHeight + newScrollY : (newScrollY + viewportHeight > bodyHeight) ? newScrollY - bodyHeight + viewportHeight : newScrollY;
+  
+    window.scrollTo(newScrollX, newScrollY);
+  }
 
   function updateScroll() {
     const viewportWidth = window.innerWidth;
@@ -53,6 +47,11 @@ if ( isMobileDevice() ) {
   
     requestAnimationFrame(updateScroll);
   }
+
+  document.addEventListener('mousemove', (event) => {
+    mouseX = event.clientX;
+    mouseY = event.clientY;
+  });
 
   setTimeout(() => {
     requestAnimationFrame(updateScroll);

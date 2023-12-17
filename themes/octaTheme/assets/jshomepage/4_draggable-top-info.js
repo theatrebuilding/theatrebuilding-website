@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const windowHeight = document.documentElement.clientHeight;
         if(isMobileDevice()) {
             curtain.style.top = -windowHeight + 100 + 'px';
-            curtain.style.width = document.documentElement.clientWidth + 'px';  
+         //   curtain.style.width = document.documentElement.clientWidth + 'px';  
             arrowBtn.style.display = 'none';
             document.getElementById('join-console-text').style.display = 'none';  
             document.getElementById('inner-curtain').style.height = document.documentElement.clientHeight - 100 + 'px';
@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     
         burgerMenu.addEventListener('click', handleBurgerMenuClick);
-        burgerMenu.addEventListener('touchend', handleBurgerMenuClick);
+      //  burgerMenu.addEventListener('touchend', handleBurgerMenuClick);
     }
     
 

@@ -5,17 +5,6 @@
 </head>
 <body {{ if .IsHome }} {{ else }} style="margin: unset; padding: unset; display: unset;" {{ end }}>
 
-{{ if .IsHome }}
-<div id="curtain" class="draggable-curtain">
-    <div id="inner-curtain">
-        <div id="welcome-text">
-            {{ partial "curtain-text.html" . }}
-        </div>
-    </div>
-    {{ partial "footer.html" . }}
-</div>
-{{ end }}
-
 {{ partial "header.html" . }}
 
 <main class="container">

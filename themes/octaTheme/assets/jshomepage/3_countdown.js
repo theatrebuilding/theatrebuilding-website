@@ -7,14 +7,12 @@ function startCountdown() {
       const isoDate = dateAttribute.replace(' ', 'T').replace(' +0000 UTC', 'Z');
       const dateObj = new Date(isoDate);
       let timerId;
-      //console.log(dateObj);
-      //console.log(postDate);
+
 
       function updateCountdown() {
         const now = new Date();
         const timeLeft = (dateObj - now) / 1000;
-        //console.log('now: ' + now);
-        //console.log('timeleft: ' + timeLeft);
+
 
 
         if (isNaN(timeLeft)) {

@@ -1,6 +1,13 @@
 {{ if .IsHome }}
 
-
+<div id="curtain" class="draggable-curtain">
+    <div id="inner-curtain">
+        <div id="welcome-text">
+            {{ partial "curtain-text.html" . }}
+        </div>
+    </div>
+    {{ partial "footer.html" . }}
+</div>
 
 {{ else }}
 <div id="header-container" style="background-color: transparent; position: fixed; z-index: 9999; margin-left: 1.5rem; margin-top: 1.5rem;">

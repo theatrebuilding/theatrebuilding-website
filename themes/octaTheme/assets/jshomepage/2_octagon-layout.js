@@ -1,6 +1,5 @@
 const distanceBetweenOctagons = 310;
 const octagonSize = distanceBetweenOctagons - 10;
-let layer = 1
 const gridContainer = document.getElementById("grid-container");
 const octagonGrid = document.getElementById("octagon-grid");
 const gridDimsValue = layer * (distanceBetweenOctagons - 10) + distanceBetweenOctagons;
@@ -11,6 +10,7 @@ const gridWidthLessThan = windowWidth - gridDimsValue;
 const gridHeightLessThan = windowHeight - gridDimsValue;
 const cellSizeW = gridDimsValue + gridWidthLessThan;
 const cellSizeH = gridDimsValue + gridHeightLessThan;
+let layer = 1
 
 // Generate random positions for incomplete layers
 function generateRandomPositions(octagonsInLayer) {
@@ -118,8 +118,8 @@ function findHighestNegativePositions() {
 
 function findCenterOctaAndScroll() {
   const targetElement = document.getElementsByClassName("octagon")[0];
-  const gridDims = layer * distanceBetweenOctagons + distanceBetweenOctagons;
-  const halfGridDims = gridDims / 2;
+//  const gridDims = layer * distanceBetweenOctagons + distanceBetweenOctagons;
+//  const halfGridDims = gridDims / 2;
   
   const targetRect = targetElement.getBoundingClientRect();
   const centerX = (window.innerWidth - targetRect.width) / 2;
@@ -145,7 +145,14 @@ function setGridDimensions() {
   octagonGrid.style.marginBottom = window.innerHeight;
 }
 
-setGridDimensions();
-const { maxX, maxY } = positionOctagons();
-const { left: gridMoveLeft, top: gridMoveTop } = findHighestNegativePositions();
-findCenterOctaAndScroll();
+if ( isMobileDevice() ) {
+  
+
+  
+  } else {
+
+    setGridDimensions();
+    const { maxX, maxY } = positionOctagons();
+    const { left: gridMoveLeft, top: gridMoveTop } = findHighestNegativePositions();
+    findCenterOctaAndScroll();
+  }
