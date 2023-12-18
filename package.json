@@ -2,7 +2,7 @@
   "name": "theatrebuilding",
   "version": "1.0.0",
   "scripts": {
-        "hugo-server": "hugo server",
+    "hugo-server": "hugo server",
     "hugo-draft": "hugo -F -D",
     "hugo-public": "hugo -F",
     "start": "run-p hugo-server",
@@ -20,6 +20,7 @@
     "postcss-cli": "^10.1.0",
     "tina": "^0.3.23",
     "tinacms": "^1.5.13",
+    "use-deep-compare": "^1.2.0",
     "yaml": "^2.2.2"
   },
   "devDependencies": {
