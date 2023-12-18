@@ -3,12 +3,13 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Element references
     const curtain = document.getElementById('curtain');
+    const innerCurtain = document.getElementById('inner-curtain');
     const footer = document.getElementById('footer');
     const arrowBtn = document.getElementById('footer-arrow');
     const burgerMenu = document.getElementById('burger-menu');
 
-    // Variables for tracking touch/mouse start positions and whether the menu has been interacted with or not
-    let startY, startTop, interacted = false;
+    // Variables for tracking touch/mouse start positions and whether the menu has been menuExpanded with or not
+    let startY, startTop, menuExpanded = false;
 
     // Function to shuffle statements within the curtain element
     function shuffleStatements() {
@@ -37,7 +38,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Function to resize the curtain, adjusting its position based on device type
     function resizeCurtain() {
-        curtain.style.transition = 'top ease 1s';
+        setTransition();
         if (isMobileDevice()) {
             updateCurtainPositionMobile();
         } else {
@@ -51,24 +52,22 @@ document.addEventListener('DOMContentLoaded', function() {
     // Function to set the initial position of the curtain based on device type
     function setInitialPosition() {
         const curtainHeight = curtain.clientHeight;
-        console.log(curtainHeight);
+        const footerHeight = footer.clientHeight;
+        // console.log(curtainHeight);
         if(isMobileDevice()) {
 
             // Mobile-specific positioning and element style adjustments
             curtain.style.top = -curtainHeight + 'px';
             arrowBtn.style.display = 'none';
             document.getElementById('join-console-text').style.display = 'none';  
-            document.getElementById('inner-curtain').style.height = document.documentElement.clientHeight - 100 + 'px';
-            curtain.style.top = -curtainHeight + 100 + 'px';
-            setTimeout(function() {
-                document.getElementById('inner-curtain').style.display = 'none';
-              }, 1000); // 1-second delay
+            innerCurtain.style.height = curtainHeight - footerHeight + 'px';
+            curtain.style.top = -curtainHeight + footerHeight + 'px';
             curtain.style.position = 'fixed';
         } else {
             
             // Desktop-specific positioning and element style adjustments
             curtain.style.top = -curtainHeight + 25 + 'px';
-            document.getElementById('inner-curtain').style.height = document.documentElement.clientHeight - 100 + 'px';
+            innerCurtain.style.height = curtainHeight - footerHeight + 'px';
             burgerMenu.style.display = 'none';
             arrowBtn.style.display = 'block';
         }  
@@ -80,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         // Event handlers for dragging the curtain using the footer
         footer.onmousedown = footer.ontouchstart = function(e) {
-            interacted = true;
+            menuExpanded = true;
             startY = (e.touches ? e.touches[0].clientY : e.clientY);
             startTop = parseInt(window.getComputedStyle(curtain).top, 10);
 
@@ -108,26 +107,25 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Function to update curtain position on mobile devices
     function updateCurtainPositionMobile() {
-        if (!interacted) {
+        if (!menuExpanded) {
             setInitialPosition();
         } else {
             return;
         }
-        const welcomeText = document.getElementById('inner-curtain');
+
         
         // Handler for burger menu click event
         function handleBurgerMenuClick() {
-            if (!interacted) {
+            if (!menuExpanded) {
                 setTransition();
-                welcomeText.style.display = 'block';
                 curtain.style.top = '0';
                 setTimeout(resetTransition, 1000); // 1-second delay
-                interacted = true;
+                menuExpanded = true;
             } else {
                 setTransition();
                 setInitialPosition();
                 setTimeout(resetTransition, 1000); // 1-second delay
-                interacted = false;
+                menuExpanded = false;
             }
         }
 
@@ -138,7 +136,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Function to make the curtain animate briefly to come into view
     function curtainPeek() {
         const windowHeight = document.documentElement.clientHeight;
-        if(!interacted) {
+        if(!menuExpanded) {
             setTransition();
             curtain.style.top = -windowHeight + 100 + 'px';
 
@@ -159,6 +157,6 @@ document.addEventListener('DOMContentLoaded', function() {
         updateCurtainPositionDesktop();
         shuffleStatements();
         setTimeout(curtainPeek, 5000); // Curtain peeks after 5 seconds
-        setInterval(curtainPeek, 30000); // Repeats every 30 seconds
+        setInterval(curtainPeek, 30000); // Repeats every 30 seconds if var menuExpanded = false.
     }
 });
