@@ -16,13 +16,14 @@
   "dependencies": {
     "autoprefixer": "^10.4.14",
     "graceful-fs": "^4.2.11",
+    "node": "^18.17.0",
     "npm": "9.6.6",
     "postcss": "^8.4.23",
     "postcss-cli": "^10.1.0",
     "tina": "^0.3.23",
     "tinacms": "^1.5.13",
-    "yaml": "^2.2.2",
-    "node": "^18.17.0"
+    "use-deep-compare": "^1.0.0",
+    "yaml": "^2.2.2"
   },
   "devDependencies": {
     "@tinacms/cli": "^1.5.36",
