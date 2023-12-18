@@ -461,6 +461,14 @@ body::-webkit-scrollbar{
   display: none;
 }
 
+
+ html,
+ body {
+  height: 100vh;
+  /* mobile viewport bug fix */
+  height: -webkit-fill-available;
+ }
+
 #load-screen{
   position: fixed;
   top: 0px;
@@ -592,7 +600,7 @@ body::-webkit-scrollbar{
 }
 
 #curtain {
-  height: 100vh;
+  height: 100%;
 }
 
 #inner-curtain {
