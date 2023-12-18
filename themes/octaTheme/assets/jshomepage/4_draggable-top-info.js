@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Variables for tracking touch/mouse start positions and whether the menu has been menuExpanded with or not
     let startY, startTop, menuExpanded = false;
+    let menuInteracted = false;
 
     // Function to shuffle statements within the curtain element
     function shuffleStatements() {
@@ -51,9 +52,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Function to set the initial position of the curtain based on device type
     function setInitialPosition() {
-        const curtainHeight = curtain.clientHeight;
+        const curtainHeight = window.innerHeight;
         const footerHeight = footer.clientHeight;
-        // console.log(curtainHeight);
+        console.log(curtainHeight);
         if(isMobileDevice()) {
 
             // Mobile-specific positioning and element style adjustments
@@ -79,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         // Event handlers for dragging the curtain using the footer
         footer.onmousedown = footer.ontouchstart = function(e) {
-            menuExpanded = true;
+            menuInteracted = true;
             startY = (e.touches ? e.touches[0].clientY : e.clientY);
             startTop = parseInt(window.getComputedStyle(curtain).top, 10);
 
@@ -99,8 +100,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
             // Handlers to stop moving the curtain when mouse is released or touch ends
             document.onmouseup = document.ontouchend = function() {
-                document.onmousemove = document.ontouchmove = null;
-                document.onmouseup = document.ontouchend = null;
+            document.onmousemove = document.ontouchmove = null;
+            document.onmouseup = document.ontouchend = null;
             };
         };
     }
@@ -136,7 +137,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Function to make the curtain animate briefly to come into view
     function curtainPeek() {
         const windowHeight = document.documentElement.clientHeight;
-        if(!menuExpanded) {
+        if(!menuInteracted) {
             setTransition();
             curtain.style.top = -windowHeight + 100 + 'px';
 
