@@ -426,36 +426,6 @@ video {
   width: 100%;
 }
 
-@media (min-width: 640px){
-  .container{
-    max-width: 640px;
-  }
-}
-
-@media (min-width: 768px){
-  .container{
-    max-width: 768px;
-  }
-}
-
-@media (min-width: 1024px){
-  .container{
-    max-width: 1024px;
-  }
-}
-
-@media (min-width: 1280px){
-  .container{
-    max-width: 1280px;
-  }
-}
-
-@media (min-width: 1536px){
-  .container{
-    max-width: 1536px;
-  }
-}
-
 .fixed{
   position: fixed;
 }
@@ -490,6 +460,14 @@ body{
 body::-webkit-scrollbar{
   display: none;
 }
+
+
+ html,
+ body {
+  height: 100vh;
+  /* mobile viewport bug fix */
+  height: -webkit-fill-available;
+ }
 
 #load-screen{
   position: fixed;
@@ -564,10 +542,16 @@ body::-webkit-scrollbar{
 #octagon-grid{
   height: 24rem;
   width: 24rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-top: 100px;
 }
 
+
+
 .octagon{
-  position: absolute;
+  position: relative;
   margin: 0.5rem;
   height: 300px;
   width: 300px;
@@ -603,3 +587,78 @@ body::-webkit-scrollbar{
   line-height: 1.25rem;
 }
 
+.draggable-curtain {
+  width: 100%;
+  height: 100vh;
+  top: calc(-100vh + 25px);
+  position: fixed;
+
+  background-color: #f1f1f1;
+  z-index: 1000; 
+  cursor: pointer; 
+  box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+}
+
+#curtain {
+  height: 100%;
+}
+
+#inner-curtain {
+//  height: calc(100% - 150px);
+  width: 100%;
+  overflow-x: hidden;
+  overflow-y: scroll;
+//  padding-top: 50px;
+//  padding-bottom: 50px;
+  cursor: auto;
+}
+
+#footer {
+  position:absolute; 
+  width: 100%; 
+  display: flex; 
+  align-items: center; 
+  justify-content: space-between; 
+  bottom: 0px;
+  left: 0;
+  height: 100px; 
+  background-color: none; 
+  padding-right: 25px;
+  border-top: 1px solid black;
+}
+
+#welcome-text {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  font-family: Lora, serif;
+  font-size: 2rem;
+  line-height: 2.5rem;
+  font-weight: 700;
+  flex-wrap: wrap;
+  height: 100%;
+  a {
+    cursor: pointer; text-decoration: underline;
+  }
+
+  p {
+    margin: 25px;
+    max-width: 350px;
+  }
+}
+
+.highlighted-curtain-info {
+  -webkit-text-stroke: 1px black;
+   color: white;
+   text-shadow:
+       1px 1px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+}
+
+#burger-menu {
+  margin-left: 25px;
+}

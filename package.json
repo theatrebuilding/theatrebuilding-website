@@ -2,7 +2,7 @@
   "name": "theatrebuilding",
   "version": "1.0.0",
   "scripts": {
-    "hugo-server": "hugo server",
+        "hugo-server": "hugo server",
     "hugo-draft": "hugo -F -D",
     "hugo-public": "hugo -F",
     "start": "run-p hugo-server",

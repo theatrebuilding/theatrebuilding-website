@@ -12,10 +12,6 @@
 </main>
 
 {{ if .IsHome }}
-    {{ partial "footer.html" . }}
-{{ end }}
-
-{{ if .IsHome }}
     {{ $jsFiles := resources.Match "jshomepage/*.js" }}
     {{ $combinedMinJs := $jsFiles | resources.Concat "js/combinedHome.min.js" | js.Build (dict "target" "es2015" "minify" true "sourcemaps" false) }}
     {{ $combinedJs := $jsFiles | resources.Concat "js/combinedHome.js" | js.Build (dict "target" "es2015") }}

@@ -25,8 +25,6 @@
   }
 </script>
 
-
-
 {{ $styles := resources.Get "css/main.scss" | toCSS | postCSS (dict "config" "postcss.config.js") }}
 {{ if .Site.IsServer }}
   <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
@@ -34,9 +32,5 @@
   {{ $styles := $styles | minify | fingerprint | resources.PostProcess }}
   <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}">
 {{ end }}
-
-
-
-
 
 <style type="text/css" id="custom-styles"></style>
