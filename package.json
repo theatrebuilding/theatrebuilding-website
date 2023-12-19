@@ -20,15 +20,18 @@
     "npm": "9.6.6",
     "postcss": "^8.4.23",
     "postcss-cli": "^10.1.0",
-    "tina": "^0.3.23",
-    "tinacms": "^1.5.13",
-    "use-deep-compare": "^1.0.0",
+    "tinacms": "^1.5.22",
     "yaml": "^2.2.2"
   },
   "devDependencies": {
-    "@tinacms/cli": "^1.5.36",
+    "@tinacms/cli": "1.5.31",
     "@tinacms/mdx": "^1.3.8",
     "npm-run-all": "^4.1.5"
+  },
+  "overrides": {
+    "@tinacms/cli": {
+      "use-deep-compare": "1.1.0"
+    }
   },
   "main": "index.js",
   "description": ""
