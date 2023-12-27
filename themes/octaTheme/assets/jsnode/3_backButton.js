@@ -16,7 +16,7 @@ function hideBackButton() {
     backButton.addEventListener('mouseleave', () => {
       backButton.style.transform = 'translateX(-65px)';
     });
-    backButton.addEventListener('touchend', () => {
+    backContainer.addEventListener('touchend', () => {
       backButton.style.transform = 'translateX(0px)';
       hideDelay();
     });
