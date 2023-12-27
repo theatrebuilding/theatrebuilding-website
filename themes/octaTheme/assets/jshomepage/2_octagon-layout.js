@@ -165,7 +165,6 @@ function setGridDimensions() {
 // Conditional execution based on whether user is on a mobile device or not (the isMobileDevice function is found in infinite-scroll.js)
 if ( isMobileDevice() ) {
   
-  loadingDomOverlay();
   
   } else {
     // Execute for non-mobile devices
