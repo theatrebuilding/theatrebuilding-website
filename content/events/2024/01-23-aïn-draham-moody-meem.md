@@ -72,6 +72,8 @@ css: >
 
   padding: 25px;
 
+  padding-left: 40px;
+
   text-align: left;
 
   font-size: 18px;
@@ -96,6 +98,8 @@ css: >
   padding: 25px;
 
   padding-top: 60px;
+
+  padding-right: 50px;
 
   text-align: right;
 
