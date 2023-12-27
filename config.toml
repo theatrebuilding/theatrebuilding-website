@@ -12,3 +12,8 @@ tag = "tags"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[params]
+  description = "where the internet becomes theatre"
+  ogImage = "octagon-social.jpg"
+  twitterImage = "octagon-social.jpg"

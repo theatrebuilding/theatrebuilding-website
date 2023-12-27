@@ -1,0 +1,58 @@
+{{ if .IsHome }}
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "CollectionPage",
+    "name": "{{ .Site.Title }}",
+    "description": "{{ .Site.Params.description }}",
+    "url": "{{ .Permalink }}",
+    "about": {
+      "@type": "CreativeWork",
+      "name": "Performance/theatre/artwork",
+    },
+    "hasPart": [
+    {{ range $index, $element := first 4 (where site.RegularPages "Section" "events") }}
+    {{ if ne (index $element.Params "draft") true }}
+      {
+        "@type": "Event",
+        "name": "{{ .Title }}",
+        "performer": {
+          "@type": "Person",
+          "name": "{{ .Params.artistName }}"
+        },
+        "description": "{{ .Params.description }}",
+        "location": {
+          "@type": "Place",
+          "name": "{{ .Params.location }}"
+        },
+        "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z" }}"
+      }{{ if lt $index 3 }},{{ end }}
+      {{ end }}
+      {{ end }}
+    ]
+  }
+  </script>
+  
+    
+{{ else if eq .Section "events" }}
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "{{ .Title }}",
+    "performer": {
+      "@type": "Person",
+      "name": "{{ .Params.artistName }}"
+    },
+    "description": "{{ .Params.description }}",
+    "location": {
+      "@type": "Place",
+      "name": "{{ .Params.location }}"
+    },
+    "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z" }}"
+  }
+  </script>
+
+{{ end }}

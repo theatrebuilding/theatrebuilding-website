@@ -1,0 +1,30 @@
+{{ if .IsHome }}
+  <!-- Open Graph for Home -->
+  <meta property="og:title" content="{{ .Site.Title }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:image" content="{{ .Site.Params.ogImage }}">
+  <meta property="og:description" content="{{ .Site.Params.description }}">
+  <meta property="og:site_name" content="{{ .Site.Title }}">
+
+  <!-- Twitter Card for Home -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ .Site.Title }}">
+  <meta name="twitter:description" content="{{ .Site.Params.description }}">
+  <meta name="twitter:image" content="{{ .Site.Params.twitterImage }}">
+    
+{{ else }}
+  <!-- Open Graph for Other Pages -->
+  <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:image" content="{{ with .Params.image }}{{ . }}{{ else }}{{ .Site.Params.ogImage }}{{ end }}">
+  <meta property="og:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta property="og:site_name" content="{{ .Site.Title }}">
+
+  <!-- Twitter Card for Other Pages -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ .Title }}">
+  <meta name="twitter:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta name="twitter:image" content="{{ with .Params.image }}{{ . }}{{ else }}{{ .Site.Params.twitterImage }} {{ end }}">
+{{ end }}
