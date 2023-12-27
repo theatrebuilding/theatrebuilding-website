@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', function() {
     function setInitialPosition() {
         const curtainHeight = window.innerHeight;
         const footerHeight = footer.clientHeight;
-        console.log(curtainHeight);
+
         if(isMobileDevice()) {
 
             // Mobile-specific positioning and element style adjustments

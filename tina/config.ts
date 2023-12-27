@@ -3,6 +3,25 @@ import { defineConfig } from "tinacms";
 // Fleek exposes this as an environment variable
 const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
 
+// Validation functions
+function validateDescription(value) {
+  if (value && value.length > 160) {
+    return "Description must be less than 160 characters";
+  }
+}
+
+function validateInfo(value) {
+  if (value && value.length > 50) {
+    return "Must be less than 50 characters";
+  }
+}
+
+function validateLocation(value) {
+  if (value && value.length > 80) {
+    return "Must be less than 80 characters";
+  }
+}
+
 export default defineConfig({
   branch,
   clientId: process.env.TINA_CLIENT_ID, // This is generated on tina.io and updated as environment variable in fleek deploy settings.
@@ -71,17 +90,20 @@ export default defineConfig({
                 label: "Title",
                 isTitle: true,
                 required: true,
+                validate: validateInfo,
               },
               {
                 type: "string",
                 name: "artistName",
                 label: "Name of artist or group",
+                validate: validateInfo,
                 required: true,
               },
               {
                 type: "string",
                 name: "location",
                 label: "Location",
+                validate: validateLocation,
                 required: true,
               },
               {
@@ -102,9 +124,22 @@ export default defineConfig({
               {
                 type: "rich-text",
                 name: "body",
-                label: "Body",
+                label: "Content",
                 isBody: true,
               },
+              {
+                type: "string",
+                name: "description",
+                label: "Optionally add a short description of the work for SEO purposes (max 160 characters)",
+                required: false,
+                validate: validateDescription,
+              },
+              {
+                type: "image",
+                name: "image",
+                label: "Optionally add an image that you associate with your performance for SEO purposes (max 1mb)",
+                required: false,
+              },            
             ],
           },
           {
@@ -122,18 +157,21 @@ export default defineConfig({
                 label: "Title",
                 isTitle: true,
                 required: true,
+                validate: validateInfo,
               },
               {
                 type: "string",
                 name: "artistName",
                 label: "Name of artist or group",
                 required: true,
+                validate: validateInfo,
               },
               {
                 type: "string",
                 name: "location",
                 label: "Location",
                 required: true,
+                validate: validateLocation,
               },
               {
                 type: "datetime",
@@ -160,6 +198,19 @@ export default defineConfig({
                 type: 'rich-text',
                 name: "css",
                 label: "Add your custom CSS here if you are coding your event in HTML (otherwise, leave blank)",
+              },
+              {
+                type: "string",
+                name: "description",
+                label: "Optionally add a short description of the work for SEO purposes (max 160 characters)",
+                required: false,
+                validate: validateDescription,
+              },
+              {
+                type: "image",
+                name: "image",
+                label: "Optionally add an image that you associate with your performance for SEO purposes (max 1mb)",
+                required: false,
               },
             ],
           },
