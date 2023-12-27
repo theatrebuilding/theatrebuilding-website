@@ -469,28 +469,7 @@ body::-webkit-scrollbar{
   height: -webkit-fill-available;
  }
 
-#load-screen{
-  position: fixed;
-  top: 0px;
-  left: 0px;
-  display: flex;
-  height: 100%;
-  width: 100%;
-  align-items: center;
-  justify-content: center;
-  --tw-bg-opacity: 1;
-
-}
-
-#loading-bar{
-  height: 20px;
-  width: 0%;
-  --tw-bg-opacity: 1;
-  transition-property: all;
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-  transition-duration: 100ms;
-}
-
+ 
 #header-container {
   position: fixed;
   top: 0px;
@@ -547,8 +526,6 @@ body::-webkit-scrollbar{
   justify-content: center;
   padding-top: 100px;
 }
-
-
 
 .octagon{
   position: relative;
@@ -607,12 +584,9 @@ body::-webkit-scrollbar{
 }
 
 #inner-curtain {
-//  height: calc(100% - 150px);
   width: 100%;
   overflow-x: hidden;
   overflow-y: scroll;
-//  padding-top: 50px;
-//  padding-bottom: 50px;
   cursor: auto;
 }
 

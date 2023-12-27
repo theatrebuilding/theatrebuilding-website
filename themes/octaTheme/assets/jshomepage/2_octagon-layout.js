@@ -15,6 +15,45 @@ const gridHeightLessThan = windowHeight - gridDimsValue; // Remaining height aft
 const cellSizeW = gridDimsValue + gridWidthLessThan; // Total width including the grid and remaining width
 const cellSizeH = gridDimsValue + gridHeightLessThan; // Total height including the grid and remaining height
 
+function loadingDomOverlay() {
+  const overlay = document.createElement('div');
+  overlay.style.position = 'fixed';
+  overlay.style.top = '0';
+  overlay.style.left = '0';
+  overlay.style.width = '100%';
+  overlay.style.height = '100%';
+  overlay.style.backgroundColor = 'white';
+  overlay.style.display = 'flex';
+  overlay.style.justifyContent = 'center';
+  overlay.style.alignItems = 'center';
+  overlay.style.opacity = '0'; // Start with opaque overlay
+  overlay.style.transition = 'opacity 1s ease'; // Transition opacity
+  overlay.style.zIndex = '50';
+  gridContainer.appendChild(overlay);
+
+  const loadingText = document.createElement('p');
+  loadingText.style.color = 'black';
+  loadingText.style.fontSize = '1rem';
+  loadingText.style.fontFamily = 'lora';
+  loadingText.style.margin = '0';
+  loadingText.style.textAlign = 'center';
+  loadingText.textContent = 'Loading...';
+  overlay.appendChild(loadingText);
+
+  // Set a short timeout to ensure the initial styles are applied
+  setTimeout(() => {
+    overlay.style.opacity = '1'; // Transition to full opacity
+  }, 10);
+
+  window.onload = () => {
+    setTimeout(() => {
+      overlay.style.opacity = '0'; // Transition to transparent
+      overlay.addEventListener('transitionend', () => {
+        overlay.remove(); // Remove the overlay after the transition
+      });
+    }, 10);
+  }; 
+}
 
 // Generate random positions for incomplete layers
 function generateRandomPositions(octagonsInLayer) {
@@ -166,10 +205,11 @@ function setGridDimensions() {
 // Conditional execution based on whether user is on a mobile device or not (the isMobileDevice function is found in infinite-scroll.js)
 if ( isMobileDevice() ) {
   
- // [Future functionality for mobile devices]
+  loadingDomOverlay();
   
   } else {
     // Execute for non-mobile devices
+    loadingDomOverlay();
     setGridDimensions(); // Set dimensions of the grid
     const { maxX, maxY } = positionOctagons(); // Position octagons and get max X, Y
     const { left: gridMoveLeft, top: gridMoveTop } = findHighestNegativePositions(); // Find highest negative positions
