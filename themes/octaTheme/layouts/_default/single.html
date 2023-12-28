@@ -15,12 +15,45 @@
   </div>
   </div>
 {{ else }}
-  {{ .Content }}
       {{ with .Params._template }}
           {{ if eq . "advanced" }}
+          {{ .Content }}
               <div id="css">{{ $.Param "css" }}</div>
           {{ else }}
-              <div id="css">using defaul simple style from single.html</div>
+          <div id="simple-layout">
+            <div id="simple-image">{{ with $.Params.image }} {{ . }} {{ end }}</div>
+            <div id="simple-title"><h1>{{ $.Params.Title }}</h1></div>
+            {{ $.Content }}
+          </div>
+              <div id="css">
+                            @import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap');
+                            .container {
+                              display: flex;
+                              flex-direction: column;
+                              align-items: center;
+                              justify-content: center;
+                            }
+                            #simple-layout {
+                              text-align: left;
+                              max-width: 1000px;
+                              padding:20px;
+                              word-break: normal;
+                              hyphens: auto;
+                            }
+
+                            #simple-title {
+                              padding-top: 50px;
+                            }
+
+                            @media screen and (max-width: 399px) {
+                              
+                              #simple-layout {
+                                overflow-wrap: break-word;
+                              }
+                          }
+                          
+
+              </div>
           {{ end }}
       {{ end }}
   {{ end }}
