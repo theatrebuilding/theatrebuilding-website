@@ -21,7 +21,7 @@
               <div id="css">{{ $.Param "css" }}</div>
           {{ else }}
           <div id="simple-layout">
-            <div id="simple-image">{{ with $.Params.image }} {{ . }} {{ end }}</div>
+            <div id="simple-image"><img src="{{ with $.Params.image }} {{ . | absURL }} {{ end }}" alt=""></div>
             <div id="simple-title"><h1>{{ $.Params.Title }}</h1></div>
             {{ $.Content }}
           </div>

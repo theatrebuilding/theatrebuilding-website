@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: simple performance
 artistName: Jazbo
 location: Online
