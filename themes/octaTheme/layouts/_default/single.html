@@ -17,7 +17,7 @@
 {{ else }}
       {{ with .Params._template }}
           {{ if eq . "advanced" }}
-          {{ .Content }}
+          {{ $.Content }}
               <div id="css">{{ $.Param "css" }}</div>
           {{ else }}
           <div id="simple-layout">
