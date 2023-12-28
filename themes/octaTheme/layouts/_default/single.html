@@ -36,7 +36,7 @@
                             #simple-layout {
                               text-align: left;
                               max-width: 1000px;
-                              padding:20px;
+                              padding: 20px;
                               word-break: normal;
                               hyphens: auto;
                             }
@@ -50,10 +50,13 @@
                               font-family: 'lora', serif;
                             }
 
-                            @media screen and (max-width: 400px) {
+                            @media screen and (max-width: 1000px) {
                               
-                              #simple-layout {
-                                word-break: break-all;
+                              .container {
+                                display: block;
+                                flex-direction: unset;
+                                align-items: unset;
+                                justify-content: unset;
                               }
                           }
                           
