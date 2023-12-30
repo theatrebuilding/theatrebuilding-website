@@ -580,7 +580,11 @@ function hideWelcome() {
   state.vimeoVisible = false;
   state.canvasVisible = false;
   state.visibleTime = 0;
-  
+  var audio = elements.myRadioStream.querySelector('audio');
+  if (audio) {
+    console.log('audio playing');
+    audio.play();
+  }  
 }
 
 function changeWelcomeText() {
