@@ -2,7 +2,7 @@
 draft: false
 title: every time I try to move
 artistName: Theatrebuilding
-location: 'YC Festival, Copenhagen-Hammamet'
+location: 'YC Festival, Copenhagen-Jendouba'
 date: 2023-11-25T14:00:00.000Z
 css: |
   \#background {
