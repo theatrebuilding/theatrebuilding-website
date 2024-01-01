@@ -239,7 +239,7 @@ _template: advanced
 
 <div id="welcome-screen">
   <div id="myRadioStream"> <audio controls src="https://bafybeienjdcmgffgqstakbstekimhqy2zuom6r3hkpnwrl7celm47xhdqq.ipfs.cf-ipfs.com/"> </div>
-  <div id="welcomeText"><p>an undefined number of <a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactors</a> in the black box at <a href="https://hautscene.dk/" target="_blank"> YC festival</a>. their phones light up their faces. they enter and leave whenever they want. they improvise their way around the space together. microphones record the sound of their voices. from Hammamet in Tunisia, a dancer is moving his digital body.</p></div>
+  <div id="welcomeText"><p>an undefined number of <a href="https://en.wiktionary.org/wiki/spect-actor" target="_blank">spectactors</a> in the black box at <a href="https://hautscene.dk/" target="_blank"> YC festival</a>. their phones light up their faces. they enter and leave whenever they want. they improvise their way around the space together. microphones record the sound of their voices. from Jendouba in Tunisia, a dancer is moving his digital body.</p></div>
   <div><button id="enterPerformance">enter</button></div>
 </div>
 
