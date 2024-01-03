@@ -5,9 +5,13 @@ artistName: Jazbo Gross
 location: 'Howie Street, London, UK'
 date: 2023-08-07T23:00:00.000Z
 altDate: 2017-2023
+tags:
+  - brick
+  - Queer
+  - fingers crossed
 css: >
   @import
-  url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700\&display=swap');
+  url('[https://fonts.googleapis.com/css2?family=Lora:wght@400;700\\\&display=swap](https://fonts.googleapis.com/css2?family=Lora:wght@400;700\\\&display=swap)');
 
 
   .wrapper {margin-left: 15vw; margin-right:52vw;}
@@ -35,13 +39,20 @@ css: >
   .bgTwo { position:fixed; bottom:0; left:0; width:100vw; z-index:1;}
 
 
-  @media only screen and (max-width: 800px) { 
-    .wrapper {margin-left: 10px; margin-right:10px;} 
-    p {font-size: 4vw; font-family: lora, serif; padding-bottom: 50px;} 
-    .qrCode>img {width: 100px; height: 100px;}
-    .text {margin-top:150px;}
-    .bgOne { width:unset; height:100vh;}
-    .bgTwo { width:unset; height:100vh;}
+  @media only screen and (max-width: 800px) {
+
+  .wrapper {margin-left: 10px; margin-right:10px;}
+
+  p {font-size: 4vw; font-family: lora, serif; padding-bottom: 50px;}
+
+  .qrCode>img {width: 100px; height: 100px;}
+
+  .text {margin-top:150px;}
+
+  .bgOne { width:unset; height:100vh;}
+
+  .bgTwo { width:unset; height:100vh;}
+
   }
 _template: advanced
 ---
@@ -50,14 +61,9 @@ _template: advanced
 
 <img style="text-align:center;" src="https://fingers-crossed.netlify.app/fingers-crossed-qr.svg">
 
-
   </div>
 
 <div class="wrapper">
-
-
-
-
 
   <div class="text">
   <p>

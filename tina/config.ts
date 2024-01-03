@@ -1,4 +1,9 @@
+
+
 import { defineConfig } from "tinacms";
+import TagsInputWithSuggestions from './TagsInputWithSuggestions';
+
+
 
 // Fleek exposes this as an environment variable
 const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
@@ -120,7 +125,7 @@ export default defineConfig({
                 name: "altDate",
                 label: "Write here if your work takes place in an alternate or different time to the Gregorian calendar time in which it is published",
                 required: false,
-              },
+              },             
               {
                 type: "rich-text",
                 name: "body",
@@ -139,7 +144,7 @@ export default defineConfig({
                 name: "image",
                 label: "Optionally add an image that you associate with your performance for SEO purposes (max 1mb)",
                 required: false,
-              },            
+              },         
             ],
           },
           {
@@ -189,15 +194,26 @@ export default defineConfig({
                 required: false,
               },
               {
+                label: "Tags",
+                name: "tags",
+                type: "string",
+                ui: {
+                  component: TagsInputWithSuggestions,
+                },
+              },  
+              {
                 type: "rich-text",
                 name: "body",
                 label: "Body",
                 isBody: true,
               },
               {
-                type: 'rich-text',
+                type: 'string',
                 name: "css",
-                label: "Add your custom CSS here if you are coding your event in HTML (otherwise, leave blank)",
+                label: "Add your custom CSS here",
+                ui: {
+                  component: "textarea"
+                },
               },
               {
                 type: "string",
