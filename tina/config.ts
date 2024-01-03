@@ -6,7 +6,7 @@ import TagsInputWithSuggestions from './TagsInputWithSuggestions';
 
 
 // Fleek exposes this as an environment variable
-const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
+const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "tags";
 
 // Validation functions
 function validateDescription(value) {
