@@ -3,11 +3,7 @@ title: MEEM
 artistName: Moody
 location: Aïn Draham
 date: 2024-01-23T06:00:00.000Z
-tags:
-  - stars
-  - something
-  - dance
-  - queer
+tags: 'dance, queer, '
 css: >
   @import
   url('[https://fonts.googleapis.com/css2?family=Rubik\&family=Rubik+Maps\&family=Sofia\&family=Syne+Mono\&display=swap](https://fonts.googleapis.com/css2?family=Rubik\&family=Rubik+Maps\&family=Sofia\&family=Syne+Mono\&display=swap)');
