@@ -191,13 +191,14 @@ export default defineConfig({
               {
                 type: "rich-text",
                 name: "body",
-                label: "Body",
+                label: "Body - click the M button on the far right to input your HTML. Include everything that goes inside the <body> tag including any javascript.",
                 isBody: true,
               },
               {
-                type: 'rich-text',
+                type: 'string',
                 name: "css",
                 label: "Add your custom CSS here if you are coding your event in HTML (otherwise, leave blank)",
+                ui: { component: 'textarea' },
               },
               {
                 type: "string",
