@@ -17,11 +17,11 @@ If you grab and roll down the curtain on the homepage of theatrebuilding.com you
 - **Independent**: We try to rely on as few externalas as possible and build code that lasts and can be understood by anyone with a moderate understanding of programming for the web.
 - **A Performance**: A performance on theatrebuilding.com consists of HTML, CSS and JavaScript. A performance is a single HTML page, in the sense that it is one URL. Any changing elements and interactivity should be written in JavaScript. There is a simple event creator and an advanced. The simple template let's you do point and click styling whereas the advanced template expects you to style everything with your own custom CSS (and javascript if needed).
 
-## Join Us! 🤝
+## Join Us! 🪢
 
 Have a question? Or you want to be a part of this exciting journey? Join our [Console Community](https://app.console.xyz/c/theatrebuilding) and contribute to the future of decentralized performing arts! You can take part in many ways or just lurk in the background of the conversations.
 
-### Connect & Collaborate 🤗
+### Connect & Collaborate  ༘⋆🌷🫧💭₊˚ෆ
 
 - **Ask Questions**: We're here to help each other. Don't hesitate to ask!
 - **Share Ideas**: Got an idea for a performance? We want to hear it!
