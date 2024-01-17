@@ -5,7 +5,7 @@ artistName: Sara Gebran
 location: Online
 date: 2024-02-01T12:00:00.000Z
 css: |2-
-      body {
+      #wrapper {
           display: flex;
           align-items: center;
           justify-content: center;
@@ -95,10 +95,10 @@ description: >-
 image: /uploads/ForestTrial.jpg
 _template: advanced
 ---
-
+<div id='wrapper'>
 <div id="audio">
-  <div>English<audio id="en-audio" src=""></audio><img class="sound-icons" id="eng-sound-icon" src="off.svg" alt=""></div>
-  <div>Español<audio id="sp-audio" src=""></audio><img class="sound-icons" id="spa-sound-icon" src="off.svg" alt=""></div>
+  <div>English<audio id="en-audio" src=""></audio><img class="sound-icons" id="eng-sound-icon" src="https://bafybeih5e4gloy3brmpsbc53iv75qkyyn7qyddq7pqjyhw6yvavpmnyyqy.ipfs.cf-ipfs.com/" alt=""></div>
+  <div>Español<audio id="sp-audio" src=""></audio><img class="sound-icons" id="spa-sound-icon" src="https://bafybeih5e4gloy3brmpsbc53iv75qkyyn7qyddq7pqjyhw6yvavpmnyyqy.ipfs.cf-ipfs.com/" alt=""></div>
 </div>
 
 <div class="scene">
@@ -234,7 +234,7 @@ _template: advanced
 // Update audio state and UI
 function updateAudioState(audioElement, language, isPlaying) {
     const icon = document.getElementById(language === 'en' ? 'eng-sound-icon' : 'spa-sound-icon');
-    icon.src = isPlaying ? 'on.svg' : 'off.svg';
+    icon.src = isPlaying ? 'https://bafybeiehccr6p2z3upt5nsvk5pbukxos3jzh2cn7vr7v4cst4vextsqbta.ipfs.cf-ipfs.com/' : 'https://bafybeih5e4gloy3brmpsbc53iv75qkyyn7qyddq7pqjyhw6yvavpmnyyqy.ipfs.cf-ipfs.com/';
     audioState[language + 'IsMuted'] = !isPlaying;
 
     if (isPlaying) {
@@ -343,3 +343,4 @@ function setupAudioControls() {
   initGlobe();
   setupAudioControls();
   </script>
+</div>
