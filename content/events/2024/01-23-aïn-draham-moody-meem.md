@@ -456,14 +456,14 @@ _template: advanced
 زعمة بدني متاع لاباس
 زعمة بدني لاباس
 
-```
-      </p> 
+
+  </p> 
     </div>
   </div>
   <div id="enter">
     <div><p>ENTER</p><p>MEEM</p></div>
   </div>
-```
+
 
   </div>
   </div>
@@ -493,7 +493,7 @@ _template: advanced
     const videoOverlay = document.getElementById('videoOverlay');
     let firstPerspective = false;
   
-    const videoIDs = ['895072702', '895065477', '895076938', '895073289', '904996076', '895102663', '895090697', '895083145', '895084199', '895081081', '895075967', '895074687', '895074292', '905130377']; 
+    const videoIDs = ['895072702', '895065477', '895076938', '895073289', '904996076', '895102663', '895090697', '895083145', '895084199', '895081081', '895075967', '895074292', '905130377']; 
     let alreadyPlayed = [];
     let currentPlayer; 
     let videoPlaying = false;
@@ -573,18 +573,29 @@ _template: advanced
 
     // Add event listener for window resize and run initially
     window.addEventListener('resize', adjustTextHeight);
-    adjustTextHeight();
 
-    // Load the first video in the background
-    loadRandomVideo();
-
-    // Add click event listener to the overlay
-    videoOverlay.addEventListener('click', function() {
+     setTimeout(adjustTextHeight, 1000);
+     
+      
+      // Add click event listener to the overlay
+      videoOverlay.addEventListener('click', function() {
       loadRandomVideo();
-    });
-  
-    enter.addEventListener('click', function() {
+      });
+      
+      // Add click event to enter button
+      enter.addEventListener('click', function() {
       welcome.style.display = 'none';
       loadingVideo.style.display = 'flex';
-    });
+      loadRandomVideo();
+      });
+
+
+
+
+    // Load the first video in the background
+
+
+
+  
+
   </script>
