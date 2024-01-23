@@ -136,6 +136,10 @@ css: |
   height: 100px;
   font-size: 18px;
   }
+description: >-
+  An undefined number of spectactors in the black box at YC festival. Their
+  phones light up their faces. They enter and leave whenever they want.
+image: /uploads/evertimeItrytomove_YC.JPG
 _template: advanced
 ---
 
