@@ -43,6 +43,10 @@ css: >
     .bgOne { width:unset; height:100vh;}
     .bgTwo { width:unset; height:100vh;}
   }
+description: >-
+  A sonic texture map of a block of buildings recorded in 2017 and a reflection
+  on the place it was recoded 6 years later in 2023.
+image: /uploads/fingers-crossed-jazbo.jpeg
 _template: advanced
 ---
 
@@ -50,14 +54,9 @@ _template: advanced
 
 <img style="text-align:center;" src="https://fingers-crossed.netlify.app/fingers-crossed-qr.svg">
 
-
   </div>
 
 <div class="wrapper">
-
-
-
-
 
   <div class="text">
   <p>
