@@ -515,7 +515,7 @@ _template: advanced
       unmuteButton.style.display = 'none'; // Initially hidden
 
       // Add event listener for the unmute functionality
-      unmuteButton.addEventListener('click', function() {
+      unmuteButton.addEventListener('touchend', function() {
         currentPlayer.setVolume(1);
         this.style.display = 'none'; // Hide after clicking
       });
@@ -611,33 +611,35 @@ _template: advanced
 
     // Apply this height to the text container
     textContainer.style.height = arabicTextHeight + 'px';
-}
+    }
+
+    function enterButtonHandler() {
+      welcome.style.display = 'none';
+      loadingVideo.style.display = 'flex';
+      loadRandomVideo();
+    }
 
     // Add event listener for window resize and run initially
     window.addEventListener('resize', adjustTextHeight);
 
-     setTimeout(adjustTextHeight, 1000);
-     
+    setTimeout(adjustTextHeight, 1000);
       
       // Add click event listener to the overlay
       videoOverlay.addEventListener('click', function() {
       loadRandomVideo();
       });
-      
-      // Add click event to enter button
-      enter.addEventListener('click', function() {
-      welcome.style.display = 'none';
-      loadingVideo.style.display = 'flex';
+
+      // Add click event listener to the overlay
+      videoOverlay.addEventListener('touchend', function() {
       loadRandomVideo();
       });
+      
+      // Add click event to enter button
+      enter.addEventListener('click', enterButtonHandler);
 
-
-
-
-    // Load the first video in the background
-
-
-
-  
-
+      // Add touchend event to the same button for touch devices
+      enter.addEventListener('touchend', function(event) {
+        event.preventDefault(); 
+        enterButtonHandler();
+      });
   </script>
