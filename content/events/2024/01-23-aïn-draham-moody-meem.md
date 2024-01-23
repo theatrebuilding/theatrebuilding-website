@@ -1,4 +1,5 @@
 ---
+draft: false
 title: MEEM
 artistName: Moody
 location: Aïn Draham
@@ -456,14 +457,12 @@ _template: advanced
 زعمة بدني متاع لاباس
 زعمة بدني لاباس
 
-
   </p> 
     </div>
   </div>
   <div id="enter">
     <div><p>ENTER</p><p>MEEM</p></div>
   </div>
-
 
   </div>
   </div>
