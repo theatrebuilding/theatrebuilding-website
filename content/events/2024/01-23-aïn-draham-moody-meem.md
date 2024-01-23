@@ -533,7 +533,6 @@ _template: advanced
     function loadRandomVideo() {
       clearTimeout(loadTimer); // Clear any existing timer
       videoPlaying = false;
-      loadingInnerText.style.display = 'unset';
   
       // Start a timer to check for loading delay
       loadTimer = setTimeout(function() {
@@ -565,6 +564,7 @@ _template: advanced
     function setupPlayer(videoID) {
       
       destroyUnmuteButton();
+      loadingInnerText.style.display = 'block';
 
       if (alreadyPlayed.length >= videoIDs.length) {
         alreadyPlayed = [];
