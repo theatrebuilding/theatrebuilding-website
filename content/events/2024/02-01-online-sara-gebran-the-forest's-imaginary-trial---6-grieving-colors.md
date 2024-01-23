@@ -92,7 +92,7 @@ description: >-
   A re-composition of extracted elements from the book “The Forests Imaginary
   Trial – 374 Grieving Poems” and the live performance MEDIATING NATURE, from
   2023.
-image: /uploads/ForestTrial.jpg
+image: /uploads/ForestTrial_new.jpg
 _template: advanced
 ---
 
