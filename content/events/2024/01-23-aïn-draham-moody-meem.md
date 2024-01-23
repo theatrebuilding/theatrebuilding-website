@@ -533,6 +533,7 @@ _template: advanced
     function loadRandomVideo() {
       clearTimeout(loadTimer); // Clear any existing timer
       videoPlaying = false;
+      loadingInnerText.style.display = 'unset';
   
       // Start a timer to check for loading delay
       loadTimer = setTimeout(function() {
