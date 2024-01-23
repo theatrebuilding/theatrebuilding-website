@@ -497,6 +497,38 @@ _template: advanced
     let currentPlayer; 
     let videoPlaying = false;
     let loadTimer;
+
+    function isMobileDevice() {
+  return (typeof window.orientation !== "undefined") || (navigator.userAgent.indexOf('IEMobile') !== -1 || window.matchMedia("(max-width: 760px)").matches);
+}
+
+    // Function to create and setup the unmute button
+    function createUnmuteButton() {
+      var unmuteButton = document.createElement('img');
+      unmuteButton.id = 'unmuteButton';
+      unmuteButton.src = 'https://bafybeih5e4gloy3brmpsbc53iv75qkyyn7qyddq7pqjyhw6yvavpmnyyqy.ipfs.cf-ipfs.com/';
+      unmuteButton.style.width = '50px';
+      unmuteButton.style.position = 'fixed';
+      unmuteButton.style.right = '20px';
+      unmuteButton.style.bottom = '20px';
+      unmuteButton.style.cursor = 'pointer';
+      unmuteButton.style.display = 'none'; // Initially hidden
+
+      // Add event listener for the unmute functionality
+      unmuteButton.addEventListener('click', function() {
+        currentPlayer.setVolume(1);
+        this.style.display = 'none'; // Hide after clicking
+      });
+
+      document.body.appendChild(unmuteButton);
+    }
+
+    function destroyUnmuteButton() {
+      var unmuteButton = document.getElementById('unmuteButton');
+      if (unmuteButton) {
+        unmuteButton.parentNode.removeChild(unmuteButton);
+      }
+    }
   
     function loadRandomVideo() {
       clearTimeout(loadTimer); // Clear any existing timer
@@ -530,6 +562,8 @@ _template: advanced
     }
   
     function setupPlayer(videoID) {
+      
+      destroyUnmuteButton();
 
       if (alreadyPlayed.length >= videoIDs.length) {
         alreadyPlayed = [];
@@ -548,14 +582,22 @@ _template: advanced
           });
         }
 
-      currentPlayer.setVolume(1);
+        if ( isMobileDevice() ) {
+          currentPlayer.setVolume(0);
+          createUnmuteButton();
+        } else {
+          currentPlayer.setVolume(1);
+        }
+      
   
       // Event listener for when the video starts playing
       currentPlayer.on('play', function() {
         videoPlaying = true;
         clearTimeout(loadTimer);
         loadingInnerText.innerText = "Loading a new perspective on";
+        loadingInnerText.style.display = 'none';
         videoOverlay.style.display = 'block';
+        document.getElementById('unmuteButton').style.display = 'block';
       });
     }
   
