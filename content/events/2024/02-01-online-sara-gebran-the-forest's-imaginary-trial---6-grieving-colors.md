@@ -1,9 +1,9 @@
 ---
-draft: true
+draft: false
 title: The Forest's Imaginary Trial - 6 Grieving Colors
 artistName: Sara Gebran
 location: Online
-date: 2024-02-01T12:00:00.000Z
+date: 2024-02-05T12:00:00.000Z
 css: |2-
       #wrapper {
           display: flex;
@@ -95,6 +95,7 @@ description: >-
 image: /uploads/ForestTrial.jpg
 _template: advanced
 ---
+
 <div id='wrapper'>
 <div id="audio">
   <div>English<audio id="en-audio" src=""></audio><img class="sound-icons" id="eng-sound-icon" src="https://bafybeih5e4gloy3brmpsbc53iv75qkyyn7qyddq7pqjyhw6yvavpmnyyqy.ipfs.cf-ipfs.com/" alt=""></div>
@@ -343,4 +344,5 @@ function setupAudioControls() {
   initGlobe();
   setupAudioControls();
   </script>
+
 </div>
