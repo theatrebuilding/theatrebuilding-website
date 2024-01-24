@@ -516,6 +516,7 @@ _template: advanced
 
       // Add event listener for the unmute functionality
       unmuteButton.addEventListener('touchend', function() {
+        event.preventDefault();
         currentPlayer.setVolume(1);
         this.style.display = 'none'; // Hide after clicking
       });
