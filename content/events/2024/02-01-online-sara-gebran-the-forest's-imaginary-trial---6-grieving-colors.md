@@ -56,6 +56,10 @@ css: |2-
       padding-right: 5vw;
     }
 
+    #footer>div {
+      margin-left: 5vw;
+    }
+
     #audio {
       position: fixed;
       top: 0px;
@@ -94,7 +98,6 @@ description: >-
 image: /uploads/ForestTrial_new02.jpg
 _template: advanced
 ---
-
 
   <div id='wrapper'>
     <div id="audio">
@@ -343,4 +346,3 @@ _template: advanced
     initGlobe();
     setupAudioControls();
     </script>
-
