@@ -457,7 +457,7 @@ body{
   scrollbar-width: none;
 }
 
-body::-webkit-scrollbar{
+::-webkit-scrollbar{
   display: none;
 }
 
@@ -602,6 +602,11 @@ body::-webkit-scrollbar{
   background-color: none; 
   padding-right: 25px;
   border-top: 1px solid black;
+  cursor: grab;
+}
+
+#footer-arrow {
+  cursor: grab;
 }
 
 #welcome-text {
