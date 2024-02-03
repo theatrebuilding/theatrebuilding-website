@@ -270,13 +270,6 @@ _template: advanced
       if (!audioState.audioTimer) {
           audioState.audioTimer = setInterval(() => {
               audioState.elapsedAudioTime++;
-              // Update current time for both audio elements if they are not muted
-              if (!audioState.enIsMuted) {
-                  document.getElementById('en-audio').currentTime = audioState.elapsedAudioTime;
-              }
-              if (!audioState.spIsMuted) {
-                  document.getElementById('sp-audio').currentTime = audioState.elapsedAudioTime;
-              }
           }, 1000);
       }
   }
