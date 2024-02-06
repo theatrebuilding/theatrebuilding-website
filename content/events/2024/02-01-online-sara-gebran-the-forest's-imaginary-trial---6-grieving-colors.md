@@ -1,6 +1,6 @@
 ---
 draft: false
-title: The Forest's Imaginary Trial - 6 Grieving Colors
+title: 6 Grieving Colors - The Forest's Imaginary Trial
 artistName: Sara Gebran
 location: Online
 date: 2024-02-05T12:00:00.000Z
