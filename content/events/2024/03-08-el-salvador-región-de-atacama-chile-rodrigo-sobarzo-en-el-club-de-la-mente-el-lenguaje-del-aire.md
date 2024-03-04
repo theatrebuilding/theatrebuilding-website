@@ -137,15 +137,10 @@ _template: advanced
     <div class="image-container">
       <img src="https://cf-ipfs.com/ipfs/bafybeia7a3wmhsb3to2h5oxlvvalvh5eb65vxj3nen73flca4d5zovjhle" alt="Background Image" />
       <div class="video-content">
-        <a
-          href="https://bafybeig3htfmxerqwzfhttihudrqaqg37g6amsaw7hrf7biztsuridsahi.ipfs.cf-ipfs.com/"
-          download="video.mp4"
-        >
+        <a href="https://your-mp4-download-link.mp4" download="video.mp4">
           <video autoplay muted loop id="video">
-            <source
-              src="https://bafybeig3htfmxerqwzfhttihudrqaqg37g6amsaw7hrf7biztsuridsahi.ipfs.cf-ipfs.com/"
-              type="video/mp4"
-            />
+            <source src="https://bafybeig3htfmxerqwzfhttihudrqaqg37g6amsaw7hrf7biztsuridsahi.ipfs.cf-ipfs.com/" type="video/webm" />
+            <source src="https://your-mp4-fallback-video.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
         </a>
