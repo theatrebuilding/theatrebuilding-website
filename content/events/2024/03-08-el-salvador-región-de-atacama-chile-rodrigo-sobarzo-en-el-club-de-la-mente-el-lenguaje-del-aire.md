@@ -2,7 +2,7 @@
 title: EN EL CLUB DE LA MENTE EL LENGUAJE DEL AIRE
 artistName: Rodrigo Sobarzo
 location: 'El Salvador, Región de Atacama, Chile'
-date: 2024-03-08T16:00:00.000Z
+date: 2024-03-08T15:00:00.000Z
 css: |-
   * {
     margin: 0;
