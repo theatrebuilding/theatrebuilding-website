@@ -130,7 +130,7 @@ description: >-
   The ascension of the sun is a tool of time. Time is a technology that belongs
   to the air element. I circle to reconnect to the earth’s core and its
   rotation.
-image: /uploads/enElClubRodrigo_thumb.jpg
+image: /uploads/enElClubRodrigo_thumb3.jpg
 _template: advanced
 ---
 
