@@ -2,8 +2,9 @@
 draft: false
 title: Den værdige nabo
 artistName: Monia Sander
-date: 2023-03-01T00:00:00.000Z
 location: 'Dokk1, Århus'
+date: 2023-03-01T00:00:00.000Z
+altDate: 'March, 2023'
 css: |
   div.scroll {
   position:relative;
