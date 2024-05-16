@@ -86,7 +86,7 @@ _template: advanced
 
 <p class="indryk1"><font size="4">If you want to participate: Open one of the <strong>bold documents</strong> and create your version of a previous version in any language.</font></p> 
 
-<p class="indryk1"><font size="4">Write your full name in the end of the document or inform the production about your identity and how you wish to be credited by sending an e-mail to theatrebuilding@theatrebuilding.com</font></p>
+<p class="indryk1"><font size="4">Write your full name in the end of the document or inform the production about your identity and how you wish to be credited by sending an e-mail to <a href="mailto:theatrebuilding@theatrebuilding.com" target="_blank">theatrebuilding@theatrebuilding.com</a></font></p>
 
 <p>*</p>
 
