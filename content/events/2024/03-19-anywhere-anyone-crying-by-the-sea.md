@@ -4,76 +4,76 @@ artistName: anyone
 location: anywhere
 date: 2024-03-19T14:00:00.000Z
 altDate: now
+css: |-
+  <head><style>
+
+  p {
+  padding-top: 10px;
+  padding-bottom: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
+
+  }
+
+  .overskrift {
+  padding-top: 2px;
+  padding-bottom: 0px;
+  padding-left: 50px;
+  padding-right: 20px;
+
+  }
+
+  .indryk {
+  padding-top: 10px;
+  padding-bottom: 0px;
+  padding-left: 50px;
+  padding-right: 20px;
+
+  }
+
+  .indryk1 {
+  padding-top: 10px;
+  padding-bottom: 0px;
+  padding-left: 100px;
+  padding-right: 20px;
+
+  }
+
+  .indryk2 {
+  padding-top: 10px;
+  padding-bottom: 0px;
+  padding-left: 150px;
+  padding-right: 20px;
+
+  }
+
+  .indryk3 {
+  padding-top: 10px;
+  padding-bottom: 0px;
+  padding-left: 200px;
+  padding-right: 20px;
+
+  }
+
+  .indryk4 {
+  padding-top: 10px;
+  padding-bottom: 0px;
+  padding-left: 250px;
+  padding-right: 20px;
+
+  }
+
+  .indryk5 {
+  padding-top: 10px;
+  padding-bottom: 0px;
+  padding-left: 300px;
+  padding-right: 20px;
+
+  }
+
+  </style></head>
 _template: advanced
 ---
-
-<head><style>
-
-p {
-padding-top: 10px;
-padding-bottom: 0px;
-padding-left: 20px;
-padding-right: 20px;
-
-}
-
-.overskrift {
-padding-top: 2px;
-padding-bottom: 0px;
-padding-left: 50px;
-padding-right: 20px;
-
-}
-
-.indryk {
-padding-top: 10px;
-padding-bottom: 0px;
-padding-left: 50px;
-padding-right: 20px;
-
-}
-
-.indryk1 {
-padding-top: 10px;
-padding-bottom: 0px;
-padding-left: 100px;
-padding-right: 20px;
-
-}
-
-.indryk2 {
-padding-top: 10px;
-padding-bottom: 0px;
-padding-left: 150px;
-padding-right: 20px;
-
-}
-
-.indryk3 {
-padding-top: 10px;
-padding-bottom: 0px;
-padding-left: 200px;
-padding-right: 20px;
-
-}
-
-.indryk4 {
-padding-top: 10px;
-padding-bottom: 0px;
-padding-left: 250px;
-padding-right: 20px;
-
-}
-
-.indryk5 {
-padding-top: 10px;
-padding-bottom: 0px;
-padding-left: 300px;
-padding-right: 20px;
-
-}
-
-</style></head>
 
 <body>
 
