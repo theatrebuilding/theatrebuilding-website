@@ -188,11 +188,16 @@ _template: advanced
 
 <p class="indryk5"><font size="4"><a href="https://soundcloud.com/ahmed-ben-abid-2/crying-by-the-sea-arij-131">Reading</a></font></p>
 
+<p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1A7rNKZyTGJuRNu38dXa2kmqO-MfuVUg0CrEI6hW_spw/edit?usp=sharing">1.5.3.2</a></strong></font></p>
+
 <p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1gbOwPgiBlBJK0rPmPOdXNq94vBqb4MtaZe0fVYtk-Ws/edit?usp=sharing">1.5.4, Arabic, Samah and Moody</a></em></font></p>
+<p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1mnWXp6RSYPAkALgvgRL32L8Lva3a2zHJVATxIFLeueQ/edit?usp=sharing">1.5.4.1</a></strong></font></p>
 
 <p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1wyC5Qs7L1yfBjDEiMlQyWlWy3GiYsYi3pQhBRFvxa5o/edit?usp=sharing">1.5.5, Arabic, Iheb</em></a></font></p>
 
 <p class="indryk4"><font size="4"><a href="https://soundcloud.com/ahmed-ben-abid-2/crying-by-the-sea-iheb-15/s-hbLppr1mdeN?si=cf7c9cff26f848b09951fda8861f964d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Reading</a></font></p>
+
+<p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1WehpBJhB4eh_GHyWjpG_qGnEaBq79LSmw1fMasGh9DI/edit?usp=sharing">1.5.5.1</a></strong></font></p>
 
 <p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1h_s06x-quGGYBKMX5D8g75EgP2mHaUzH5M6FNEctwiQ/edit?usp=sharing">1.5.5.1, Arabic, Abir</a></em></font></p>
 
