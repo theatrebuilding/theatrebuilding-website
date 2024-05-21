@@ -120,6 +120,8 @@ _template: advanced
 
 <p class="indryk3"><font size="4"><em><a href="https://ossw.pubpub.org/pub/ihqrnukv/draft?access=sowbjbdr">1.1.2, English, Eliza</a></em></font></p>
 
+<p class="indryk4"><font size="4"><a href="https://soundcloud.com/user-141869674/refrain-112-reading-1">Reading 1 (of version 1.1.2)</a></font></p>
+
 <p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1_NpD-hAEmrGoDY5N3UA6zwZOSjrtlVOqlMR6eFYoLeE/edit?usp=sharing">1.1.2.1, English, Nanna</a></em></font></p>
 
 <p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1_NpD-hAEmrGoDY5N3UA6zwZOSjrtlVOqlMR6eFYoLeE/edit?usp=sharing">1.1.2.1.1, English</a></strong></font></p>
@@ -127,8 +129,6 @@ _template: advanced
 <p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1uXVv4uZHtKWW9tIxIlIjnbvKqVuQWsDiS203Vwp1NaM/edit?usp=sharing">1.1.2.2, English</a></strong></font></p>
 
 <p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1YCBeCPg-bImz226C20o_g7rJ-3xBA3H7B-v0qOmp4Xc/edit?usp=sharing">1.1.2.3, English</a></strong></font></p>
-
-<p class="indryk4"><font size="4"><a href="https://soundcloud.com/user-141869674/refrain-112-reading-1">Reading 1 (of version 1.1.2)</a></font></p>
 
 <p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1dJE4HtAPqG7ppy7_v5Wx7W-h0jkd7CeEbvg5lJXcy5Q/edit?usp=sharing">1.1.3, English, Barly</em></a></font></p>
 
@@ -164,71 +164,71 @@ _template: advanced
 
 <p class="indryk2"><font size="4"><strong><a href="https://docs.google.com/document/d/1afu8i3HZWTI7BzmmAsuBhUX_egdcAC4ezFJo03sv7YA/edit?usp=sharing">1.7, Dansk</a></strong></font></p>
 
-<p class="indryk2"><font size="4"><em><a href="https://docs.google.com/document/d/1Makf4sEGgm3S0XLZ5uA91Y2VVt8xLT1W9vINcipEPO8/edit?usp=sharing">1.5, Arabic, Mongi</a></em></p>
+<p class="indryk2"><font size="4"><em><a href="https://docs.google.com/document/d/1Makf4sEGgm3S0XLZ5uA91Y2VVt8xLT1W9vINcipEPO8/edit?usp=sharing">1.5, الدارجة, Mongi</a></em></p>
 
-<p class="indryk3"><font size="4"><a href="https://soundcloud.com/ahmed-ben-abid-2/mongi-1/s-AbS6dSLvLfd?si=3906c1e875a04916b3dd47d022b1d34c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Reading (version 1)</a></font></p>
+<p class="indryk3"><font size="4"><a href="https://soundcloud.com/ahmed-ben-abid-2/mongi-1/s-AbS6dSLvLfd?si=3906c1e875a04916b3dd47d022b1d34c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Reading</a></font></p>
 
-<p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1mBNNb2fkr6H8k6dx_H1ZSrsRbR-58_yHMEkQ_eU8On8/edit?usp=sharing">1.5.1, Arabic, Ahmed</a></em></font></p>
+<p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1mBNNb2fkr6H8k6dx_H1ZSrsRbR-58_yHMEkQ_eU8On8/edit?usp=sharing">1.5.1, الدارجة, Ahmed</a></em></font></p>
 
-<p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1zwIxDPH3dfsJlJGHYXoLnzAti0sjiN15-Zs0N0Eh2NY/edit?usp=sharing">1.5.1.1, Arabic, Yessmine</a></em></font></p>
+<p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1zwIxDPH3dfsJlJGHYXoLnzAti0sjiN15-Zs0N0Eh2NY/edit?usp=sharing">1.5.1.1, الدارجة, Yessmine</a></em></font></p>
 
-<p class="indryk5"><font size="4"><a href="https://soundcloud.com/ahmed-ben-abid-2/crying-by-the-sea-yesmine-111/s-GHPMOsKPk9W?si=3906c1e875a04916b3dd47d022b1d34c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Reading (3 type of reading one take)</a></font></p>
+<p class="indryk5"><font size="4"><a href="https://soundcloud.com/ahmed-ben-abid-2/crying-by-the-sea-yesmine-111/s-GHPMOsKPk9W?si=3906c1e875a04916b3dd47d022b1d34c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Reading</a></font></p>
 
-<p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1Ci2Fw_KKPYcSPxqB0aBf9i8qzbaUW4luIVt81ibeobQ/edit?usp=sharing">1.5.1.1.1, Arabic</a></strong></font></p>
+<p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1Ci2Fw_KKPYcSPxqB0aBf9i8qzbaUW4luIVt81ibeobQ/edit?usp=sharing">1.5.1.1.1, الدارجة</a></strong></font></p>
 
-<p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/18J98xF0lQVPFX8a8Eo5V257c02BWFyVNurrW9UDEIO0/edit?usp=sharing">1.5.1.2, Arabic</a></strong></font></p>
+<p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/18J98xF0lQVPFX8a8Eo5V257c02BWFyVNurrW9UDEIO0/edit?usp=sharing">1.5.1.2, الدارجة</a></strong></font></p>
 
-<p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1GGSoqtv_pQaRtTy_4aXvw0Vx9LvFLf8Q_XdKveYzc-I/edit?usp=sharing">1.5.2, Arabic, Kacem and Yessmine</a></em></font></p>
+<p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1GGSoqtv_pQaRtTy_4aXvw0Vx9LvFLf8Q_XdKveYzc-I/edit?usp=sharing">1.5.2, الدارجة, Kacem & Yessmine</a></em></font></p>
 
 <p class="indryk4"><font size="4"><a href="https://soundcloud.com/ahmed-ben-abid-2/crying-by-the-sea-kacem-yasmine-12/s-SrHwurAPy9q?si=cf7c9cff26f848b09951fda8861f964d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Reading</a></font></p>
 
-<p class="indryk4"><font size="4"<em><a href="https://docs.google.com/document/d/1k_z1XRe0fo-1irVCD_t83EOiZpJd-DZC0ZKb-aVGjJY/edit?usp=sharing">1.5.2.1, Arabic, Kacem</a></em></font></p>
+<p class="indryk4"><font size="4"<em><a href="https://docs.google.com/document/d/1k_z1XRe0fo-1irVCD_t83EOiZpJd-DZC0ZKb-aVGjJY/edit?usp=sharing">1.5.2.1, الدارجة, Kacem</a></em></font></p>
 
-<p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1qmAOMYyYqAKKAafwUOP5MCjmW2UOYPJP8zQalkOX6_0/edit?usp=sharing">1.5.2.1.1, Arabic</a></strong></font></p>
+<p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1qmAOMYyYqAKKAafwUOP5MCjmW2UOYPJP8zQalkOX6_0/edit?usp=sharing">1.5.2.1.1, الدارجة</a></strong></font></p>
 
-<p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1Sso2CAa1BHfYGbLhe2zwRf3TL2D-dX3neI9ueLvBby4/edit?usp=sharing">1.5.2.2, Arabic</a></strong></font></p>
+<p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1Sso2CAa1BHfYGbLhe2zwRf3TL2D-dX3neI9ueLvBby4/edit?usp=sharing">1.5.2.2, الدارجة</a></strong></font></p>
 
-<p class="indryk3"><font size="4"<em><a href="https://docs.google.com/document/d/1uHDHsD3SPPOKADuF2LDJ1Ei-Jy3yKlA0wX5BTQv348g/edit?usp=sharing">1.5.3, Arabic, Arij and Nessrine</a></em></font></p>
+<p class="indryk3"><font size="4"<em><a href="https://docs.google.com/document/d/1uHDHsD3SPPOKADuF2LDJ1Ei-Jy3yKlA0wX5BTQv348g/edit?usp=sharing">1.5.3, الدارجة, Arij & Nessrine</a></em></font></p>
 
 <p class="indryk4"><font size="4"><a href="https://soundcloud.com/ahmed-ben-abid-2/crying-by-the-sea-arij-nesrinnne-13/s-0aK9OjHeJqi?si=cf7c9cff26f848b09951fda8861f964d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Reading</a></font></p>
 
-<p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1wWkHv3-aELc233RxPbf6_DDrXBFxaRf6fXTT1n8jhr4/edit?usp=sharing">1.5.3.1, Arabic, Arij</a></em></font></p>
+<p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1wWkHv3-aELc233RxPbf6_DDrXBFxaRf6fXTT1n8jhr4/edit?usp=sharing">1.5.3.1, الدارجة, Arij</a></em></font></p>
 
 <p class="indryk5"><font size="4"><a href="https://soundcloud.com/ahmed-ben-abid-2/crying-by-the-sea-arij-131">Reading</a></font></p>
 
-<p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1A7rNKZyTGJuRNu38dXa2kmqO-MfuVUg0CrEI6hW_spw/edit?usp=sharing">1.5.3.2, Arabic</a></strong></font></p>
+<p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1A7rNKZyTGJuRNu38dXa2kmqO-MfuVUg0CrEI6hW_spw/edit?usp=sharing">1.5.3.2, الدارجة</a></strong></font></p>
 
-<p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1gbOwPgiBlBJK0rPmPOdXNq94vBqb4MtaZe0fVYtk-Ws/edit?usp=sharing">1.5.4, Arabic, Samah and Moody</a></em></font></p>
-<p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1mnWXp6RSYPAkALgvgRL32L8Lva3a2zHJVATxIFLeueQ/edit?usp=sharing">1.5.4.1, Arabic</a></strong></font></p>
+<p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1gbOwPgiBlBJK0rPmPOdXNq94vBqb4MtaZe0fVYtk-Ws/edit?usp=sharing">1.5.4, الدارجة, Samah & Moody</a></em></font></p>
+<p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1mnWXp6RSYPAkALgvgRL32L8Lva3a2zHJVATxIFLeueQ/edit?usp=sharing">1.5.4.1, الدارجة</a></strong></font></p>
 
-<p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1wyC5Qs7L1yfBjDEiMlQyWlWy3GiYsYi3pQhBRFvxa5o/edit?usp=sharing">1.5.5, Arabic, Iheb</em></a></font></p>
+<p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1wyC5Qs7L1yfBjDEiMlQyWlWy3GiYsYi3pQhBRFvxa5o/edit?usp=sharing">1.5.5, الدارجة, Iheb</em></a></font></p>
 
 <p class="indryk4"><font size="4"><a href="https://soundcloud.com/ahmed-ben-abid-2/crying-by-the-sea-iheb-15/s-hbLppr1mdeN?si=cf7c9cff26f848b09951fda8861f964d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Reading</a></font></p>
 
-<p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1WehpBJhB4eh_GHyWjpG_qGnEaBq79LSmw1fMasGh9DI/edit?usp=sharing">1.5.5.1, Arabic</a></strong></font></p>
+<p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1WehpBJhB4eh_GHyWjpG_qGnEaBq79LSmw1fMasGh9DI/edit?usp=sharing">1.5.5.1, الدارجة</a></strong></font></p>
 
-<p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1h_s06x-quGGYBKMX5D8g75EgP2mHaUzH5M6FNEctwiQ/edit?usp=sharing">1.5.5.1, Arabic, Abir</a></em></font></p>
+<p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1h_s06x-quGGYBKMX5D8g75EgP2mHaUzH5M6FNEctwiQ/edit?usp=sharing">1.5.5.1, الدارجة, Abir</a></em></font></p>
 
-<p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1Hm2bjykw1bkbm-Ke6ysUffwOvov1sDz6nLE09KLeFQ0/edit?usp=sharing">1.5.5.1.1, Arabic</a></strong></font></p>
+<p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1Hm2bjykw1bkbm-Ke6ysUffwOvov1sDz6nLE09KLeFQ0/edit?usp=sharing">1.5.5.1.1, الدارجة</a></strong></font></p>
 
-<p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1RqH_sFTdUXVInwnwpvonCGdtdm_2rX1sq3AdbUzn6Y4/edit?usp=sharing">1.5.5.2, Arabic, Iheb</a></em></font></p>
+<p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1RqH_sFTdUXVInwnwpvonCGdtdm_2rX1sq3AdbUzn6Y4/edit?usp=sharing">1.5.5.2, الدارجة, Iheb</a></em></font></p>
 
-<p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1aMKg2-lSZROQV-uy05cX4xd-SX-hGT35Qyzoq_YBOUI/edit?usp=sharing">1.5.5.2.1, Arabic</a></strong></font></p>
+<p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1aMKg2-lSZROQV-uy05cX4xd-SX-hGT35Qyzoq_YBOUI/edit?usp=sharing">1.5.5.2.1, الدارجة</a></strong></font></p>
 
-<p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1lQuI0GvKkZVHsqT1SpUG2SUdz20yhd-CtUC6qkA06_Y/edit?usp=sharing">1.5.6, Arabic, Bilel</a></em></font></p>
+<p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1lQuI0GvKkZVHsqT1SpUG2SUdz20yhd-CtUC6qkA06_Y/edit?usp=sharing">1.5.6, الدارجة, Bilel</a></em></font></p>
 
 <p class="indryk4"><font size="4"><a href="https://soundcloud.com/ahmed-ben-abid-2/crying-by-the-sea-bilel-16/s-aJxT5YeIjyu?si=cf7c9cff26f848b09951fda8861f964d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Reading</a></font></p>
 
-<p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1ce2HXAGTAICPBgkgwZvpv72jY_Ouqz-mbNhmIQGmTSg/edit?usp=sharing">1.5.6.1, Arabic</a></strong></font></p>
+<p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1ce2HXAGTAICPBgkgwZvpv72jY_Ouqz-mbNhmIQGmTSg/edit?usp=sharing">1.5.6.1, الدارجة</a></strong></font></p>
 
-<p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1-JziwqHHOG5yff5R5_aQA0CpubDlJ-c9gBNcnyShmxs/edit?usp=sharing">1.5.7, Arabic, Rayen</a></em></font></p>
+<p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1-JziwqHHOG5yff5R5_aQA0CpubDlJ-c9gBNcnyShmxs/edit?usp=sharing">1.5.7, الدارجة, Rayen</a></em></font></p>
 
 <p class="indryk4"><font size="4"><a href="https://soundcloud.com/ahmed-ben-abid-2/crying-by-the-sea-rayennn17/s-hlxYlqbGGzY?si=cf7c9cff26f848b09951fda8861f964d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Reading</a></font></p>
 
-<p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1MRRgIeXa2wwmEAO_tMVGMa0GY2rAUnrlafiCiipGBXs/edit?usp=sharing">1.5.7.1, Arabic</a></strong></font></p>
+<p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1MRRgIeXa2wwmEAO_tMVGMa0GY2rAUnrlafiCiipGBXs/edit?usp=sharing">1.5.7.1, الدارجة</a></strong></font></p>
 
-<p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/1xR_EwMRG7ZTOfOkqP84yzZPI0miC2jl1fNbd4WutlHE/edit?usp=sharing">1.5.8, Arabic</strong></a></font></p>
+<p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/1xR_EwMRG7ZTOfOkqP84yzZPI0miC2jl1fNbd4WutlHE/edit?usp=sharing">1.5.8, الدارجة</strong></a></font></p>
 
-<p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/1FeCTWp5xS5q7zp-ge5aUIe_Nt57XE6cviTN_coLpFto/edit?usp=sharing">1.5.9, Arabic</strong></a></font></p>
+<p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/1FeCTWp5xS5q7zp-ge5aUIe_Nt57XE6cviTN_coLpFto/edit?usp=sharing">1.5.9, الدارجة</strong></a></font></p>
 
 </body>
