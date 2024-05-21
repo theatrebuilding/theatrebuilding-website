@@ -112,13 +112,17 @@ _template: advanced
 
 <p class="indryk4"><font size="4"><em><a href="https://ossw.pubpub.org/pub/gchn6zra/draft?access=dve146y2">1.1.1.1, English, Madison</a></em></font></p>
 
-<p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1YGwZaSm-SNxjuwe9p78XFPwjlInwRWRCGcs_h_Y7N7s/edit?usp=sharing">1.1.1.2, English</a></strong></font></p>
+<p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1YGwZaSm-SNxjuwe9p78XFPwjlInwRWRCGcs_h_Y7N7s/edit?usp=sharing">1.1.1.2, English, Barly</a></em></font></p>
+
+<p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1nRnHNOJSDRk-FrL4c_-48a2MB9Mhlr5LEPLpKg3OBmc/edit?usp=sharing">1.1.1.2.1, English</a></strong></font></p>
 
 <p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/15Mp6kRajAVTHuCLW4MFXi8leoRazwxDaNKxXsBskzSo/edit?usp=sharing">1.1.1.3, English</a></strong></font></p>
 
 <p class="indryk3"><font size="4"><em><a href="https://ossw.pubpub.org/pub/ihqrnukv/draft?access=sowbjbdr">1.1.2, English, Eliza</a></em></font></p>
 
-<p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1_NpD-hAEmrGoDY5N3UA6zwZOSjrtlVOqlMR6eFYoLeE/edit?usp=sharing">1.1.2.1, English</a></strong></font></p>
+<p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1_NpD-hAEmrGoDY5N3UA6zwZOSjrtlVOqlMR6eFYoLeE/edit?usp=sharing">1.1.2.1, English, Nanna</a></em></font></p>
+
+<p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1_NpD-hAEmrGoDY5N3UA6zwZOSjrtlVOqlMR6eFYoLeE/edit?usp=sharing">1.1.2.1.1, English</a></strong></font></p>
 
 <p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1uXVv4uZHtKWW9tIxIlIjnbvKqVuQWsDiS203Vwp1NaM/edit?usp=sharing">1.1.2.2, English</a></strong></font></p>
 
@@ -126,7 +130,9 @@ _template: advanced
 
 <p class="indryk4"><font size="4"><a href="https://soundcloud.com/user-141869674/refrain-112-reading-1">Reading 1 (of version 1.1.2)</a></font></p>
 
-<p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/1dJE4HtAPqG7ppy7_v5Wx7W-h0jkd7CeEbvg5lJXcy5Q/edit?usp=sharing">1.1.3, English</strong></a></font></p>
+<p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1dJE4HtAPqG7ppy7_v5Wx7W-h0jkd7CeEbvg5lJXcy5Q/edit?usp=sharing">1.1.3, English, Barly</em></a></font></p>
+
+<p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1ewbAOg5_S4HM3mooZ24_S5VVH7zy5VT2LY35M_eOHNw/edit?usp=sharing">1.1.3.1, English</strong></a></font></p>
 
 <p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/1ZZ67Uu3Qo7V1aiKGpNVLeecaZQQX3CzzUdQkywdvjv8/edit?usp=sharing">1.1.4, English</strong></a></font></p>
 
@@ -146,13 +152,15 @@ _template: advanced
 
 <p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/1Z_uaYmdZXgJchq9O32FSdr7pGCh8yH-9a_uXmdVcVTI/edit?usp=sharing">1.3.3, Dansk</a></strong></font></p>
 
-<p class="indryk2"><font size="4"><strong><a href="https://ossw.pubpub.org/pub/vn62x81c/draft?access=orrzr85w ">1.4, Dansk</a></strong></font></p>
+<p class="indryk2"><font size="4"><em><a href="https://ossw.pubpub.org/pub/vn62x81c/draft?access=fkkncp0j">1.4, Dansk, Katrine</a></em></font></p>
 
-<p class="indryk2"><font size="4"><strong><a href="https://ossw.pubpub.org/pub/vn62x81c/draft?access=orrzr85w ">1.4, Dansk</a></strong></font></p>
+<p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/1DGAXKPj-5RgVwWpsJqQBo9I37vCrjRYXlaoQQKrH7Jc/edit?usp=sharing">1.4.1, Dansk</a></strong></font></p>
 
 <p class="indryk2"><font size="4"><strong><a href="https://docs.google.com/document/d/1XLvO9mGBV22bKLSxlsKYU1y7z27V8laI9sYWKk65VvA/edit?usp=sharing">1.5, Dansk</a></strong></font></p>
 
-<p class="indryk2"><font size="4"><strong><a href="https://docs.google.com/document/d/190Z0oSrI7RB4kFOB7HaCA8s4QeXyw1vqr_Tam4BBYX8/edit?usp=sharing">1.6, Dansk</a></strong></font></p>
+<p class="indryk2"><font size="4"><em><a href="https://docs.google.com/document/d/190Z0oSrI7RB4kFOB7HaCA8s4QeXyw1vqr_Tam4BBYX8/edit?usp=sharing">1.6, Dansk</a></em></font></p>
+
+<p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/1CErfpPRUnpF7lGfVkL_2klC-3Y9W5C6QZUWdpFexRTw/edit?usp=sharing">1.6.1, Dansk</a></strong></font></p>
 
 <p class="indryk2"><font size="4"><strong><a href="https://docs.google.com/document/d/1afu8i3HZWTI7BzmmAsuBhUX_egdcAC4ezFJo03sv7YA/edit?usp=sharing">1.7, Dansk</a></strong></font></p>
 
