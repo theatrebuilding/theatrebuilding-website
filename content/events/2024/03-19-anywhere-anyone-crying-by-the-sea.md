@@ -71,6 +71,15 @@ css: |-
 
   }
 
+  .indryk5 {
+  padding-top: 10px;
+  padding-bottom: 0px;
+  padding-left: 350px;
+  padding-right: 20px;
+
+  }
+
+
   </style></head>
 _template: advanced
 ---
@@ -114,7 +123,9 @@ _template: advanced
 
 <p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1YGwZaSm-SNxjuwe9p78XFPwjlInwRWRCGcs_h_Y7N7s/edit?usp=sharing">1.1.1.2, English, Barly</a></em></font></p>
 
-<p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1nRnHNOJSDRk-FrL4c_-48a2MB9Mhlr5LEPLpKg3OBmc/edit?usp=sharing">1.1.1.2.1, English</a></strong></font></p>
+<p class="indryk5"><font size="4"><em><a href="https://docs.google.com/document/d/1nRnHNOJSDRk-FrL4c_-48a2MB9Mhlr5LEPLpKg3OBmc/edit?usp=sharing">1.1.1.2.1, English, Jazbo, David and Monia</a></em></font></p>
+
+<p class="indryk6"><font size="4"><strong><a href="https://docs.google.com/document/d/1wTMD_D6NxNHdu9TPiNJLJNJnybFUVdJhT1z2WvSy7uc/edit?usp=sharing ">1.1.1.2.1.1, English</a></strong></font></p>
 
 <p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/15Mp6kRajAVTHuCLW4MFXi8leoRazwxDaNKxXsBskzSo/edit?usp=sharing">1.1.1.3, English</a></strong></font></p>
 
