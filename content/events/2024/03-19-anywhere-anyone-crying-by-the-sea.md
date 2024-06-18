@@ -71,7 +71,7 @@ css: |-
 
   }
 
-  .indryk5 {
+  .indryk6 {
   padding-top: 10px;
   padding-bottom: 0px;
   padding-left: 350px;
