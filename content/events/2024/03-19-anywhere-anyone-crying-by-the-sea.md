@@ -264,6 +264,10 @@ _template: advanced
 
 <p class="indryk2"><font size="4"><strong><a href="https://docs.google.com/document/d/190Z0oSrI7RB4kFOB7HaCA8s4QeXyw1vqr_Tam4BBYX8/edit">1.7, Dansk</a></strong></font></p>
 
+<p class="indryk1"><font size="4"><em><a href="https://docs.google.com/document/d/1bP1clbtq8Gzd8e0XaC7P9-3tYRqGgabAJsIe_lmi5D8/edit?usp=sharing ">4, English, Amine</a></em></font></p>
+
+<p class="indryk2"><font size="4"><strong><a href="https://docs.google.com/document/d/1of0Yzn_Vy0v5scGA7kSfpKSxuyEM86chkWB8b1h6HDI/edit?usp=sharing ">4.1, English</a></strong></font></p>
+
 </body>
 
 ```javascript
