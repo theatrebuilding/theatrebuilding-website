@@ -165,9 +165,11 @@ _template: advanced
 
 <p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1lcnHqNdH73bQ-8VObxswoEp2nERhOjEeCm3gAvvW8DQ/edit?usp=sharing">1.1.4.1, English</strong></a></font></p>
 
-<p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/1ywzUncz6pIjGle-XHSVrbjbb5QspsuI6vJiuOx-y8yI/edit?usp=sharing">1.1.5, English</strong></a></font></p>
+<p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1ywzUncz6pIjGle-XHSVrbjbb5QspsuI6vJiuOx-y8yI/edit?usp=sharing">1.1.5, English, Mohammed</em></a></font></p>
 
-<p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/1WJ9d1tyxbcauW0IuozGEMlzAXdUjI4vGo6HVstZs964/edit?usp=sharing">1.1.6, English</strong></a></font></p>
+<p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1PYkRU2826aiZanNfCe0o15hD-x4wtiwKZmKQZoziFLk/edit?usp=sharing">1.1.5.1, English</strong></a></font></p>
+
+<p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/1ZZ67Uu3Qo7V1aiKGpNVLeecaZQQX3CzzUdQkywdvjv8/edit?usp=sharing">1.1.6, English</strong></a></font></p>
 
 <p class="indryk2"><font size="4"><em><a href="https://ossw.pubpub.org/pub/edi9ku7v/draft?access=2x0v0e5f ">1.2, Dansk, Monia</a></em></font></p>
 
