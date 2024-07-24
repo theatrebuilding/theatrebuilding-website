@@ -260,9 +260,9 @@ _template: advanced
 
 <p class="indryk2"><font size="4"><strong><a href="https://docs.google.com/document/d/190Z0oSrI7RB4kFOB7HaCA8s4QeXyw1vqr_Tam4BBYX8/edit">1.7, Dansk</a></strong></font></p>
 
-<p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1crxf9CfjXRzt7wQ3iwDFwYr-ia2iwpV0M401uSiqxqc/edit?usp=sharing">3, dansk, English, الدارجة, Monia (Roskilde festival)</em></a></font></p>
+<p class="indryk1"><font size="4"><em><a href="https://docs.google.com/document/d/1crxf9CfjXRzt7wQ3iwDFwYr-ia2iwpV0M401uSiqxqc/edit?usp=sharing">3, dansk, English, الدارجة, Monia (Roskilde festival)</em></a></font></p>
 
-<p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1cVSa0jOt16LhGiMgC-qfWuOtQscITqoqHoG-2TDPGRs/edit">3.1, dansk, English, الدارجة</strong></a></font></p>
+<p class="indryk2"><font size="4"><strong><a href="https://docs.google.com/document/d/1cVSa0jOt16LhGiMgC-qfWuOtQscITqoqHoG-2TDPGRs/edit">3.1, dansk, English, الدارجة</strong></a></font></p>
 
 <p class="indryk1"><font size="4"><em><a href="https://docs.google.com/document/d/1bP1clbtq8Gzd8e0XaC7P9-3tYRqGgabAJsIe_lmi5D8/edit?usp=sharing ">4, English, Amine</a></em></font></p>
 
