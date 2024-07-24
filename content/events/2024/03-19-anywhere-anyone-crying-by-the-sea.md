@@ -161,7 +161,9 @@ _template: advanced
 
 <p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1ewbAOg5_S4HM3mooZ24_S5VVH7zy5VT2LY35M_eOHNw/edit?usp=sharing">1.1.3.1, English</strong></a></font></p>
 
-<p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/1ZZ67Uu3Qo7V1aiKGpNVLeecaZQQX3CzzUdQkywdvjv8/edit?usp=sharing">1.1.4, English</strong></a></font></p>
+<p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1WJ9d1tyxbcauW0IuozGEMlzAXdUjI4vGo6HVstZs964/edit?usp=sharing">1.1.4, English, Kunrad</em></a></font></p>
+
+<p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1lcnHqNdH73bQ-8VObxswoEp2nERhOjEeCm3gAvvW8DQ/edit?usp=sharing">1.1.4.1, English</strong></a></font></p>
 
 <p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/1ywzUncz6pIjGle-XHSVrbjbb5QspsuI6vJiuOx-y8yI/edit?usp=sharing">1.1.5, English</strong></a></font></p>
 
