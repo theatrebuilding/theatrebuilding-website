@@ -1,7 +1,7 @@
 ---
-title: Watery Bodies by Giemaš
+title: Watery Bodies by Giemaš II
 artistName: Eliza Božek and Nanna Elvin Hansen
-location: Lávvonjárga
+location: 'Lávvonjárga, Deatnu River Estuary'
 date: 2024-08-04T08:00:00.000Z
 css: |2-
           .container {
@@ -16,9 +16,16 @@ css: |2-
           }
           .containertwo {
               height: 70vh;
-              margin: 10vw;
+              margin-left: 10vw;
+              margin-right: 10vw;
+              margin-top: 10vw;
               font-size: 20px;
               line-height: 30px;
+              font-family: 'Times New Roman', Times, serif;
+              p {
+                  padding-bottom: 50px;
+              }
+              
           }
           .image {
               max-width: 50%;
@@ -33,6 +40,7 @@ css: |2-
               font-family: 'Times New Roman', Times, serif;
           }
           .scrolling-text {
+              font-family: Arial, Helvetica, sans-serif;
               width: 100%;
               white-space: nowrap;
               overflow: hidden;
@@ -56,19 +64,49 @@ css: |2-
                   transform: translateX(-100%);
               }
           }
+          @media (max-width: 768px) {
+              .container {
+                  flex-direction: column;
+                  margin-left: 5vw;
+                  margin-right: 5vw;
+                  margin-top: 10vh;
+                  height: auto;
+              }
+              .text, .image {
+                  max-width: 100%;
+                  margin-right: 0;
+              }
+              .containertwo {
+                  margin: 5vw;
+              }
+              .scrolling-text {
+                  font-size: 30px;
+                  bottom: -20px;
+              }
+          }
+          @media (max-width: 480px) {
+              .containertwo {
+                  margin: 5vw;
+              }
+              .scrolling-text {
+                  font-size: 30px;
+              }
+
+          }
 description: >-
-  A radio livestream where listeners can attune to sounds of watery movements by
-  the shore of Lávvonjárga, Norway.
+  A two-day radio live-stream from the shore of the small Sami village
+  Lávvonjárga, facing the mountain of Giemaš and at the estuary of the Deatnu
+  river.
 image: /uploads/watery.jpg
 _template: advanced
 ---
 
-   <div class="container">
-
 ```
+<div class="container">
+    
     <div class="text">
         <script src="//myradiostream.com/embed/theatrebuilding"></script>
-        <p>From the 4.-5. of August, Eliza Božek and Nanna Elvin Hansen will set up a radio livestream where listeners can attune to sounds of watery movements by the shore of Lávvonjárga, a tiny Sami settlement on the strait marking the entrance to the fjord where a quartzite quarry is located. The broadcast offered a slow listening space and was an invitation to listen to soundscapes of the watery movements of difference and repetition.</p>
+        <p>Tune in to Watery Bodies by Giemaš II, a two-day radio live-stream on August 4–5, 2024 by artists Nanna Elvin Hansen and Eliza Bożek from the shore of the small Sami village Lávvonjárga, facing the mountain of Giemaš and at the estuary of the Deatnu river.</p>
     </div>
     <img src="watery.png" alt="Watery Bodies" class="image">
 </div>
@@ -77,13 +115,15 @@ _template: advanced
 </div>
 <div class="containertwo">
     <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum quam mauris, sit amet gravida mauris placerat et. Ut porttitor mattis mattis. Aenean condimentum fringilla luctus. Nam vehicula, orci sed eleifend placerat, est magna condimentum ipsum, sit amet ultricies est est efficitur orci. Nam mattis condimentum nisi, fringilla elementum nisi aliquam eget. Vestibulum auctor vitae lacus sit amet semper. Suspendisse dapibus orci enim, ac vulputate mauris iaculis in. Nam dignissim justo ac justo cursus fringilla.
+        The radio broadcast offers a slow listening space and an invitation to listen to soundscapes of the watery movements of difference and of repetition. Using microphones above and under water, through the water passage near Lávvonjárga, we are tuning into sites of connected waters that are facing change and contain political contests in this Arctic area of Sapmí in Norway.
 ```
 
-Nulla pulvinar, lacus in vulputate venenatis, mi ligula dignissim mauris, vitae ornare mauris lectus a mi. Maecenas mattis varius sem quis tristique. Aliquam vitae mollis ante, eu mattis erat. Donec risus justo, vulputate aliquet placerat sed, varius et ligula. Nulla tincidunt ex rutrum blandit porta. Phasellus aliquam sem sed orci gravida finibus. Vivamus tristique interdum turpis a venenatis. Mauris laoreet tellus non urna porta suscipit. In iaculis bibendum tempor. Nulla vel mattis ligula, vel varius tortor. Morbi fermentum lobortis arcu, at porta mauris porta at. Phasellus in sem orci. Vestibulum cursus quam felis, eu aliquet lacus scelerisque id. Nulla imperdiet risus a felis ornare faucibus. Sed in molestie mi. Integer lectus arcu, porttitor sed risus quis, tincidunt tincidunt nisl.
+The water by Lávvonjárga is a channel that hosts the movements of birds and seals, as well as those of tankers loaded with minerals extracted from a quartzite mining site at Giemaš mountain.
 
-Nullam imperdiet quam efficitur lacus sollicitudin, nec ullamcorper nulla interdum. Aenean iaculis, nisi eu gravida sollicitudin, libero diam mollis quam, vitae aliquam nisl tortor vitae metus. Suspendisse egestas diam nec rutrum pretium. Suspendisse tempor tempor semper. Suspendisse varius ex quis euismod maximus. Proin aliquam hendrerit augue, eu laoreet urna. Curabitur interdum in sem nec efficitur. Aliquam hendrerit volutpat molestie. Donec nec lobortis ex, et condimentum sapien. Integer quis sollicitudin eros.
+As part of an application to expand the mining site, the Chinese-owned mining company Elkem has requested to dredge the channel, which is part of a nature reserve, in order to make space for bigger and more profitable tankers. From Lávvonjárga, we can also listen to the water at the bay of Reakčavuotna, where marks left by migrating reindeer can be seen in the adjacent landscape. Controversy has arisen due to the planned expansion of the mine as it would disturb the migration of the reindeer.
 
-Nam aliquet, velit vel gravida placerat, lectus eros facilisis ipsum, sit amet fringilla nunc diam nec lectus. Curabitur a eleifend sem. Ut imperdiet tristique nibh, et imperdiet libero. Vestibulum at nunc nibh. Sed sit amet dictum metus. Nulla pellentesque elit tristique enim fermentum luctus. Pellentesque vel rhoncus lorem. Duis ex eros, luctus et maximus facilisis, tempus nec enim. Quisque ac venenatis justo. Donec quis dui ullamcorper, iaculis arcu in, feugiat arcu. Duis tincidunt maximus turpis, in tincidunt velit cursus vel. Integer vitae eros vel libero maximus vehicula. Aenean ut arcu vel nisi placerat tristique. Donec rhoncus facilisis metus in euismod. In hac habitasse platea dictumst.
+Another connecting body of water that we will tune into is the river delta, where the stream touches Lávvonjárga as it flows from the Barents Sea into the Deatnu river and through the bordered spaces of Sapmí from Norway to Finland. Salmon fishing from this river has been an essential part of local life since time immemorial.
 
-Nullam accumsan sollicitudin tincidunt. Morbi ac ultrices eros. Mauris tortor tellus, mattis in orci ut, rutrum condimentum dolor. Aenean laoreet dui lectus, vitae condimentum enim cursus eget. Phasellus et tempor odio. Fusce semper elit et metus efficitur posuere. Morbi nec elementum ex. Mauris ornare arcu at neque laoreet eleifend. Cras id finibus libero, eget placerat enim. </p> </div>
+As visitors in the landscape, we want to position ourselves as listeners and carefully attune to the patterns of the soundscape under and above the water surface. By listening to the aquatic movements at Lávvonjárga, we want to bring attention to connectivity through water—between specific contexts and locations as well as between different types of bodies. By lending our ear to the sea and engaging in slow listening, we speculate on the possibilities of fostering kinship through water as it flows through different spaces, through human and non-human bodies.
+
+The first edition of Watery Bodies by Giemaš took place on 13 - 14 March 2023 during the winter season and was streamed through the Lake Radio and Overgaden. warmth, Nanna x Eliza </p> </div>
