@@ -19,9 +19,11 @@ css: |2-
               margin-left: 10vw;
               margin-right: 10vw;
               margin-top: 10vw;
-              font-size: 20px;
+              font-size: 24px;
               line-height: 30px;
               font-family: 'Times New Roman', Times, serif;
+              max-width: 720px;
+              hyphens: auto;
               p {
                   padding-bottom: 50px;
               }
@@ -35,7 +37,7 @@ css: |2-
               margin-right: 55px;
               text-align: left;
               max-width: 50%;
-              font-size: 20px;
+              font-size: 24px;
               line-height: 30px;
               font-family: 'Times New Roman', Times, serif;
           }
@@ -101,9 +103,9 @@ image: /uploads/watery.jpg
 _template: advanced
 ---
 
+   <div class="container">
+
 ```
-<div class="container">
-    
     <div class="text">
         <script src="//myradiostream.com/embed/theatrebuilding"></script>
         <p>Tune in to Watery Bodies by Giemaš II, a two-day radio live-stream on August 4–5, 2024 by artists Nanna Elvin Hansen and Eliza Bożek from the shore of the small Sami village Lávvonjárga, facing the mountain of Giemaš and at the estuary of the Deatnu river.</p>
@@ -114,16 +116,11 @@ _template: advanced
     <div>WATERY BODIES BY GIEMAŠ ----- RADIO LIVE STREAM ----- LÁVVONJÁRGA ----- 4.-5. AUGUST 2024 ----- WATERY BODIES BY GIEMAŠ</div>
 </div>
 <div class="containertwo">
-    <p>
-        The radio broadcast offers a slow listening space and an invitation to listen to soundscapes of the watery movements of difference and of repetition. Using microphones above and under water, through the water passage near Lávvonjárga, we are tuning into sites of connected waters that are facing change and contain political contests in this Arctic area of Sapmí in Norway.
+    <p>The radio broadcast offers a slow listening space and an invitation to listen to soundscapes of the watery movements of difference and of repetition. Using microphones above and under water, through the water passage near Lávvonjárga, we are tuning into sites of connected waters that are facing change and contain political contests in this Arctic area of Sapmí in Norway.</p>
+    <p>The water by Lávvonjárga is a channel that hosts the movements of birds and seals, as well as those of tankers loaded with minerals extracted from a quartzite mining site at Giemaš mountain.</p>
+    <p>As part of an application to expand the mining site, the Chinese-owned mining company Elkem has requested to dredge the channel, which is part of a nature reserve, in order to make space for bigger and more profitable tankers. From Lávvonjárga, we can also listen to the water at the bay of Reakčavuotna, where marks left by migrating reindeer can be seen in the adjacent landscape. Controversy has arisen due to the planned expansion of the mine as it would disturb the migration of the reindeer.</p>
+    <p>Another connecting body of water that we will tune into is the river delta, where the stream touches Lávvonjárga as it flows from the Barents Sea into the Deatnu river and through the bordered spaces of Sapmí from Norway to Finland. Salmon fishing from this river has been an essential part of local life since time immemorial.</p>
+    <p>As visitors in the landscape, we want to position ourselves as listeners and carefully attune to the patterns of the soundscape under and above the water surface. By listening to the aquatic movements at Lávvonjárga, we want to bring attention to connectivity through water—between specific contexts and locations as well as between different types of bodies. By lending our ear to the sea and engaging in slow listening, we speculate on the possibilities of fostering kinship through water as it flows through different spaces, through human and non-human bodies.</p>
+    <p>The first edition of Watery Bodies by Giemaš took place on 13 - 14 March 2023 during the winter season and was streamed through the Lake Radio and Overgaden. warmth, Nanna x Eliza</p>
+</div>
 ```
-
-The water by Lávvonjárga is a channel that hosts the movements of birds and seals, as well as those of tankers loaded with minerals extracted from a quartzite mining site at Giemaš mountain.
-
-As part of an application to expand the mining site, the Chinese-owned mining company Elkem has requested to dredge the channel, which is part of a nature reserve, in order to make space for bigger and more profitable tankers. From Lávvonjárga, we can also listen to the water at the bay of Reakčavuotna, where marks left by migrating reindeer can be seen in the adjacent landscape. Controversy has arisen due to the planned expansion of the mine as it would disturb the migration of the reindeer.
-
-Another connecting body of water that we will tune into is the river delta, where the stream touches Lávvonjárga as it flows from the Barents Sea into the Deatnu river and through the bordered spaces of Sapmí from Norway to Finland. Salmon fishing from this river has been an essential part of local life since time immemorial.
-
-As visitors in the landscape, we want to position ourselves as listeners and carefully attune to the patterns of the soundscape under and above the water surface. By listening to the aquatic movements at Lávvonjárga, we want to bring attention to connectivity through water—between specific contexts and locations as well as between different types of bodies. By lending our ear to the sea and engaging in slow listening, we speculate on the possibilities of fostering kinship through water as it flows through different spaces, through human and non-human bodies.
-
-The first edition of Watery Bodies by Giemaš took place on 13 - 14 March 2023 during the winter season and was streamed through the Lake Radio and Overgaden. warmth, Nanna x Eliza </p> </div>
