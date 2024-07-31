@@ -2,7 +2,7 @@
 title: Watery Bodies by Giemaš II
 artistName: Eliza Božek and Nanna Elvin Hansen
 location: 'Lávvonjárga, Deatnu River Estuary'
-date: 2024-08-04T08:00:00.000Z
+date: 2024-08-04T10:00:00.000Z
 css: |2-
           .container {
               display: flex;
