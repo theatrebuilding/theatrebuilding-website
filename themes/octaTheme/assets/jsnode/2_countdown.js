@@ -15,6 +15,7 @@ function startCountdown() {
         if (timeLeft <= 0) {
           clearInterval(timerId);
           countdownElement.textContent = 'The performance is now live!';
+          setTimeout(function(){location.reload();},2000); // wait 2 seconds and then refresh the page
           return;
         }
 
