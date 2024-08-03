@@ -4,43 +4,53 @@ artistName: Eliza Božek and Nanna Elvin Hansen
 location: 'Lávvonjárga, Deatnu River Estuary'
 date: 2024-08-04T10:00:00.000Z
 css: >-
-    .container1 {display: flex;flex-direction: row;align-items: center;justify-content: center;text-align: center;margin-left: 10vw;margin-right: 10vw;height: 100vh;}
-    
-    .containertwo {height: 70vh;margin-left: 10vw;margin-right: 10vw;margin-top: 10vw;font-size: 24px;  line-height: 30px;font-family: 'Times New Roman', Times, serif;max-width: 100%;hyphens: auto;
-        p {padding-bottom: 50px; margin-left: 20vw; margin-right:20vw;}
-    }
-    
-    .image {max-width: 50%;height: auto;}
-    
-    .text {margin-right: 55px;text-align: left;max-width: 50%;font-size: 24px;line-height: 30px;font-family: 'Times New Roman', Times, serif;}
-    
-    .scrolling-text {font-family: Arial, Helvetica, sans-serif;width: 100%;white-space: nowrap;overflow: hidden;bottom: 0;position: relative;bottom: 50px;background: transparent;padding: 10px 0;font-size: 30px;}
-    
-    .scrolling-text div {display: inline-block;padding-left: 100%; animation: scroll 20s linear infinite;}
-    
-    @keyframes scroll {0% {transform: translateX(0);}100% {transform: translateX(-100%);}}
-    
-    @media (max-width: 768px) {
-    .container1 {flex-direction: column;margin-left: 5vw;margin-right: 5vw;margin-top: 10vh;height: auto;} .text, .image { max-width: 100%; margin-right: 0;}.containertwo {margin: 5vw; p {margin-left: 0px; margin-right:0px;}}.scrolling-text {font-size: 30px;bottom: -20px;}}
-    
-    @media (max-width: 480px) {.containertwo {margin: 5vw;p {margin-left: 0px; margin-right:0px;}}.scrolling-text {font-size: 30px;}}
+  .container1 {display: flex;flex-direction: row;align-items:
+  center;justify-content: center;text-align: center;margin-left:
+  10vw;margin-right: 10vw;height: 100vh;}
 
+  .containertwo {height: 70vh;margin-left: 10vw;margin-right: 10vw;margin-top:
+  10vw;font-size: 24px;  line-height: 30px;font-family: 'Times New Roman',
+  Times, serif;max-width: 100%;hyphens: auto;
+      p {padding-bottom: 50px; margin-left: 20vw; margin-right:20vw;}
+  }
+
+  .image {max-width: 50%;height: auto;}
+
+  .text {margin-right: 55px;text-align: left;max-width: 50%;font-size:
+  24px;line-height: 30px;font-family: 'Times New Roman', Times, serif;}
+
+  .scrolling-text {font-family: Arial, Helvetica, sans-serif;width:
+  100%;white-space: nowrap;overflow: hidden;bottom: 0;position: relative;bottom:
+  50px;background: transparent;padding: 10px 0;font-size: 30px;}
+
+  .scrolling-text div {display: inline-block;padding-left: 100%; animation:
+  scroll 20s linear infinite;}
+
+  @keyframes scroll {0% {transform: translateX(0);}100% {transform:
+  translateX(-100%);}}
+
+  @media (max-width: 768px) { .container1 {flex-direction: column;margin-left:
+  5vw;margin-right: 5vw;margin-top: 10vh;height: auto;} .text, .image {
+  max-width: 100%; margin-right: 0;}.containertwo {margin: 5vw; p {margin-left:
+  0px; margin-right:0px;}}.scrolling-text {font-size: 30px;bottom: -20px;}}
+
+  @media (max-width: 480px) {.containertwo {margin: 5vw;p {margin-left: 0px;
+  margin-right:0px;}}.scrolling-text {font-size: 30px;}}
 description: >-
   A two-day radio live-stream from the shore of the small Sami village
   Lávvonjárga, facing the mountain of Giemaš and at the estuary of the Deatnu
   river.
-image: /uploads/watery.jpg
+image: /uploads/watery.jpeg
 _template: advanced
 ---
 
 <div class="container1">
 
-
 <div class="text">
         <script src="//myradiostream.com/embed/theatrebuilding"></script>
         <p>Tune in to Watery Bodies by Giemaš II, a two-day radio live-stream on August 4–5, 2024 by artists Nanna Elvin Hansen and Eliza Bożek from the shore of the small Sami village Lávvonjárga, facing the mountain of Giemaš and at the estuary of the Deatnu river.</p>
     </div>
-    <img src="https://theatrebuilding.com/uploads/watery.jpg" alt="Watery Bodies" class="image">
+    <img src="https://theatrebuilding.com/uploads/watery.jpeg" alt="Watery Bodies" class="image">
 </div>
 <div class="scrolling-text">
     <div>WATERY BODIES BY GIEMAŠ ----- RADIO LIVE STREAM ----- LÁVVONJÁRGA ----- 4.-5. AUGUST 2024 ----- WATERY BODIES BY GIEMAŠ</div>
