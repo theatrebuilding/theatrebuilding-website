@@ -190,11 +190,17 @@ _template: advanced
 
 <p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1PYkRU2826aiZanNfCe0o15hD-x4wtiwKZmKQZoziFLk/edit?usp=sharing">1.1.5.1, English</strong></a></font></p>
 
-<p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/1ZZ67Uu3Qo7V1aiKGpNVLeecaZQQX3CzzUdQkywdvjv8/edit?usp=sharing">1.1.6, English</strong></a></font></p>
+<p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1ZZ67Uu3Qo7V1aiKGpNVLeecaZQQX3CzzUdQkywdvjv8/edit?usp=sharing">1.1.6, English, Mohammed</em></a></font></p>
+
+<p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/13lUJDdcpDaBIJob_PYwESU7C9C8qDSoB4JPJIW9PPGs/edit?usp=sharing">1.1.6.1, English</strong></a></font></p>
+
+<p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/1Ycc6EqZ_v-WLkq6Gay6Cbf8fxSGF67m_sqRumdcncN4/edit?usp=sharing">1.1.7, English</strong></a></font></p>
 
 <p class="indryk2"><font size="4"><em><a href="https://ossw.pubpub.org/pub/edi9ku7v/draft?access=2x0v0e5f ">1.2, Dansk, Monia</a></em></font></p>
 
 <p class="indryk3"><font size="4"><a href="https://soundcloud.com/user-141869674/omkvaed-1_2-reading-1">Reading 1 (of version 1.2)</a></font></p>
+
+<p class="indryk2"><font size="4"><strong><a href="https://docs.google.com/document/d/1Yy0V7XgfYqc4zZjdhe3JqofTBJrcI0ajXf2zG7s1KOA/edit?usp=sharing">1.2.1, Dansk</a></strong></font></p>
 
 <p class="indryk2"><font size="4"><em><a href="https://ossw.pubpub.org/pub/7jisqov5/draft?access=ksch6mh8 ">1.3, Dansk, Henri</a></em></font></p>
 
@@ -228,7 +234,11 @@ _template: advanced
 
 <p class="indryk4"><font size="4"<em><a href="https://docs.google.com/document/d/1k_z1XRe0fo-1irVCD_t83EOiZpJd-DZC0ZKb-aVGjJY/edit?usp=sharing">1.5.2.1, الدارجة, Kacem</a></em></font></p>
 
-<p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1qmAOMYyYqAKKAafwUOP5MCjmW2UOYPJP8zQalkOX6_0/edit?usp=sharing">1.5.2.1.1, الدارجة</a></strong></font></p>
+<p class="indryk5"><font size="4"><em><a href="https://docs.google.com/document/d/1qmAOMYyYqAKKAafwUOP5MCjmW2UOYPJP8zQalkOX6_0/edit?usp=sharing">1.5.2.1.1, الدارجة, Rania</a></em></font></p>
+
+<p class="indryk6"><font size="4"><strong><a href="https://docs.google.com/document/d/15PPFYRqWOQmEB_7ruys7qEh8smCRyMjsAzSiv9nhZ1w/edit?usp=sharing">1.5.2.1.1.1, الدارجة</a></strong></font></p>
+
+<p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1JHRLmssCdjv5mka7LKdzW2bpAY-uN_OkuO_BCLuff9A/edit?usp=sharing">1.5.2.1.2, الدارجة</a></strong></font></p>
 
 <p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1Sso2CAa1BHfYGbLhe2zwRf3TL2D-dX3neI9ueLvBby4/edit?usp=sharing">1.5.2.2, الدارجة</a></strong></font></p>
 
