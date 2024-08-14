@@ -250,6 +250,8 @@ _template: advanced
 
 <p class="indryk5"><font size="4"><a href="https://soundcloud.com/ahmed-ben-abid-2/crying-by-the-sea-arij-131">Reading</a></font></p>
 
+<p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1M88i9CogVJcqnegGEUSYWza1YRCmZZaA2ni8DuwN1Vo/edit?usp=sharing">1.5.3.1.1, الدارجة</a></strong></font></p>
+
 <p class="indryk5"><font size="4"><em><a href="https://docs.google.com/document/d/1A7rNKZyTGJuRNu38dXa2kmqO-MfuVUg0CrEI6hW_spw/edit?usp=sharing">1.5.3.2, الدارجة, Moody</a></em></font></p>
 
 <p class="indryk6"><font size="4"><strong><a href="https://docs.google.com/document/d/1RoEUDA_3d05xtiv8LtASSZxzp8UpfMOH0Wb3d4Xkf4c/edit?usp=sharing">1.5.3.2.1, الدارجة</a></strong></font></p>
