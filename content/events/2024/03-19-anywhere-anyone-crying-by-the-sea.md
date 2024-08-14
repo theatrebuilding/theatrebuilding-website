@@ -79,6 +79,13 @@ css: |-
 
   }
 
+  .indryk7 {
+  padding-top: 10px;
+  padding-bottom: 0px;
+  padding-left: 400px;
+  padding-right: 20px;
+
+  }
 
   </style></head>
 _template: advanced
