@@ -254,7 +254,11 @@ _template: advanced
 
 <p class="indryk5"><font size="4"><em><a href="https://docs.google.com/document/d/1A7rNKZyTGJuRNu38dXa2kmqO-MfuVUg0CrEI6hW_spw/edit?usp=sharing">1.5.3.2, الدارجة, Moody</a></em></font></p>
 
-<p class="indryk6"><font size="4"><strong><a href="https://docs.google.com/document/d/1RoEUDA_3d05xtiv8LtASSZxzp8UpfMOH0Wb3d4Xkf4c/edit?usp=sharing">1.5.3.2.1, الدارجة</a></strong></font></p>
+<p class="indryk6"><font size="4"><em><a href="https://docs.google.com/document/d/1RoEUDA_3d05xtiv8LtASSZxzp8UpfMOH0Wb3d4Xkf4c/edit?usp=sharing">1.5.3.2.1, الدارجة, Moody</a></em></font></p>
+
+<p class="indryk7"><font size="4"><strong><a href="https://docs.google.com/document/d/1qI00e7WF7FwkraQnNFy0tLqjel43BIvdDsfffxdA3Qc/edit?usp=sharing">1.5.3.2.1.1, الدارجة</a></strong></font></p>
+
+<p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1KZQO2ftKDNLGJ6Oe5ncJTGmVIsUNox8eN-l4zQoCfkk/edit?usp=sharing">1.5.3.2.2, الدارجة</a></strong></font></p>
 
 <p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1gbOwPgiBlBJK0rPmPOdXNq94vBqb4MtaZe0fVYtk-Ws/edit?usp=sharing">1.5.4, الدارجة, Samah & Moody</a></em></font></p>
 <p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1mnWXp6RSYPAkALgvgRL32L8Lva3a2zHJVATxIFLeueQ/edit?usp=sharing">1.5.4.1, الدارجة</a></strong></font></p>
