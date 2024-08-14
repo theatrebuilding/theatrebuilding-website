@@ -297,7 +297,11 @@ _template: advanced
 
 <p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/13eWi94lmhK3lNhURrUXLw4GVN5RsA9RyMyLn_XYDJjk/edit?usp=sharing">1.6.1, Dansk</a></strong></font></p>
 
-<p class="indryk2"><font size="4"><strong><a href="https://docs.google.com/document/d/190Z0oSrI7RB4kFOB7HaCA8s4QeXyw1vqr_Tam4BBYX8/edit">1.7, Dansk</a></strong></font></p>
+<p class="indryk2"><font size="4"><em><a href="https://docs.google.com/document/d/190Z0oSrI7RB4kFOB7HaCA8s4QeXyw1vqr_Tam4BBYX8/edit">1.7, Dansk</a></em></font></p>
+
+<p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/1crupZvwLP-Uc8scWwBSTdT_YSCz1Usiz1w0YFJrc2NI/edit?usp=sharing">1.7.1, Dansk</a></strong></font></p>
+
+<p class="indryk2"><font size="4"><strong><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?usp=sharing">1.8, Dansk</a></strong></font></p>
 
 <p class="indryk1"><font size="4"><em><a href="https://docs.google.com/document/d/1crxf9CfjXRzt7wQ3iwDFwYr-ia2iwpV0M401uSiqxqc/edit?usp=sharing">3, dansk, English, الدارجة, Monia (Roskilde festival)</em></a></font></p>
 
