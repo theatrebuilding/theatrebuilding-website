@@ -344,4 +344,5 @@ _template: advanced
 </body>
 
 <div class="c">
-<p class="indryk1"><font size="4"><a href="https://app.console.xyz/c/theatrebuilding/chat?r=53226998-2bc9-43bc-8e1a-d83f6cc7ef5f">Join our conversation on Console</a> / <a href="https://www.instagram.com/cryingbythesea/">Follow the project on Instagram</a></p>
+<a href="https://app.console.xyz/c/theatrebuilding/chat?r=53226998-2bc9-43bc-8e1a-d83f6cc7ef5f"><img src=" console.png" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+<a href="https://www.instagram.com/cryingbythesea/"><img src="Black-icon-Instagram-logo-transparent-PNG.png" alt="HTML tutorial" style="width:42px;height:42px;"></a>
