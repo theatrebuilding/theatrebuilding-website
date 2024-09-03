@@ -97,10 +97,10 @@ css: |-
 
   div.c {
     text-align: right;
-  padding-top: 10px;
-  padding-bottom: 0px;
-  padding-left: 300px;
-  padding-right: 20px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 600px;
+  padding-right: 50px;
   } 
 
   div.d {
@@ -122,7 +122,7 @@ _template: advanced
 <p><font size="7"><strong>Græder ved havet | البكاء على حافة البحر</strong></font></p>
 <p class="overskrift"><font size="7">open source writing space</font></p>
 
-<p class="indryk1"><font size="4">These scripts have been written throughout a series of workshops for the performance project, Crying by the Sea.</font></p> 
+<p class="indryk1"><font size="4">These scripts have been written throughout a series of workshops for the performance project, Græder ved havetالبكاء على حافة البحر.</font></p> 
 
 <p class="indryk1"><font size="4">The scripts are open source and can be used freely with creditation by anyone.</font></p> 
 
