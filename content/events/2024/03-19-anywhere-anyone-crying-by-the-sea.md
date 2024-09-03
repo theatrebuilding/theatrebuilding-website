@@ -117,7 +117,20 @@ _template: advanced
 <p class="overskrift"><font size="7">open source writing, reading and listening space</font></p>
 
 <div class="c">
-<p class="indryk1"><font size="4"; font-color="blue">In the durational sound installation, 5 Minutes Ago, an undefined body of spect-actors will be reading from <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">T&aring;rnby</a>, Tunis, London and Copenhagen. In the sound installation, we are trying out a python script, written by Jazbo and Mohammed, that will merge voices across time and space. We are currently setting up the stream.</font></p> 
+
+<script>
+var i = 0;
+var txt = 'In the durational sound installation, 5 Minutes Ago, an undefined body of spect-actors will be reading from <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">T&aring;rnby</a>, Tunis, London and Copenhagen. In the sound installation, we are trying out a python script, written by Jazbo and Mohammed, that will merge voices across time and space. We are currently setting up the stream.';
+var speed = 50;
+
+function typeWriter() {
+  if (i < txt.length) {
+    document.getElementById("demo").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+}
+</script> 
 
 <p class="indryk1"><script src="//myradiostream.com/embed/theatrebuilding"></script></p> 
 </div>
