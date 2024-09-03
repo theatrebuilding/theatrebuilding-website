@@ -102,11 +102,11 @@ css: |-
 
   div.c {
   text-align: right;
-  font-size: 5;
   position: fixed;
+  font-size: 4;
   padding-top: 50px;
   padding-bottom: 50px;
-  padding-right: 50px;
+  padding-right: 10px;
   } 
 
   div.d {
@@ -121,29 +121,28 @@ _template: advanced
 <div class="a">
 <p><font size="7"><strong>البكاء على حافة البحر</strong></font></p></div>
 <p class="indryk1"><font size="7"><strong>Græder ved havet</strong></font></p>
-<p class="overskrift"><font size="7">open source writing, reading and listening space</font></p>
+<p class="overskrift"><font size="5">open source writing, reading and listening space</font></p>
 
 <div class="c">
-<p class="indryk1">In the durational sound installation, 5 Minutes Ago, an undefined body of spect-actors will read the scripts from <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">T&aring;rnby</a>, Tunis, London and Copenhagen. We are currently setting up the stream.</p>
-
+<p><font size="4">In the durational sound installation, 5 Minutes Ago, an undefined body of spect-actors will read the scripts from <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">T&aring;rnby</a>, Tunis, London and Copenhagen. We are currently setting up the stream.</p>
 <p class="indryk1"><script src="//myradiostream.com/embed/theatrebuilding"></script></p> 
 </div>
 
-<p class="indryk1">The following scripts have been written throughout a series of workshops for the performance project, Græder ved havetالبكاء على حافة البحر.</font></p> 
+<p class="indryk1"><font size="4">The following scripts have been written throughout a series of workshops for the performance project, Græder ved havetالبكاء على حافة البحر.</font></p> 
 
-<p class="indryk1">The scripts are open source and can be used freely with creditation by anyone.</font></p> 
+<p class="indryk1"><font size="4">The scripts are open source and can be used freely with creditation by anyone.</font></p> 
 
-<p class="indryk1">If you want to participate: Open one of the <strong>bold documents</strong> and create your version of a previous version in any language.</font></p> 
+<p class="indryk1"><font size="4">If you want to participate: Open one of the <strong>bold documents</strong> and create your version of a previous version in any language.</font></p> 
 
-<p class="indryk1">Write your full name in the end of the document or inform the production about your identity and how you wish to be credited by sending an e-mail to <a href="mailto:theatrebuilding@theatrebuilding.com" target="_blank">theatrebuilding@theatrebuilding.com</a></font></p>
+<p class="indryk1"><font size="4">Write your full name in the end of the document or inform the production about your identity and how you wish to be credited by sending an e-mail to <a href="mailto:theatrebuilding@theatrebuilding.com" target="_blank">theatrebuilding@theatrebuilding.com</a></font></p>
 
 <p>*</p>
 
-<p class="indryk1"><em>Italic: Finished version</em></font></p>
+<p class="indryk1"><font size="4"><em>Italic: Finished version</em></font></p>
 
-<p class="indryk1"><strong>Bold: Open to edits</strong></font></p>
+<p class="indryk1"><font size="4"><strong>Bold: Open to edits</strong></font></p>
 
-<p class="indryk1">Regular: Sound recording</font></p>
+<p class="indryk1"><font size="4">Regular: Sound recording</font></p>
 
 <p>*</p>
 
