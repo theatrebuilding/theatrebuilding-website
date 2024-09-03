@@ -88,7 +88,9 @@ css: |-
   }
 
   div.a {
-    text-align: center;
+    text-align: right;
+  padding-top: 50px;
+  padding-right: 50px;
   }
 
   div.b {
@@ -116,7 +118,7 @@ _template: advanced
 ---
 
 <body>
-<div class="b">
+<div class="a">
 <p><font size="7"><strong>البكاء على حافة البحر</strong></font></p></div>
 <p class="indryk1"><font size="7"><strong>Græder ved havet</strong></font></p>
 <p class="overskrift"><font size="7">open source writing, reading and listening space</font></p>
@@ -345,6 +347,6 @@ _template: advanced
 <p class="indryk2"><font size="4"><strong><a href="https://docs.google.com/document/d/1of0Yzn_Vy0v5scGA7kSfpKSxuyEM86chkWB8b1h6HDI/edit?usp=sharing">4.1, English</a></strong></font></p>
 
 <div class="b">
-<a href="https://app.console.xyz/c/theatrebuilding/chat?r=53226998-2bc9-43bc-8e1a-d83f6cc7ef5f"><img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/console.png " style="height:42px; width:42px"></a> <a href="https://www.instagram.com/cryingbythesea/"><img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/Black-icon-Instagram-logo-transparent-PNG.png" style="height:42px; width:42px"></a>
+<a href="https://app.console.xyz/c/theatrebuilding/chat?r=53226998-2bc9-43bc-8e1a-d83f6cc7ef5f"><img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/console.png " style="height:42px"></a> <a href="https://www.instagram.com/cryingbythesea/"><img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/Black-icon-Instagram-logo-transparent-PNG.png" style="height:42px"></a>
   <div>
 </body>
