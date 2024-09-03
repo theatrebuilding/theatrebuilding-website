@@ -1,5 +1,5 @@
 ---
-title: Crying by the Sea
+title: Græder ved havet | البكاء على حافة البحر
 artistName: anyone
 location: anywhere
 date: 2024-03-19T14:00:00.000Z
@@ -93,7 +93,11 @@ _template: advanced
 
 <body>
 
-<p><font size="7"><strong>Crying by the Sea</strong></font></p>
+In the durational sound installation, 5 Minutes Ago, an undefined body of spect-actors will be reading the scripts from Tårnby, Tunis, London and Copenhagen. We are currently setting up the stream.
+
+<script src="//myradiostream.com/embed/theatrebuilding"></script>
+
+<p><font size="7"><strong>Græder ved havet | البكاء على حافة البحر</strong></font></p>
 <p class="overskrift"><font size="7">open source writing space</font></p>
 
 <p class="indryk1"><font size="4">These scripts have been written throughout a series of workshops for the performance project, Crying by the Sea.</font></p> 
