@@ -100,7 +100,7 @@ css: |-
 
   div.c {
   text-align: right;
-  font-size: 4;
+  font-size: 5;
   position: fixed;
   padding-top: 50px;
   padding-bottom: 50px;
@@ -122,7 +122,7 @@ _template: advanced
 <p class="overskrift"><font size="7">open source writing, reading and listening space</font></p>
 
 <div class="c">
-<p class="indryk1">In the durational sound installation, 5 Minutes Ago, an undefined body of spect-actors will read the scripts from <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">T&aring;rnby</a>, Tunis, London and Copenhagen. We are currently setting up the stream.</p>
+<p class="indryk1"><font size="5">In the durational sound installation, 5 Minutes Ago, an undefined body of spect-actors will read the scripts from <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">T&aring;rnby</a>, Tunis, London and Copenhagen. We are currently setting up the stream.</p>
 
 <p class="indryk1"><script src="//myradiostream.com/embed/theatrebuilding"></script></p> 
 </div>
