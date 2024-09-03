@@ -117,8 +117,8 @@ _template: advanced
 
 <body>
 
-<p class="indryk5"><font size="7"><font size="7"><strong>البكاء على حافة البحر</strong></font></p>
-<p><strong>Græder ved havet</strong></font></p>
+<p><font size="7"><text-align="right"><strong>البكاء على حافة البحر</strong></font></p>
+<p class="indryk2"><font size="7"><strong>Græder ved havet</strong></font></p>
 <p class="overskrift"><font size="7">open source writing, reading and listening space</font></p>
 
 <div class="c">
