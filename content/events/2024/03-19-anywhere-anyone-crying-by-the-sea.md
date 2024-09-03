@@ -338,9 +338,9 @@ _template: advanced
 
 <p class="indryk1"><font size="4"><em><a href="https://docs.google.com/document/d/1bP1clbtq8Gzd8e0XaC7P9-3tYRqGgabAJsIe_lmi5D8/edit?usp=sharing ">4, English, Amine</a></em></font></p>
 
-<p class="indryk2"><font size="4"><strong><a href="https://docs.google.com/document/d/1of0Yzn_Vy0v5scGA7kSfpKSxuyEM86chkWB8b1h6HDI/edit?usp=sharing ">4.1, English</a></strong></font></p>
+<p class="indryk2"><font size="4"><strong><a href="https://docs.google.com/document/d/1of0Yzn_Vy0v5scGA7kSfpKSxuyEM86chkWB8b1h6HDI/edit?usp=sharing">4.1, English</a></strong></font></p>
 
 </body>
 
-```javascript
-```
+<div class="c">
+<p class="indryk1"><font size="4"><a href="https://app.console.xyz/c/theatrebuilding/chat?r=53226998-2bc9-43bc-8e1a-d83f6cc7ef5f">Join our conversation on Console</a> / <a href="https://www.instagram.com/cryingbythesea/">Follow the project on Instagram</a></p>
