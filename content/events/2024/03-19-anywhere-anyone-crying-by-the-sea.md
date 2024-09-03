@@ -348,8 +348,8 @@ _template: advanced
 </body>
 
 <div class="b">
-<a href="https://app.console.xyz/c/theatrebuilding/chat?r=53226998-2bc9-43bc-8e1a-d83f6cc7ef5f"><img src="https://ipfs.io/ipfs/QmehSdXgRgVGPturisM1pSqrK8woDtVyTUn2pbGPn2SEqL?filename=console.png" style="width:42px;height:42px;"></a>
-<a href="https://www.instagram.com/cryingbythesea/"><img src="
+<a href="https://app.console.xyz/c/theatrebuilding/chat?r=53226998-2bc9-43bc-8e1a-d83f6cc7ef5f"><img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/console.png " style="width:42px;height:42px;"></a>
+
+<a href="https://www.instagram.com/cryingbythesea/"><img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/Black-icon-Instagram-logo-transparent-PNG.png" style="width:42px;height:42px;"></a>
+
   <div>
-<img class="bgOne" src="https://ipfs.io/ipfs/QmPMGpyUZr1yL9qzV6LoH5wd9BUYdyxNjk3dgCS1pZygnC?filename=rca-new-battersea-1.svg">
-<img class="bgTwo" src="https://ipfs.io/ipfs/QmehSdXgRgVGPturisM1pSqrK8woDtVyTUn2pbGPn2SEqL?filename=Black-icon-Instagram-logo-transparent-PNG.png" style="width:42px;height:42px;"></a>
