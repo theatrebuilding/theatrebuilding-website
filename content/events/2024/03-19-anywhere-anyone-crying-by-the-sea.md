@@ -113,16 +113,16 @@ _template: advanced
 
 <body>
 
+<p><font size="7"><strong>Græder ved havet | البكاء على حافة البحر</strong></font></p>
+<p class="overskrift"><font size="7">open source writing, reading and listening space</font></p>
+
 <div class="c">
-<p class="indryk1"><font size="4">In the durational sound installation, 5 Minutes Ago, an undefined body of spect-actors will be reading from T&aring;rnby, Tunis, London and Copenhagen. We are currently setting up the stream.</font></p> 
+<p class="indryk1"><font size="4"; font-color="blue">In the durational sound installation, 5 Minutes Ago, an undefined body of spect-actors will be reading from <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">T&aring;rnby</a>, Tunis, London and Copenhagen. In the sound installation, we are trying out a python script, written by Jazbo and Mohammed, that will merge voices across time and space. We are currently setting up the stream.</font></p> 
 
 <p class="indryk1"><script src="//myradiostream.com/embed/theatrebuilding"></script></p> 
 </div>
 
-<p><font size="7"><strong>Græder ved havet | البكاء على حافة البحر</strong></font></p>
-<p class="overskrift"><font size="7">open source writing space</font></p>
-
-<p class="indryk1"><font size="4">These scripts have been written throughout a series of workshops for the performance project, Græder ved havetالبكاء على حافة البحر.</font></p> 
+<p class="indryk1"><font size="4">The following scripts have been written throughout a series of workshops for the performance project, Græder ved havetالبكاء على حافة البحر.</font></p> 
 
 <p class="indryk1"><font size="4">The scripts are open source and can be used freely with creditation by anyone.</font></p> 
 
