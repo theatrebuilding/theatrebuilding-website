@@ -87,15 +87,33 @@ css: |-
 
   }
 
+  div.a {
+    text-align: center;
+  }
+
+  div.b {
+    text-align: left;
+  }
+
+  div.c {
+    text-align: right;
+  } 
+
+  div.d {
+    text-align: justify;
+  } 
+
   </style></head>
 _template: advanced
 ---
 
 <body>
 
-In the durational sound installation, 5 Minutes Ago, an undefined body of spect-actors will be reading the scripts from Tårnby, Tunis, London and Copenhagen. We are currently setting up the stream.
+<div class="c">
+<p class="indryk1"><font size="4">In the durational sound installation, 5 Minutes Ago, an undefined body of spect-actors will be reading from T&aring;rnby, Tunis, London and Copenhagen. We are currently setting up the stream.</font></p> 
+</div>
 
-<script src="//myradiostream.com/embed/theatrebuilding"></script>
+<p class="indryk1"><script src="//myradiostream.com/embed/theatrebuilding"></script></p> 
 
 <p><font size="7"><strong>Græder ved havet | البكاء على حافة البحر</strong></font></p>
 <p class="overskrift"><font size="7">open source writing space</font></p>
