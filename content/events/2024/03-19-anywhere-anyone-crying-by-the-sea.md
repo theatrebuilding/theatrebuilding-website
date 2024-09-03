@@ -123,7 +123,7 @@ _template: advanced
 
 <div class="c">
 
-<p class="indryk1"><font size="4">In the durational sound installation, 5 Minutes Ago, an undefined body of spect-actors will be reading from <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">T&aring;rnby</a>, Tunis, London and Copenhagen. In the sound installation, we are trying out a python script, written by Jazbo and Mohammed, that will merge voices across time and space. We are currently setting up the stream.</p>
+<p class="indryk1"><font size="4">In the durational sound installation, 5 Minutes Ago, an undefined body of spect-actors will be reading the scripts from <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">T&aring;rnby</a>, Tunis, London and Copenhagen through a python script. We are currently testing and setting up the stream.</p>
 
 <p class="indryk1"><script src="//myradiostream.com/embed/theatrebuilding"></script></p> 
 </div>
