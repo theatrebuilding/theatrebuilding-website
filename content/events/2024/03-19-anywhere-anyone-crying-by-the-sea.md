@@ -100,7 +100,7 @@ css: |-
 
   div.c {
   text-align: right;
-  font-size: medium;
+  font-size: 4;
   position: fixed;
   padding-top: 50px;
   padding-bottom: 50px;
@@ -116,9 +116,9 @@ _template: advanced
 ---
 
 <body>
-
-<p><font size="7"><text-align="right"><strong>البكاء على حافة البحر</strong></font></p>
-<p class="indryk2"><font size="7"><strong>Græder ved havet</strong></font></p>
+<div class="b">
+<p><font size="7"><strong>البكاء على حافة البحر</strong></font></p></div>
+<p class="indryk1"><font size="7"><strong>Græder ved havet</strong></font></p>
 <p class="overskrift"><font size="7">open source writing, reading and listening space</font></p>
 
 <div class="c">
