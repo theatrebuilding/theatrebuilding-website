@@ -111,9 +111,9 @@ _template: advanced
 
 <div class="c">
 <p class="indryk1"><font size="4">In the durational sound installation, 5 Minutes Ago, an undefined body of spect-actors will be reading from T&aring;rnby, Tunis, London and Copenhagen. We are currently setting up the stream.</font></p> 
-</div>
 
 <p class="indryk1"><script src="//myradiostream.com/embed/theatrebuilding"></script></p> 
+</div>
 
 <p><font size="7"><strong>Græder ved havet | البكاء على حافة البحر</strong></font></p>
 <p class="overskrift"><font size="7">open source writing space</font></p>
