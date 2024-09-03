@@ -1,5 +1,5 @@
 ---
-title: Græder ved havet ~ ~ ~ ~البكاء على حافة البحر
+title: Græder ved havet ~~~~~~البكاء على حافة البحر
 artistName: anyone
 location: anywhere
 date: 2024-03-19T14:00:00.000Z
@@ -99,7 +99,7 @@ css: |-
     text-align: right;
   padding-top: 50px;
   padding-bottom: 50px;
-  padding-left: 600px;
+  padding-left: 800px;
   padding-right: 50px;
   } 
 
@@ -118,19 +118,7 @@ _template: advanced
 
 <div class="c">
 
-<script>
-var i = 0;
-var txt = 'In the durational sound installation, 5 Minutes Ago, an undefined body of spect-actors will be reading from <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">T&aring;rnby</a>, Tunis, London and Copenhagen. In the sound installation, we are trying out a python script, written by Jazbo and Mohammed, that will merge voices across time and space. We are currently setting up the stream.';
-var speed = 50;
-
-function typeWriter() {
-  if (i < txt.length) {
-    document.getElementById("demo").innerHTML += txt.charAt(i);
-    i++;
-    setTimeout(typeWriter, speed);
-  }
-}
-</script> 
+<p class="indryk1"><font size="4">In the durational sound installation, 5 Minutes Ago, an undefined body of spect-actors will be reading from <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">T&aring;rnby</a>, Tunis, London and Copenhagen. In the sound installation, we are trying out a python script, written by Jazbo and Mohammed, that will merge voices across time and space. We are currently setting up the stream.</p>
 
 <p class="indryk1"><script src="//myradiostream.com/embed/theatrebuilding"></script></p> 
 </div>
