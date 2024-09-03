@@ -97,9 +97,10 @@ css: |-
 
   div.c {
     text-align: right;
+  position: fixed;
   padding-top: 50px;
   padding-bottom: 50px;
-  padding-left: 800px;
+  padding-left: 1000px;
   padding-right: 50px;
   } 
 
