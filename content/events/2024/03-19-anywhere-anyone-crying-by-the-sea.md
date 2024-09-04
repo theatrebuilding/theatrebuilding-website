@@ -122,7 +122,7 @@ _template: advanced
 <p class="indryk1"><font size="5">open source writing, reading and listening space</font></p>
 
 <div class="c">
-<center><script src="//myradiostream.com/embed/theatrebuilding"></script></center>
+<p><center><script src="//myradiostream.com/embed/theatrebuilding"></script></center></p>
 </div>
 
 <p>_</p>
@@ -132,12 +132,16 @@ _template: advanced
 
 <p class="indryk1"><font size="4">Ecocity 2.0 - 5 Minutes Ago - 2/9-13/9 2024</font></p> 
 
-<p class="indryk1"><font size="4">In the durational sound stream, 5 Minutes Ago, an undefined body of spect-actors will read from T&aring;rnby, Tunis, London and Copenhagen. A python script (code) will merge our voices across time and space. Listen along by pressing the play button.</font></p> 
+<p class="indryk1"><font size="4">In the durational sound stream, 5 Minutes Ago, an undefined body of spect-actors will read from T&aring;rnby, Tunis, London and Copenhagen. An algorithm will merge our voices across time and space. Listen along by pressing the play button.</font></p> 
 
-<p class="indryk1"><font size="4">If you are at <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">the Ecocity 2.0 festival in T&aring;rnby</a> and would like to participate in the reading, find the pallet booth, get comfortable in the chair, choose a script further down on this page and start reading into the microphone. Your reading will become a part of the stream."</font></p> 
+<p class="indryk1"><font size="4">If you are at <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">the Ecocity 2.0 festival in T&aring;rnby</a> and would like to join, enter the pallet booth, get comfortable in the chair, choose a script further down on this page and start reading into the microphone. Your reading will become a part of the stream."</font></p> 
 
 <p class="indryk1"><font size="4">A collective reading session will take place Sunday 8/9 at 12.15 local time at the festival.</font></p>
 
+</div>
+
+<div class="a">
+<p>_</p>
 </div>
 
 <p class="indryk1"><font size="4">The following scripts have been written throughout a series of workshops in Denmark and Tunisia for the performance project, Græder ved havetالبكاء على حافة البحر.</font></p> 
