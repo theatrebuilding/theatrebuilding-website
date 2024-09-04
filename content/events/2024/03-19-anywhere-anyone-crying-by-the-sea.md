@@ -101,7 +101,7 @@ css: |-
   } 
 
   div.c {
-  text-align: center;
+  align: center;
   position: fixed;
   font-size: 4;
   padding-top: 50%;
@@ -118,42 +118,37 @@ _template: advanced
 <body>
 <div class="a">
 <p><font size="7"><strong>البكاء على حافة البحر</strong></font></p></div>
-<p class="indryk1"><font size="7"><strong>Græder ved havet</strong></font></p>
-<p class="overskrift"><font size="5">open source writing, reading and listening space</font></p>
+<p class="overskrift"><font size="7"><strong>Græder ved havet</strong></font></p>
+<p class="indryk1"><font size="5">open source writing, reading and listening space</font></p>
 
 <div class="c">
-<p class="indryk1"><script src="//myradiostream.com/embed/theatrebuilding"></script></p> 
+<center><script src="//myradiostream.com/embed/theatrebuilding"></script></center>
 </div>
-
-<p class="indryk1"><font size="4">HAPPENING NOW: Ecocity 2.0 - 5 Minutes Ago - 2/9-13/9 2024</font></p> 
-
-<p class="indryk1"><font size="4">In the durational sound installation, 5 Minutes Ago, an undefined body of spect-actors will read the scripts from <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">T&aring;rnby</a>, Tunis, London and Copenhagen.</font></p> 
-
-<p class="indryk1"><font size="4">If you are at <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">the festival, Ecocity 2.0 in T&aring;rnby</a> and would like to participate in the reading, find the pallet booth, get comfortable in the chair, choose a script on this page and start reading into the mic. Your reading voice will become a part of the installation."</font></p> 
 
 <p>_</p>
 
+<div class="a">
+<p class="indryk1"><font size="4">HAPPENING NOW:</font></p>  
+
+<p class="indryk1"><font size="4">Ecocity 2.0 - 5 Minutes Ago - 2/9-13/9 2024</font></p> 
+
+<p class="indryk1"><font size="4">In the durational sound stream, 5 Minutes Ago, an undefined body of spect-actors will read from T&aring;rnby, Tunis, London and Copenhagen. A python script (code) will merge our voices across time and space. Listen along by pressing the play button.</font></p> 
+
+<p class="indryk1"><font size="4">If you are at <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">the Ecocity 2.0 festival in T&aring;rnby</a> and would like to participate in the reading, find the pallet booth, get comfortable in the chair, choose a script further down on this page and start reading into the microphone. Your reading will become a part of the stream."</font></p> 
+
 <p class="indryk1"><font size="4">A collective reading session will take place Sunday 8/9 at 12.15 local time at the festival.</font></p>
+
+</div>
 
 <p class="indryk1"><font size="4">The following scripts have been written throughout a series of workshops in Denmark and Tunisia for the performance project, Græder ved havetالبكاء على حافة البحر.</font></p> 
 
 <p class="indryk1"><font size="4">The scripts are open source and can be used freely with creditation by anyone.</font></p> 
 
-<p class="indryk1"><font size="4">How to co-write</font></p> 
+<p class="indryk1"><font size="4">Feel free to edit the <strong>bold documents</strong> and create your own version in any language. Write your full name in the end of the document or inform the production about your identity if you wish to be credited by sending an e-mail to <a href="mailto:theatrebuilding@theatrebuilding.com" target="_blank">theatrebuilding@theatrebuilding.com</a></font></p>
 
-<p class="indryk1"><font size="4">Open one of the <strong>bold documents</strong> and create your version of a previous version in any language.</font></p> 
-
-<p class="indryk1"><font size="4">Write your full name in the end of the document or inform the production about your identity and how you wish to be credited by sending an e-mail to <a href="mailto:theatrebuilding@theatrebuilding.com" target="_blank">theatrebuilding@theatrebuilding.com</a></font></p>
-
+<div class="a">
 <p>_</p>
-
-<p class="indryk1"><font size="4"><em>Italic: Finished version</em></font></p>
-
-<p class="indryk1"><font size="4"><strong>Bold: Open to edits</strong></font></p>
-
-<p class="indryk1"><font size="4">Regular: Sound recording</font></p>
-
-<p>_</p>
+</div>
 
 <p class="indryk1"><font size="4"><em><a href="https://ossw.pubpub.org/pub/64r5yik1/draft?access=yrvo1ilp">1, Dansk, Monia</a></em></font></p>
 
