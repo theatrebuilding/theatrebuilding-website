@@ -101,12 +101,10 @@ css: |-
   } 
 
   div.c {
-  text-align: right;
+  text-align: center;
   position: fixed;
   font-size: 4;
-  padding-top: 50px;
-  padding-bottom: 50px;
-  padding-right: 10px;
+  padding-top: 50%;
   } 
 
   div.d {
@@ -124,19 +122,30 @@ _template: advanced
 <p class="overskrift"><font size="5">open source writing, reading and listening space</font></p>
 
 <div class="c">
-<p><font size="4">In the durational sound installation, 5 Minutes Ago, an undefined body of spect-actors will read the scripts from <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">T&aring;rnby</a>, Tunis, London and Copenhagen. We are currently setting up the stream.</p>
 <p class="indryk1"><script src="//myradiostream.com/embed/theatrebuilding"></script></p> 
 </div>
 
-<p class="indryk1"><font size="4">The following scripts have been written throughout a series of workshops for the performance project, Græder ved havetالبكاء على حافة البحر.</font></p> 
+<p class="indryk1"><font size="4">HAPPENING NOW: Ecocity 2.0 - 5 Minutes Ago - 2/9-13/9 2024</font></p> 
+
+<p class="indryk1"><font size="4">In the durational sound installation, 5 Minutes Ago, an undefined body of spect-actors will read the scripts from <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">T&aring;rnby</a>, Tunis, London and Copenhagen.</font></p> 
+
+<p class="indryk1"><font size="4">If you are at <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">the festival, Ecocity 2.0 in T&aring;rnby</a> and would like to participate in the reading, find the pallet booth, get comfortable in the chair, choose a script on this page and start reading into the mic. Your reading voice will become a part of the installation."</font></p> 
+
+<p>_</p>
+
+<p class="indryk1"><font size="4">A collective reading session will take place Sunday 8/9 at 12.15 local time at the festival.</font></p>
+
+<p class="indryk1"><font size="4">The following scripts have been written throughout a series of workshops in Denmark and Tunisia for the performance project, Græder ved havetالبكاء على حافة البحر.</font></p> 
 
 <p class="indryk1"><font size="4">The scripts are open source and can be used freely with creditation by anyone.</font></p> 
 
-<p class="indryk1"><font size="4">If you want to participate: Open one of the <strong>bold documents</strong> and create your version of a previous version in any language.</font></p> 
+<p class="indryk1"><font size="4">How to co-write</font></p> 
+
+<p class="indryk1"><font size="4">Open one of the <strong>bold documents</strong> and create your version of a previous version in any language.</font></p> 
 
 <p class="indryk1"><font size="4">Write your full name in the end of the document or inform the production about your identity and how you wish to be credited by sending an e-mail to <a href="mailto:theatrebuilding@theatrebuilding.com" target="_blank">theatrebuilding@theatrebuilding.com</a></font></p>
 
-<p>*</p>
+<p>_</p>
 
 <p class="indryk1"><font size="4"><em>Italic: Finished version</em></font></p>
 
@@ -144,7 +153,7 @@ _template: advanced
 
 <p class="indryk1"><font size="4">Regular: Sound recording</font></p>
 
-<p>*</p>
+<p>_</p>
 
 <p class="indryk1"><font size="4"><em><a href="https://ossw.pubpub.org/pub/64r5yik1/draft?access=yrvo1ilp">1, Dansk, Monia</a></em></font></p>
 
@@ -346,6 +355,8 @@ _template: advanced
 <p class="indryk2"><font size="4"><strong><a href="https://docs.google.com/document/d/1of0Yzn_Vy0v5scGA7kSfpKSxuyEM86chkWB8b1h6HDI/edit?usp=sharing">4.1, English</a></strong></font></p>
 
 <div class="b">
+
+<p class="indryk1"><font size="4">Follow the project:</font></p>
 <a href="https://app.console.xyz/c/theatrebuilding/chat?r=53226998-2bc9-43bc-8e1a-d83f6cc7ef5f"><img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/console.png " style="height:42px"></a> <a href="https://www.instagram.com/cryingbythesea/"><img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/Black-icon-Instagram-logo-transparent-PNG.png" style="height:42px"></a>
   <div>
 </body>
