@@ -101,9 +101,7 @@ css: |-
   } 
 
   div.c {
-  align: center;
   position: fixed;
-  font-size: 4;
   padding-top: 50%;
   } 
 
@@ -128,9 +126,9 @@ _template: advanced
 <p>_</p>
 
 <div class="a">
-<p class="indryk1"><font size="4">HAPPENING NOW:</font></p>  
+<p class="indryk1"><font size="4">5 Minutes Ago</font></p>  
 
-<p class="indryk1"><font size="4">Ecocity 2.0 - 5 Minutes Ago - 2/9-13/9 2024</font></p> 
+<p class="indryk1"><font size="4">Ecocity 2.0 - 2/9-13/9 2024</font></p> 
 
 <p class="indryk1"><font size="4">In the durational sound stream, 5 Minutes Ago, an undefined body of spect-actors will read from T&aring;rnby, Tunis, London and Copenhagen. An algorithm will merge our voices across time and space. Listen along by pressing the play button.</font></p> 
 
@@ -355,7 +353,7 @@ _template: advanced
 
 <div class="b">
 
-<p class="indryk1"><font size="4">Follow the project:</font></p>
+<p class="indryk1"><font size="4">Follow the project</font></p>
 <a href="https://app.console.xyz/c/theatrebuilding/chat?r=53226998-2bc9-43bc-8e1a-d83f6cc7ef5f"><img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/console.png " style="height:42px"></a> <a href="https://www.instagram.com/cryingbythesea/"><img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/Black-icon-Instagram-logo-transparent-PNG.png" style="height:42px"></a>
   <div>
 </body>
