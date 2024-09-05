@@ -103,6 +103,7 @@ css: |-
   div.c {
   position: fixed;
   padding-top: 50%;
+  padding-right: 49%;
   } 
 
   div.d {
@@ -120,21 +121,24 @@ _template: advanced
 <p class="indryk1"><font size="5">open source writing, reading and listening space</font></p>
 
 <div class="c">
-<p><center><script src="//myradiostream.com/embed/theatrebuilding"></script></center></p>
+<p><script src="//myradiostream.com/embed/theatrebuilding"></script></p>
 </div>
 
 <p>_</p>
 
 <div class="a">
-<p class="indryk1"><font size="4">5 Minutes Ago</font></p>  
+<p class="indryk1"><font size="4">HAPPENING NOW</font></p>  
 
-<p class="indryk1"><font size="4">Ecocity 2.0 - 2/9-13/9 2024</font></p> 
+<p class="indryk1"><font size="4">5 Minutes Ago - Ecocity 2.0 - 2/9-13/9 2024</font></p> 
 
-<p class="indryk1"><font size="4">In the durational sound stream, 5 Minutes Ago, an undefined body of spect-actors will read from T&aring;rnby, Tunis, London and Copenhagen. An algorithm will merge our voices across time and space. Listen along by pressing the play button.</font></p> 
+<p class="indryk1"><font size="4">In the durational sound stream, 5 Minutes Ago, an undefined body of spect-actors will read from T&aring;rnby, Tunis, London and Copenhagen. An algorithm will merge our voices across time and space.</font></p> 
 
-<p class="indryk1"><font size="4">If you are at <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">the Ecocity 2.0 festival in T&aring;rnby</a> and would like to join, enter the pallet booth, get comfortable in the chair, choose a script further down on this page and start reading into the microphone. Your reading will become a part of the stream."</font></p> 
+<p class="indryk1"><font size="4">If you are at <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">the Ecocity 2.0 festival in T&aring;rnby</a> and would like to join: Enter the pallet booth, get comfortable in the chair, choose a script further down on this page and start reading the lines into the microphone. Your reading will become a part of the stream.</font></p> 
 
 <p class="indryk1"><font size="4">A collective reading session will take place Sunday 8/9 at 12.15 local time at the festival.</font></p>
+
+<p class="indryk1"><font size="4">If you are tuning in from anywhere else and would like to join: 
+Listen along by pressing the play button and/or rewrite one of the scripts.</font></p>
 
 </div>
 
@@ -146,7 +150,7 @@ _template: advanced
 
 <p class="indryk1"><font size="4">The scripts are open source and can be used freely with creditation by anyone.</font></p> 
 
-<p class="indryk1"><font size="4">Feel free to edit the <strong>bold documents</strong> and create your own version in any language. Write your full name in the end of the document or inform the production about your identity if you wish to be credited by sending an e-mail to <a href="mailto:theatrebuilding@theatrebuilding.com" target="_blank">theatrebuilding@theatrebuilding.com</a></font></p>
+<p class="indryk1"><font size="4">Feel free to edit the <strong>bold documents</strong> and create your own version in any language. Write your full name in the end of the document or inform the production how you wish to be credited by e-mail: <a href="mailto:theatrebuilding@theatrebuilding.com" target="_blank">theatrebuilding@theatrebuilding.com</a></font></p>
 
 <div class="a">
 <p>_</p>
