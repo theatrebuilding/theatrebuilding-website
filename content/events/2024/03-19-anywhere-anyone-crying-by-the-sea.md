@@ -103,8 +103,8 @@ css: |-
   div.c {
   text-align: right;
   position: fixed;
-  padding-top: 10%;
-  padding-right: 20%;
+  padding-top: 10px;
+  padding-right: 10px;
   } 
 
   div.d {
@@ -125,7 +125,7 @@ _template: advanced
 
 <p>_</p>
 
-<div class="a">
+<div class="c">
 <p class="indryk1"><font size="4">5 Minutes Ago - Ecocity 2.0 - 2/9-13/9 2024</font></p> 
 
 <p class="indryk1"><font size="4">
