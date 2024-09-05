@@ -133,11 +133,11 @@ _template: advanced
 
 <p class="indryk1"><font size="4">In the durational sound stream, 5 Minutes Ago, an undefined body of spect-actors will read from T&aring;rnby, Tunis, London and Copenhagen. An algorithm will merge our voices across time and space.</font></p> 
 
-<p class="indryk1"><font size="4">If you are at <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">the Ecocity 2.0 festival in T&aring;rnby</a> and would like to join: >Enter the pallet booth, get comfortable in the chair, choose a script further down on this page and start reading the lines into the microphone. Your reading will become a part of the stream.</font></p> 
+<p class="indryk1"><font size="4">If you are at <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">the Ecocity 2.0 festival in T&aring;rnby</a> and would like to join: Enter the pallet booth, get comfortable in the chair, choose a script further down on this page and start reading the lines into the microphone. Your reading will become a part of the stream.</font></p> 
 
 <p class="indryk1"><font size="4">You can also join the collective reading session at the festival stage on Sunday 8/9 at 12.15 local time.</font></p>
 
-<p class="indryk1"><font size="4">If you are tuning in from anywhere else and would like to join: Listen along by pressing the play button and/or rewrite one of the scripts.</font></p>
+<p class="indryk1"><font size="4">If you are tuning in from anywhere else and would like to join: Listen along by pressing the play button and/or rewrite one of the scripts furhter down on this page.</font></p>
 </div>
 
 <div class="a">
