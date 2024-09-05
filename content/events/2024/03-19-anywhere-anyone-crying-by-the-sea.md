@@ -136,7 +136,6 @@ I den interaktive lydinstallation, 5 Minutes Ago, l&aelig;ser en udefineret grup
 <p class="indryk1"><font size="4">In the durational sound stream, 5 Minutes Ago, an undefined body of spect-actors will read from T&aring;rnby, Tunis, London and Copenhagen. An algorithm will merge our voices across time and space.</font></p> 
 <p><script src="//myradiostream.com/embed/theatrebuilding"></script></p>
 
-<p>_</p>
 </div>
 
 <p class="indryk1"><font size="4">The following scripts have been written throughout a series of workshops in Denmark and Tunisia for the performance project, Græder ved havetالبكاء على حافة البحر.</font></p> 
@@ -157,7 +156,7 @@ I den interaktive lydinstallation, 5 Minutes Ago, l&aelig;ser en udefineret grup
 
 <p class="indryk3"><font size="4"><a href="https://soundcloud.com/user-141869674/refrain-1_1-reading-1">Reading 1 (of version 1.1)</a></font></p>
 
-<p class="indryk3"><font size="4"><em><a href="https://ossw.pubpub.org/pub/x6w8nio4/draft?access=5m90oqlw">1.1.1, English, Madison</a></em></font></p>
+<p class="indryk3"><em><a href="https://ossw.pubpub.org/pub/x6w8nio4/draft?access=5m90oqlw">1.1.1, English, Madison</a></em></p>
 
 <p class="indryk4"><font size="4"><a href="https://soundcloud.com/user-141869674/refrain-1-1-1-reading-1">Reading 1 (of version 1.1.1)</a></font></p>
 
