@@ -123,8 +123,6 @@ _template: advanced
 <p class="overskrift"><font size="7"><strong>Græder ved havet</strong></font></p>
 <p class="indryk1"><font size="5">open source writing, reading and listening space</font></p>
 
-<div class="c"><p><script src="//myradiostream.com/embed/theatrebuilding"></script></p></div>
-
 <p>_</p>
 
 <div class="a">
@@ -139,6 +137,7 @@ _template: advanced
 <p class="indryk1"><font size="4">You can also join the collective reading session at the festival stage on Sunday 8/9 at 12.15 local time.</font></p>
 
 <p class="indryk1"><font size="4">If you are tuning in from anywhere else and would like to join: Listen along by pressing the play button and/or rewrite one of the scripts furhter down on this page.</font></p>
+<p><script src="//myradiostream.com/embed/theatrebuilding"></script></p>
 </div>
 
 <div class="a">
