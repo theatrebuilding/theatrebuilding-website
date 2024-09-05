@@ -126,10 +126,10 @@ _template: advanced
 <p>_</p>
 
 <div class="c">
-<p class="indryk1"><font size="4">5 Minutes Ago - Ecocity 2.0 - 2/9-13/9 2024</font></p> 
+<p class="indryk1"><font size="4">5 Minutes Ago - <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">	&Oslash;kocity 2.0</a> - 2/9-13/9 2024</font></p> 
 
 <p class="indryk1"><font size="4">
-I den interaktive lydinstallation, 5 Minutes Ago, læser en udefineret gruppe af ”spect-actors” (skuespiller og tilskuer i ét) op fra Tårnby, Tunis, London og København. En algoritme vil forbinde vores stemmer gennem tid og rum.</font></p> 
+I den interaktive lydinstallation, 5 Minutes Ago, l	&aelig;ser en udefineret gruppe af ”spect-actors” (skuespiller og tilskuer i ét) op fra T&aring;rnby, Tunis, London og K	&oslash;benhavn. En algoritme vil forbinde vores stemmer gennem tid og rum.</font></p> 
 
 <p class="indryk1"><font size="4">في العمل التركيبي الصوتي التفاعلي ”قبل 5 دقائق“، سيقرأ مجموعة غير محددة من الممثلين الطيفين من تارنبي وتونس ولندن وكوبنهاغن. ستقوم خوارزمية بدمج أصواتنا عبر الزمان والمكان</font></p> 
 
