@@ -101,9 +101,9 @@ css: |-
   } 
 
   div.c {
+  text-align: center;
   position: fixed;
   padding-top: 10%;
-  padding-right: 10%%;
   } 
 
   div.d {
