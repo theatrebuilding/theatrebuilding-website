@@ -103,8 +103,8 @@ css: |-
   div.c {
   text-align: right;
   position: fixed;
-  padding-top: 10px;
-  padding-right: 10px;
+  padding-top: 10%;
+  padding-right: 10%;
   } 
 
   div.d {
@@ -122,8 +122,6 @@ _template: advanced
 
 <p class="overskrift"><font size="7"><strong>Græder ved havet</strong></font></p>
 <p class="indryk1"><font size="5">open source writing, reading and listening space</font></p>
-
-<p>_</p>
 
 <div class="c">
 <p class="indryk1"><font size="4">5 Minutes Ago - <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">	&Oslash;kocity 2.0</a> - 2/9-13/9 2024</font></p> 
