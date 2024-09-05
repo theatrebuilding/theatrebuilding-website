@@ -156,7 +156,7 @@ I den interaktive lydinstallation, 5 Minutes Ago, l&aelig;ser en udefineret grup
 
 <p class="indryk3"><font size="4"><a href="https://soundcloud.com/user-141869674/refrain-1_1-reading-1">Reading 1 (of version 1.1)</a></font></p>
 
-<p class="indryk3"><em><a href="https://ossw.pubpub.org/pub/x6w8nio4/draft?access=5m90oqlw">1.1.1, English, Madison</a></em></p>
+<p class="indryk3"><font size="4"><em><a href="https://ossw.pubpub.org/pub/x6w8nio4/draft?access=5m90oqlw">1.1.1, English, Madison</a></em></font></p>
 
 <p class="indryk4"><font size="4"><a href="https://soundcloud.com/user-141869674/refrain-1-1-1-reading-1">Reading 1 (of version 1.1.1)</a></font></p>
 
@@ -202,7 +202,7 @@ I den interaktive lydinstallation, 5 Minutes Ago, l&aelig;ser en udefineret grup
 
 <p class="indryk5"><font size="4"><em><a href="https://docs.google.com/document/d/1PPTSObj394AOedOXviV9gLoJxCVWtQRoOJuJgFIhDTI/edit?usp=sharing">1.1.2.1.1, English, Eliza</a></em></font></p>
 
-<p class="indryk6"><font size="4"><strong><a href="https://docs.google.com/document/d/1hWYEUJ37bZClYRdOtpO1-3LjTiLeFQk63FmJQLR50VQ/edit?usp=sharing">1.1.2.1.1.1, English, Eliza</a></strong></font></p>
+<p class="indryk6"><font size="4"><strong><a href="https://docs.google.com/document/d/1hWYEUJ37bZClYRdOtpO1-3LjTiLeFQk63FmJQLR50VQ/edit?usp=sharing">1.1.2.1.1.1, English</a></strong></font></p>
 
 <p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1c3TUGUveiy1_AdBzuELMc-s6l00iOke-fj7Fcg5nPoQ/edit?usp=sharing">1.1.2.1.2, English</a></strong></font></p>
 
