@@ -123,7 +123,7 @@ _template: advanced
 <p class="overskrift"><font size="7"><strong>Græder ved havet</strong></font></p>
 <p class="indryk1"><font size="5">open source writing, reading and listening space</font></p>
 
-<div class="c">
+<div class="b">
 <p class="indryk1"><font size="4">5 Minutes Ago - <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">	&Oslash;kocity 2.0</a> - 2/9-13/9 2024</font></p> 
 
 <p class="indryk1"><font size="4">
