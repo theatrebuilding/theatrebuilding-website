@@ -2,7 +2,7 @@
 title: Watery Bodies by Giemaš II
 artistName: Eliza Božek and Nanna Elvin Hansen
 location: 'Lávvonjárga, Deatnu River Estuary'
-date: 2024-08-04T10:00:00.000+02:00
+date: 2024-08-04T08:00:00.000Z
 css: >-
   .container1 {display: flex;flex-direction: row;align-items:
   center;justify-content: center;text-align: center;margin-left:
@@ -47,7 +47,7 @@ _template: advanced
 <div class="container1">
 
 <div class="text">
-        <script src="//myradiostream.com/embed/theatrebuilding"></script>
+        <p><i>audio will be available soon</i></p>
         <p>Tune in to Watery Bodies by Giemaš II, a two-day radio live-stream on August 4–5, 2024 by artists Nanna Elvin Hansen and Eliza Bożek from the shore of the small Sami village Lávvonjárga, facing the mountain of Giemaš and at the estuary of the Deatnu river.</p>
     </div>
     <img src="https://theatrebuilding.com/uploads/watery.jpeg" alt="Watery Bodies" class="image">
