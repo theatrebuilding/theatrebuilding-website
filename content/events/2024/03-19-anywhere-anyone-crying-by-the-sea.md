@@ -126,16 +126,14 @@ _template: advanced
 <div class="a">
 <p>_</p>
 
-<p class="indryk1"><font size="4">5 Minutes Ago - <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">	&Oslash;kocity 2.0</a> - 2/9-13/9 2024</font></p> 
+<p class="indryk1"><font size="5">5 Minutes Ago - <a href="https://www.taarnbyparkstudio.dk/taarnby-park-performance-festival-2024-2/#HAVET">	&Oslash;kocity 2.0</a> - 2/9-13/9 2024</font></p> 
 
-<p class="indryk1"><font size="4">
+<p class="indryk1"><font size="5">
 I den interaktive lydinstallation, 5 Minutes Ago, l&aelig;ser en udefineret gruppe af ”spect-actors” (skuespiller og tilskuer i ét) op fra T&aring;rnby, Tunis, London og K&oslash;benhavn. En algoritme forbinder vores stemmer gennem tid og rum.</font></p> 
 
-<p class="indryk1"><font size="4">في العمل التركيبي الصوتي التفاعلي ”قبل 5 دقائق“، سيقرأ مجموعة غير محددة من الممثلين الطيفين من تارنبي وتونس ولندن وكوبنهاغن. ستقوم خوارزمية بدمج أصواتنا عبر الزمان والمكان</font></p> 
+<p class="indryk1"><font size="5">في العمل التركيبي الصوتي التفاعلي ”قبل 5 دقائق“، سيقرأ مجموعة غير محددة من الممثلين الطيفين من تارنبي وتونس ولندن وكوبنهاغن. ستقوم خوارزمية بدمج أصواتنا عبر الزمان والمكان</font></p> 
 
-<p class="indryk1"><font size="4">In the durational sound stream, 5 Minutes Ago, an undefined body of spect-actors will read from T&aring;rnby, Tunis, London and Copenhagen. An algorithm merges our voices across time and space.</font></p> 
-
-<p class="indryk1"><font size="6">Rewriting the stories of each other is postponed to 19.00 GMT+2.</font></p> 
+<p class="indryk1"><font size="5">In the durational sound stream, 5 Minutes Ago, an undefined body of spect-actors will read from T&aring;rnby, Tunis, London and Copenhagen. An algorithm merges our voices across time and space.</font></p> 
 
 <p><script src="//myradiostream.com/embed/theatrebuilding"></script></p>
 
