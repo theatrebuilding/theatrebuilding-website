@@ -135,6 +135,8 @@ I den interaktive lydinstallation, 5 Minutes Ago, l&aelig;ser en udefineret grup
 
 <p class="indryk1"><font size="4">In the durational sound stream, 5 Minutes Ago, an undefined body of spect-actors will read from T&aring;rnby, Tunis, London and Copenhagen. An algorithm merges our voices across time and space.</font></p> 
 
+<p class="indryk1"><font size="6">Rewriting the stories of each other is postponed to 19.00 GMT+2.</font></p> 
+
 <p><script src="//myradiostream.com/embed/theatrebuilding"></script></p>
 
 </div>
