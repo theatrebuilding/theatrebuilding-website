@@ -87,6 +87,14 @@ css: |-
 
   }
 
+  .indryk8 {
+  padding-top: 10px;
+  padding-bottom: 0px;
+  padding-left: 450px;
+  padding-right: 20px;
+
+  }
+
   div.a {
     text-align: right;
   padding-top: 50px;
@@ -168,6 +176,8 @@ _template: advanced
 <p class="indryk6"><font size="4"><em><a href="https://docs.google.com/document/d/1c2FLPAO2UhxoACpEAkfmE0Mh-LK9HPKWfqrG1Fan1_E/edit?usp=sharing">1.1.1.5.1.1, English, Monia</a></em></font></p>
 
 <p class="indryk7"><font size="4"><em><a href="https://docs.google.com/document/d/1kFN_XOZKdJBLEgaYC0aJxAmJuqeC3ToNcgU9X3ML91A/edit?usp=sharing">1.1.1.5.1.1.1, dansk, Monia</a></em></font></p>
+
+<p class="indryk8"><font size="4"><em><a href="https://docs.google.com/document/d/1n_CGQmZywJU_BNhHmYix3vLixHOzvUBSWcWY6HOyRs8/edit?usp=sharing">1.1.1.5.1.1.1.1, dansk</a></em></font></p>
 
 <p class="indryk7"><font size="4"><strong><a href="https://docs.google.com/document/d/1PgabO0sDW4ijOa-Qdaf9KXPa7n5d10fZSTu4fGC2YcU/edit">1.1.1.5.1.1.2, English</a></strong></font></p>
 
@@ -312,11 +322,13 @@ _template: advanced
 
 <p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1MRRgIeXa2wwmEAO_tMVGMa0GY2rAUnrlafiCiipGBXs/edit?usp=sharing">1.5.7.1, الدارجة</a></strong></font></p> 
 
-<p class="indryk1"><font size="4"><em><a href="https://docs.google.com/document/d/1crxf9CfjXRzt7wQ3iwDFwYr-ia2iwpV0M401uSiqxqc/edit?usp=sharing">1.5.8, dansk, English, الدارجة, Monia (Roskilde festival)</em></a></font></p>
+<p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1crxf9CfjXRzt7wQ3iwDFwYr-ia2iwpV0M401uSiqxqc/edit?usp=sharing">1.5.8, dansk, English, الدارجة, Monia (Roskilde festival)</em></a></font></p>
 
-<p class="indryk2"><font size="4"><em><a href="https://docs.google.com/document/d/1cVSa0jOt16LhGiMgC-qfWuOtQscITqoqHoG-2TDPGRs/edit">1.5.8, dansk, English, الدارجة</em></a></font></p>
+<p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1cVSa0jOt16LhGiMgC-qfWuOtQscITqoqHoG-2TDPGRs/edit">1.5.8.1, dansk, English, الدارجة</em></a></font></p>
 
-<p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/18aBxJ-RVN_f6_fV5YrHBEZOJeW98qUM239XySs9aPm8/edit?usp=sharing">1.5.8.1, dansk, English, الدارجة</strong></a></font></p>
+<p class="indryk5"><font size="4"><em><a href="https://docs.google.com/document/d/18aBxJ-RVN_f6_fV5YrHBEZOJeW98qUM239XySs9aPm8/edit?usp=sharing">1.5.8.1.1, dansk, الدارجة</em></a></font></p>
+
+<p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1ZwP_aPj9OIQIr4Gwvkw19CDMsZ2Nd3NHQYGtjhuB-WU/edit?usp=sharing">1.5.8.1.2, dansk, English, الدارجة</strong></a></font></p>
 
 <p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/1FeCTWp5xS5q7zp-ge5aUIe_Nt57XE6cviTN_coLpFto/edit?usp=sharing">1.5.9, الدارجة</strong></a></font></p>
 
@@ -331,8 +343,6 @@ _template: advanced
 <p class="indryk2"><font size="4"><strong><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?usp=sharing">1.8, Dansk</a></strong></font></p>
 
 <div class="b">
-
-<p class="indryk1"><font size="4">Follow the project</font></p>
 <a href="https://app.console.xyz/c/theatrebuilding/chat?r=53226998-2bc9-43bc-8e1a-d83f6cc7ef5f"><img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/console.png " style="height:42px"></a> <a href="https://www.instagram.com/cryingbythesea/"><img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/Black-icon-Instagram-logo-transparent-PNG.png" style="height:42px"></a>
   <div>
 </body>
