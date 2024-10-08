@@ -131,6 +131,10 @@ _template: advanced
 <p class="overskrift"><font size="7"><strong>Græder ved havet</strong></font></p>
 <p class="indryk1"><font size="5">open source writing, reading and listening space</font></p>
 
+<div class="a">
+<p><script src="//myradiostream.com/embed/theatrebuilding"></script></p>
+</div>
+
 <p class="indryk1"><font size="4">The following scripts have been written throughout a series of workshops in Denmark and Tunisia for the performance project, Græder ved havetالبكاء على حافة البحر.</font></p> 
 
 <p class="indryk1"><font size="4">The scripts are open source and can be used freely with creditation by anyone.</font></p> 
