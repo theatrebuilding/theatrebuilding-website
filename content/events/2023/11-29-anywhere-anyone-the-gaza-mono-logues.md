@@ -7,6 +7,8 @@ altDate: now
 _template: simple
 ---
 
+<script type="text/javascript" src="https://www.globalgiving.org/javascript/widget/widget.js">  { "projectids" : "61892" }</script>
+
 The Gaza Mono-Logues: [https://www.gazamonologues.com/copy-of-team](https://www.gazamonologues.com/copy-of-team)
 
 Forwarded from Ashtar theatre in Ramallah:
@@ -64,4 +66,4 @@ ASHTAR Theatre Team
 [#ashtartheatre](https://www.instagram.com/explore/tags/ashtartheatre/)
 [#gaza](https://www.instagram.com/explore/tags/gaza/)
 
-Donate to Ashtar theatre's psycho-social work: [https://www.globalgiving.org/projects/traumareleasepalestine/](https://www.globalgiving.org/projects/traumareleasepalestine/)
+<script type="text/javascript" src="https://www.globalgiving.org/javascript/widget/widget.js">  { "projectids" : "61892" }</script>
