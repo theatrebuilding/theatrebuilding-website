@@ -12,6 +12,7 @@ css: |
 _template: advanced
 ---
 
-<body style="background-color:black;" 
+<body style="background-color:black;"> 
+<p></p>
 <div class="gfm-embed" data-url="https://www.gofundme.com/f/don-pour-des-artistes-et-refugies-palestiniens-au-liban/widget/large?sharesheet=CAMPAIGN_PAGE&attribution_id=undefined"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
 </body>
