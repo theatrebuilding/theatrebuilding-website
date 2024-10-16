@@ -3,12 +3,13 @@ title: Support Palestinian theatre makers in Lebanon
 artistName: anyone
 location: Beirut
 date: 2024-10-10T22:00:00.000Z
-css: |
-  background-color:black;
-  padding-top: 20px;
+css: |-
+  p {
+  padding-top: 10px;
   padding-bottom: 0px;
-  padding-left: 20px;
-  padding-right: 20px;>
+  padding-left: 10px;
+  padding-right: 10px;
+  }
 _template: advanced
 ---
 
