@@ -9,6 +9,7 @@ css: |-
   padding-bottom: 0px;
   padding-left: 20px;
   padding-right: 20px;
+  size: 4;
   }
 _template: advanced
 ---
