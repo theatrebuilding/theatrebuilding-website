@@ -4,17 +4,17 @@ artistName: anyone
 location: Beirut
 date: 2024-10-10T22:00:00.000Z
 css: |-
-  p {
-  padding-top: 10px;
+  .bread {
+  padding-top: 20px;
   padding-bottom: 0px;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
   }
 _template: advanced
 ---
 
 <body style="background-color:black;"> 
-<p>(EN) The intensification of Israeli strikes in Lebanon has led to the largest population displacement in the country's history.
+<p class="bread">(EN) The intensification of Israeli strikes in Lebanon has led to the largest population displacement in the country's history.
 
 Residents of Palestinian refugee camps in the southern suburbs of Beirut were forced to evacuate their camps as a matter of urgency at the end of September. They find themselves displaced for an indefinite period and are desperately short of funds to pay for their temporary accommodation, food, electricity - it's starting to get cold - and all the basic necessities. The money will be sent directly to the families of friends, all of whom are actors and actresses in theatre groups, as well as to citizens' kitchens that have been set up in the emergency to provide food for displaced people. The funds will be transferred by Western Union and redistributed to the various families. All donations, no matter how small, will help.
 Thank you in advance for your help.
