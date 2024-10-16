@@ -9,12 +9,9 @@ css: |-
   padding-bottom: 0px;
   padding-left: 20px;
   padding-right: 20px;
-  size: 4;
   }
 _template: advanced
 ---
-
-\<background-color="black">
 
 <div class="gfm-embed" data-url="https://www.gofundme.com/f/don-pour-des-artistes-et-refugies-palestiniens-au-liban/widget/large?sharesheet=CAMPAIGN_PAGE&attribution_id=undefined"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
 
@@ -31,4 +28,3 @@ _template: advanced
 <p class="bread">Merci par avance pour votre aide.</p>
 
 <div class="gfm-embed" data-url="https://www.gofundme.com/f/don-pour-des-artistes-et-refugies-palestiniens-au-liban/widget/large?sharesheet=CAMPAIGN_PAGE&attribution_id=undefined"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
-</body>
