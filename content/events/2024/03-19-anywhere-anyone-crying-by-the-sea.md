@@ -151,8 +151,6 @@ _template: advanced
 
 <p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1%20English%20Monia.wav" type="audio/mpeg"></audio></p>
 
-<p class="indryk3"><font size="4"><a href="https://soundcloud.com/user-141869674/refrain-1_1-reading-1">Reading 1 (of version 1.1)</a></font></p>
-
 <p class="indryk3"><font size="4"><em><a href="https://ossw.pubpub.org/pub/x6w8nio4/draft?access=5m90oqlw">1.1.1, English, Madison</a></em></font></p>
 
 <p class="indryk4"><font size="4"><a href="https://soundcloud.com/user-141869674/refrain-1-1-1-reading-1">Reading 1 (of version 1.1.1)</a></font></p>
@@ -163,9 +161,13 @@ _template: advanced
 
 <p class="indryk5"><font size="4"><em><a href="https://docs.google.com/document/d/1nRnHNOJSDRk-FrL4c_-48a2MB9Mhlr5LEPLpKg3OBmc/edit?usp=sharing">1.1.1.2.1, English, David, Jazbo and Monia</a></em></font></p>
 
+<p class="indryk6"><audio style=controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.1.2.1.%20David%20Jazbo%20Monia.wav" type="audio/mpeg"></audio></p>
+
 <p class="indryk6"><font size="4"><strong><a href="https://docs.google.com/document/d/1wTMD_D6NxNHdu9TPiNJLJNJnybFUVdJhT1z2WvSy7uc/edit?usp=sharing ">1.1.1.2.1.1, English</a></strong></font></p>
 
 <p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/15Mp6kRajAVTHuCLW4MFXi8leoRazwxDaNKxXsBskzSo/edit?usp=sharing">1.1.1.3, English, Ahmed</a></em></font></p>
+
+<p class="indryk5"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.1.3%20English%20Ahmed.wav" type="audio/mpeg"></audio></p>
 
 <p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1eLr8szbXNPkGav-Eyeh_hONOdaTIDVqVIhHAgUSufm4/edit?usp=sharing">1.1.1.3.1, English</a></strong></font></p>
 
