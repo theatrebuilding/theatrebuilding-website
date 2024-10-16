@@ -5,10 +5,10 @@ location: Beirut
 date: 2024-10-10T22:00:00.000Z
 css: |-
   .bread {
-  padding-top: 20px;
+  padding-top: 30px;
   padding-bottom: 0px;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
   }
 _template: advanced
 ---
@@ -26,5 +26,3 @@ _template: advanced
 <p class="bread">Les habitant.es des camps de réfugié.es palestinien.nes de la banlieue sud de Beyrouth ont été forcé d'évacuer dans l'urgence les camps fin septembre. Ils et elles se retrouvent déplacer pour une durée indéterminée et manquent cruellement de moyens pour payer leur logement provisoire, la nourriture, l'électricité - il commence à faire froid - et tous les produits de première nécessité. L'argent sera envoyé directement à des familles d'ami.es tous.tes acteurs et actrices dans des groupes de théâtre mais aussi à des initiatives de cuisines citoyennes qui se sont crées dans l'urgence pour fournir de la nourriture aux personnes déplacées. Les fonds seront transférés par western union et redistribués aux différentes familles. Tous les dons même les plus petits permettront d'aider.</p>
 
 <p class="bread">Merci par avance pour votre aide.</p>
-
-<div class="gfm-embed" data-url="https://www.gofundme.com/f/don-pour-des-artistes-et-refugies-palestiniens-au-liban/widget/large?sharesheet=CAMPAIGN_PAGE&attribution_id=undefined"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
