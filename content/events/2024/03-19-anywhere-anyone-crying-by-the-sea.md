@@ -151,6 +151,8 @@ _template: advanced
 
 <p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1%20English%20Monia.wav" type="audio/mpeg"></audio></p>
 
+<p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.%20English%20Monia.wav" type="audio/mpeg"></audio></p>
+
 <p class="indryk3"><font size="4"><em><a href="https://ossw.pubpub.org/pub/x6w8nio4/draft?access=5m90oqlw">1.1.1, English, Madison</a></em></font></p>
 
 <p class="indryk4"><font size="4"><a href="https://soundcloud.com/user-141869674/refrain-1-1-1-reading-1">Reading 1 (of version 1.1.1)</a></font></p>
@@ -168,6 +170,8 @@ _template: advanced
 <p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/15Mp6kRajAVTHuCLW4MFXi8leoRazwxDaNKxXsBskzSo/edit?usp=sharing">1.1.1.3, English, Ahmed</a></em></font></p>
 
 <p class="indryk5"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.1.3%20English%20Ahmed.wav" type="audio/mpeg"></audio></p>
+
+<p class="indryk5"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.1.3%20English%20Ahmed%20(2).wav" type="audio/mpeg"></audio></p>
 
 <p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1eLr8szbXNPkGav-Eyeh_hONOdaTIDVqVIhHAgUSufm4/edit?usp=sharing">1.1.1.3.1, English</a></strong></font></p>
 
@@ -207,17 +211,23 @@ _template: advanced
 
 <p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.2%20English%20Eliza.wav" type="audio/mpeg"></audio></p>
 
+<p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.2.%20Eliza.wav" type="audio/mpeg"></audio></p>
+
 <p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1_NpD-hAEmrGoDY5N3UA6zwZOSjrtlVOqlMR6eFYoLeE/edit?usp=sharing">1.1.2.1, English, Nanna</a></em></font></p>
 
 <p class="indryk5"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.2.1%20English%20Nanna.wav" type="audio/mpeg"></audio></p>
 
 <p class="indryk5"><font size="4"><em><a href="https://docs.google.com/document/d/1PPTSObj394AOedOXviV9gLoJxCVWtQRoOJuJgFIhDTI/edit?usp=sharing">1.1.2.1.1, English, Eliza</a></em></font></p>
 
+<p class="indryk6"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.2.1.1.1%20English%20Eliza.wav" type="audio/mpeg"></audio></p>
+
 <p class="indryk6"><font size="4"><strong><a href="https://docs.google.com/document/d/1hWYEUJ37bZClYRdOtpO1-3LjTiLeFQk63FmJQLR50VQ/edit?usp=sharing">1.1.2.1.1.1, English</a></strong></font></p>
 
 <p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1c3TUGUveiy1_AdBzuELMc-s6l00iOke-fj7Fcg5nPoQ/edit?usp=sharing">1.1.2.1.2, English</a></strong></font></p>
 
 <p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1uXVv4uZHtKWW9tIxIlIjnbvKqVuQWsDiS203Vwp1NaM/edit?usp=sharing">1.1.2.2, English, Amine</a></em></font></p>
+
+<p class="indryk5"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.2.2%20English%20Amine.wav" type="audio/mpeg"></audio></p>
 
 <p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1RE6_cUQrc7WsalYqLNDUMTaiRyIG4qWb51RxNI5cUPQ/edit?usp=sharing">1.1.2.2.1, English</a></strong></font></p>
 
@@ -229,9 +239,15 @@ _template: advanced
 
 <p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1WJ9d1tyxbcauW0IuozGEMlzAXdUjI4vGo6HVstZs964/edit?usp=sharing">1.1.4, English, Kunrad</em></a></font></p>
 
+<p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.4%20English%20Kunrad.wav" type="audio/mpeg"></audio></p>
+
 <p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1lcnHqNdH73bQ-8VObxswoEp2nERhOjEeCm3gAvvW8DQ/edit?usp=sharing">1.1.4.1, English</strong></a></font></p>
 
 <p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1ywzUncz6pIjGle-XHSVrbjbb5QspsuI6vJiuOx-y8yI/edit?usp=sharing">1.1.5, English, Mohammed</em></a></font></p>
+
+<p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.5%20English%20Mohammed.wav" type="audio/mpeg"></audio></p>
+
+<p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.6.%20Mohammed.wav" type="audio/mpeg"></audio></p>
 
 <p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1PYkRU2826aiZanNfCe0o15hD-x4wtiwKZmKQZoziFLk/edit?usp=sharing">1.1.5.1, English</strong></a></font></p>
 
@@ -251,7 +267,9 @@ _template: advanced
 
 <p class="indryk2"><font size="4"><em><a href="https://ossw.pubpub.org/pub/7jisqov5/draft?access=ksch6mh8 ">1.3, Dansk, Henri</a></em></font></p>
 
-<p class="indryk3"><font size="4"><a href="https://soundcloud.com/user-141869674/omkvaed-1_3-reading-1">Reading 1 (of version 1.3)</a></font></p>
+<p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.3%20Dansk%20Henri.wav" type="audio/mpeg"></audio></p>
+
+<p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.3..wav" type="audio/mpeg"></audio></p>
 
 <p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/1Hv0AY1DTg30jMcabgijDN2MXEmh3Ws4ugDlgrYrWBy4/edit?usp=sharing">1.3.2, Dansk</a></strong></font></p>
 
@@ -285,6 +303,8 @@ _template: advanced
 
 <p class="indryk4"><font size="4"><a href="https://soundcloud.com/ahmed-ben-abid-2/crying-by-the-sea-kacem-yasmine-12/s-SrHwurAPy9q?si=cf7c9cff26f848b09951fda8861f964d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Reading</a></font></p>
 
+<p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.5.2..wav" type="audio/mpeg"></audio></p>
+
 <p class="indryk4"><font size="4"<em><a href="https://docs.google.com/document/d/1k_z1XRe0fo-1irVCD_t83EOiZpJd-DZC0ZKb-aVGjJY/edit?usp=sharing">1.5.2.1, الدارجة, Kacem</a></em></font></p>
 
 <p class="indryk5"><font size="4"><em><a href="https://docs.google.com/document/d/1qmAOMYyYqAKKAafwUOP5MCjmW2UOYPJP8zQalkOX6_0/edit?usp=sharing">1.5.2.1.1, الدارجة, Rania</a></em></font></p>
@@ -309,11 +329,13 @@ _template: advanced
 
 <p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1A7rNKZyTGJuRNu38dXa2kmqO-MfuVUg0CrEI6hW_spw/edit?usp=sharing">1.5.3.2, الدارجة, Moody</a></em></font></p>
 
+<p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/Moody%20rewrite.wav" type="audio/mpeg"></audio></p>
+
 <p class="indryk5"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.5.3.2.wav" type="audio/mpeg"></audio></p>
 
 <p class="indryk5"><font size="4"><em><a href="https://docs.google.com/document/d/1RoEUDA_3d05xtiv8LtASSZxzp8UpfMOH0Wb3d4Xkf4c/edit?usp=sharing">1.5.3.2.1, الدارجة, Moody</a></em></font></p>
 
-<p class="indryk5"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.5.3.2.1.%20Moody.wav" type="audio/mpeg"></audio></p>
+<p class="indryk6"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.5.3.2.1.%20Moody.wav" type="audio/mpeg"></audio></p>
 
 <p class="indryk6"><font size="4"><strong><a href="https://docs.google.com/document/d/1qI00e7WF7FwkraQnNFy0tLqjel43BIvdDsfffxdA3Qc/edit?usp=sharing">1.5.3.2.1.1, الدارجة</a></strong></font></p>
 
@@ -352,6 +374,8 @@ _template: advanced
 
 <p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1crxf9CfjXRzt7wQ3iwDFwYr-ia2iwpV0M401uSiqxqc/edit?usp=sharing">1.5.8, dansk, English, الدارجة, Monia (Roskilde festival)</em></a></font></p>
 
+<p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/01-240705_1119.wav" type="audio/mpeg"></audio></p>
+
 <p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1cVSa0jOt16LhGiMgC-qfWuOtQscITqoqHoG-2TDPGRs/edit">1.5.8.1, dansk, English, الدارجة, Monia</em></a></font></p>
 
 <p class="indryk5"><font size="4"><em><a href="https://docs.google.com/document/d/18aBxJ-RVN_f6_fV5YrHBEZOJeW98qUM239XySs9aPm8/edit?usp=sharing">1.5.8.1.1, dansk, الدارجة, Monia</em></a></font></p>
@@ -361,6 +385,8 @@ _template: advanced
 <p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/1FeCTWp5xS5q7zp-ge5aUIe_Nt57XE6cviTN_coLpFto/edit?usp=sharing">1.5.9, الدارجة</strong></a></font></p>
 
 <p class="indryk2"><font size="4"><em><a href="https://docs.google.com/document/d/1afu8i3HZWTI7BzmmAsuBhUX_egdcAC4ezFJo03sv7YA/edit?usp=sharing">1.6, Dansk, Monia</a></em></font></p>
+
+<p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.6%20Dansk%20Monia.wav" type="audio/mpeg"></audio></p>
 
 <p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/13eWi94lmhK3lNhURrUXLw4GVN5RsA9RyMyLn_XYDJjk/edit?usp=sharing">1.6.1, Dansk</a></strong></font></p>
 
