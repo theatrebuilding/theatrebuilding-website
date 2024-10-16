@@ -145,7 +145,7 @@ _template: advanced
 
 <p class="indryk1"><font size="4"><em><a href="https://ossw.pubpub.org/pub/64r5yik1/draft?access=yrvo1ilp">1, Dansk, Monia</a></em></font></p>
 
-<p class="indryk2"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://soundcloud.com/user-141869674/omkvaed-1-reading-1-1" type="audio/mpeg"></audio></p>
+<p class="indryk2"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1. Dansk Monia.wav" type="audio/mpeg"></audio></p>
 
 <p class="indryk2"><font size="4"><em><a href="https://ossw.pubpub.org/pub/kdzysr0h/draft?access=4bvnv8nt">1.1, English, Monia</em></a></font></p>
 
