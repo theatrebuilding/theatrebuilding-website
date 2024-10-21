@@ -259,7 +259,7 @@ _template: advanced
 
 <p class="indryk2"><font size="4"><em><a href="https://ossw.pubpub.org/pub/edi9ku7v/draft?access=2x0v0e5f ">1.2, Dansk, Monia</a></em></font></p>
 
-<p class="indryk3"><font size="4"><a href="https://soundcloud.com/user-141869674/omkvaed-1_2-reading-1">Reading 1 (of version 1.2)</a></font></p>
+<p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.2%2C%20dansk.%20Monia.wav" type="audio/mpeg"></audio></p>
 
 <p class="indryk2"><font size="4"><strong><a href="https://docs.google.com/document/d/1Yy0V7XgfYqc4zZjdhe3JqofTBJrcI0ajXf2zG7s1KOA/edit?usp=sharing">1.2.1, Dansk</a></strong></font></p>
 
