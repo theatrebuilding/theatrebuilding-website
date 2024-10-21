@@ -317,11 +317,13 @@ _template: advanced
 
 <p class="indryk3"><font size="4"<em><a href="https://docs.google.com/document/d/1uHDHsD3SPPOKADuF2LDJ1Ei-Jy3yKlA0wX5BTQv348g/edit?usp=sharing">1.5.3, الدارجة, Arij & Nessrine</a></em></font></p>
 
-<p class="indryk4"><font size="4"><a href="https://soundcloud.com/ahmed-ben-abid-2/crying-by-the-sea-arij-nesrinnne-13/s-0aK9OjHeJqi?si=cf7c9cff26f848b09951fda8861f964d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Reading</a></font></p>
+<p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.3%20Arij%20et%20Nesrine.mp3" type="audio/mpeg"></audio></p>
+
+<p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.3%20Arij%20et%20Nesrine%20(Take%202).mp3" type="audio/mpeg"></audio></p>
 
 <p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1wWkHv3-aELc233RxPbf6_DDrXBFxaRf6fXTT1n8jhr4/edit?usp=sharing">1.5.3.1, الدارجة, Arij</a></em></font></p>
 
-<p class="indryk5"><font size="4"><a href="https://soundcloud.com/ahmed-ben-abid-2/crying-by-the-sea-arij-131">Reading</a></font></p>
+<p class="indryk5"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/Arij%201.3.1.mp3" type="audio/mpeg"></audio></p>
 
 <p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1M88i9CogVJcqnegGEUSYWza1YRCmZZaA2ni8DuwN1Vo/edit?usp=sharing">1.5.3.1.1, الدارجة</a></strong></font></p>
 
