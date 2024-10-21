@@ -155,8 +155,6 @@ _template: advanced
 
 <p class="indryk3"><font size="4"><em><a href="https://ossw.pubpub.org/pub/x6w8nio4/draft?access=5m90oqlw">1.1.1, English, Madison</a></em></font></p>
 
-<p class="indryk4"><font size="4"><a href="https://soundcloud.com/user-141869674/refrain-1-1-1-reading-1">Reading 1 (of version 1.1.1)</a></font></p>
-
 <p class="indryk4"><font size="4"><em><a href="https://ossw.pubpub.org/pub/gchn6zra/draft?access=dve146y2">1.1.1.1, English, Madison</a></em></font></p>
 
 <p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1YGwZaSm-SNxjuwe9p78XFPwjlInwRWRCGcs_h_Y7N7s/edit?usp=sharing">1.1.1.2, English, Barly</a></em></font></p>
@@ -283,7 +281,7 @@ _template: advanced
 
 <p class="indryk2"><font size="4"><em><a href="https://docs.google.com/document/d/1Makf4sEGgm3S0XLZ5uA91Y2VVt8xLT1W9vINcipEPO8/edit?usp=sharing">1.5, الدارجة, Mongi</a></em></p>
 
-<p class="indryk3"><font size="4"><a href="https://soundcloud.com/ahmed-ben-abid-2/mongi-1/s-AbS6dSLvLfd?si=3906c1e875a04916b3dd47d022b1d34c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Reading</a></font></p>
+<p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/Mongi%201.mp3" type="audio/mpeg"></audio></p>
 
 <p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.5%20Munji.wav" type="audio/mpeg"></audio></p>
 
@@ -291,9 +289,9 @@ _template: advanced
 
 <p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1zwIxDPH3dfsJlJGHYXoLnzAti0sjiN15-Zs0N0Eh2NY/edit?usp=sharing">1.5.1.1, الدارجة, Yessmine</a></em></font></p>
 
-<p class="indryk5"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.5.1.1.%20Yasmine.wav" type="audio/mpeg"></audio></p>
+<p class="indryk5"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/Yesmine%201.1.1.mp3" type="audio/mpeg"></audio></p>
 
-<p class="indryk5"><font size="4"><a href="https://soundcloud.com/ahmed-ben-abid-2/crying-by-the-sea-yesmine-111/s-GHPMOsKPk9W?si=3906c1e875a04916b3dd47d022b1d34c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Reading</a></font></p>
+<p class="indryk5"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.5.1.1.%20Yasmine.wav" type="audio/mpeg"></audio></p>
 
 <p class="indryk5"><font size="4"><strong><a href="https://docs.google.com/document/d/1Ci2Fw_KKPYcSPxqB0aBf9i8qzbaUW4luIVt81ibeobQ/edit?usp=sharing">1.5.1.1.1, الدارجة</a></strong></font></p>
 
@@ -301,7 +299,7 @@ _template: advanced
 
 <p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1GGSoqtv_pQaRtTy_4aXvw0Vx9LvFLf8Q_XdKveYzc-I/edit?usp=sharing">1.5.2, الدارجة, Kacem & Yessmine</a></em></font></p>
 
-<p class="indryk4"><font size="4"><a href="https://soundcloud.com/ahmed-ben-abid-2/crying-by-the-sea-kacem-yasmine-12/s-SrHwurAPy9q?si=cf7c9cff26f848b09951fda8861f964d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Reading</a></font></p>
+<p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/Kacem%20yasmine%201.2.mp3" type="audio/mpeg"></audio></p>
 
 <p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.5.2..wav" type="audio/mpeg"></audio></p>
 
@@ -348,7 +346,7 @@ _template: advanced
 
 <p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1wyC5Qs7L1yfBjDEiMlQyWlWy3GiYsYi3pQhBRFvxa5o/edit?usp=sharing">1.5.5, الدارجة, Iheb</em></a></font></p>
 
-<p class="indryk4"><font size="4"><a href="https://soundcloud.com/ahmed-ben-abid-2/crying-by-the-sea-iheb-15/s-hbLppr1mdeN?si=cf7c9cff26f848b09951fda8861f964d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Reading</a></font></p>
+<p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.5.mp3" type="audio/mpeg"></audio></p>
 
 <p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1h_s06x-quGGYBKMX5D8g75EgP2mHaUzH5M6FNEctwiQ/edit?usp=sharing">1.5.5.1, الدارجة, Abir</a></em></font></p>
 
@@ -362,13 +360,13 @@ _template: advanced
 
 <p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1lQuI0GvKkZVHsqT1SpUG2SUdz20yhd-CtUC6qkA06_Y/edit?usp=sharing">1.5.6, الدارجة, Bilel</a></em></font></p>
 
-<p class="indryk4"><font size="4"><a href="https://soundcloud.com/ahmed-ben-abid-2/crying-by-the-sea-bilel-16/s-aJxT5YeIjyu?si=cf7c9cff26f848b09951fda8861f964d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Reading</a></font></p>
+<p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/Bilel%201.6.mp3" type="audio/mpeg"></audio></p>
 
 <p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1ce2HXAGTAICPBgkgwZvpv72jY_Ouqz-mbNhmIQGmTSg/edit?usp=sharing">1.5.6.1, الدارجة</a></strong></font></p>
 
 <p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1-JziwqHHOG5yff5R5_aQA0CpubDlJ-c9gBNcnyShmxs/edit?usp=sharing">1.5.7, الدارجة, Rayen</a></em></font></p>
 
-<p class="indryk4"><font size="4"><a href="https://soundcloud.com/ahmed-ben-abid-2/crying-by-the-sea-rayennn17/s-hlxYlqbGGzY?si=cf7c9cff26f848b09951fda8861f964d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">Reading</a></font></p>
+<p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.7.mp3" type="audio/mpeg"></audio></p>
 
 <p class="indryk4"><font size="4"><strong><a href="https://docs.google.com/document/d/1MRRgIeXa2wwmEAO_tMVGMa0GY2rAUnrlafiCiipGBXs/edit?usp=sharing">1.5.7.1, الدارجة</a></strong></font></p> 
 
