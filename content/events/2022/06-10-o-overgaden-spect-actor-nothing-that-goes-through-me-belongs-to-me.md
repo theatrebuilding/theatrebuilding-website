@@ -4,7 +4,7 @@ artistName: Spect-actor
 location: O-Overgaden
 date: 2022-06-10T15:30:00.000Z
 css: |
-  p { font-size: 2.5 vw }
+  p { margin: 20px; font-size: 2.5 vw }
 
   .lyd { position:static }
 _template: advanced
