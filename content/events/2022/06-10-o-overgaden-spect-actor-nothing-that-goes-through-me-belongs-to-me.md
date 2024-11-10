@@ -4,7 +4,10 @@ artistName: Spect-actor
 location: O-Overgaden
 date: 2022-06-10T15:30:00.000Z
 css: |
-
+  .bread {
+  font-size: 7;
+  position: absolute
+  }
 
   div.scroll {
   position:relative;
@@ -18,7 +21,7 @@ _template: advanced
 
 <div class="scroll">	
 
-<p style="position:absolute", font-size="7"><em>A circle of chairs. On each chair is a script. From the center of the circle a microphone is recording. 
+<p class="bread"><em>A circle of chairs. On each chair is a script. From the center of the circle a microphone is recording. 
 A group of spectactors enter. Each spectactor picks up a script and takes a seat.</em>
  Spectactor: Where do I begin?
  Spectactor: It was the summer of 2022. That we lost you.
