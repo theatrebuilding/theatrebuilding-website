@@ -30,7 +30,7 @@ _template: advanced
 
 <audio style="position:fixed; right:45%; top:65%" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/rec_07 21_07_22.mp3" type="audio/mpeg"></audio>
 
-<audio style="position:fixed; left:45%; top:75%" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/rec_07 21_07_22.mp3" type="audio/mpeg"></audio>
+<audio style="position:fixed; left:45%; top:75%" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/rec_08 28_07_22.mp3" type="audio/mpeg"></audio>
 
 <audio style="position:fixed; right:45%; top:85%" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/rec_09 04_08_22.mp3" type="audio/mpeg"></audio>
 
