@@ -3,7 +3,10 @@ title: Nothing that goes through me belongs to me
 artistName: Spect-actor
 location: O-Overgaden
 date: 2022-06-10T15:30:00.000Z
-css: 'p { font-size: 2vw }'
+css: |
+  p { font-size: 2.5 vw }
+
+  .lyd { position:static }
 _template: advanced
 ---
 
@@ -167,6 +170,7 @@ Spectactor: I don’t want this moment to end.
 Spectactor: When I leave, I will carry you with me.
  <em>The spectactors lay the scripts on the chairs and leave. The sound recording plays back into the space.</em></p>
 </div>
+<div class="lyd">
 <audio style="position:static; right:45%; top:5%" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/rec_01 10_06_22.mp3" type="audio/mpeg"></audio>
 
 <audio style="position:static; left:45%; top:15%" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/rec_02 17_06_22.mp3" type="audio/mpeg"></audio>
@@ -184,3 +188,5 @@ Spectactor: When I leave, I will carry you with me.
 <audio style="position:static; left:45%; top:75%" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/rec_08 28_07_22.mp3" type="audio/mpeg"></audio>
 
 <audio style="position:static; right:45%; top:85%" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/rec_09 04_08_22.mp3" type="audio/mpeg"></audio>
+
+</div>
