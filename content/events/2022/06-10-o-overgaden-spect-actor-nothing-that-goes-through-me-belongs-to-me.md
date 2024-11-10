@@ -13,14 +13,8 @@ css: |-
 _template: advanced
 ---
 
-<style>
-.bread {
-font-size: 10;
-position: absolute
-}
-</style>
-
-<p class="bread"><em>A circle of chairs. On each chair is a script. From the center of the circle a microphone is recording. 
+<div style="position:absolute">
+<p style="font-size:14px"><em>A circle of chairs. On each chair is a script. From the center of the circle a microphone is recording. 
 A group of spectactors enter. Each spectactor picks up a script and takes a seat.</em>
  Spectactor: Where do I begin?
  Spectactor: It was the summer of 2022. That we lost you.
@@ -178,7 +172,7 @@ Spectactor: I don’t want this moment to end.
  Spectactor: <em>(Points to some shoes.)</em> Why do I feel like I have seen those shoes before? 
 Spectactor: When I leave, I will carry you with me.
  <em>The spectactors lay the scripts on the chairs and leave. The sound recording plays back into the space.</em></p>
-
+</div>
 <audio style="position:static; right:45%; top:5%" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/rec_01 10_06_22.mp3" type="audio/mpeg"></audio>
 
 <audio style="position:static; left:45%; top:15%" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/rec_02 17_06_22.mp3" type="audio/mpeg"></audio>
