@@ -13,6 +13,13 @@ css: |-
 _template: advanced
 ---
 
+<style>
+.bread {
+font-size: 10;
+position: absolute
+}
+</style>
+
 <p class="bread"><em>A circle of chairs. On each chair is a script. From the center of the circle a microphone is recording. 
 A group of spectactors enter. Each spectactor picks up a script and takes a seat.</em>
  Spectactor: Where do I begin?
