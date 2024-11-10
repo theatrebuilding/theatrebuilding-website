@@ -3,13 +3,7 @@ title: Nothing that goes through me belongs to me
 artistName: Spect-actor
 location: O-Overgaden
 date: 2022-06-10T15:30:00.000Z
-css: |-
-  <style>
-  .bread {
-  font-size: 10;
-  position: absolute
-  }
-  </style>
+css: 'p { font-size: 2vw }'
 _template: advanced
 ---
 
