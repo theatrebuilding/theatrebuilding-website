@@ -14,7 +14,7 @@ css: |-
   .lyd6 { position:fixed; left:45%; top:55% }
   .lyd7 { position:fixed; right:45%; top:65% }
   .lyd8 { position:fixed; left:45%; top:75% }
-  .lyd8 { position:fixed; right:45%; top:85% }
+  .lyd9 { position:fixed; right:45%; top:85% }
 _template: advanced
 ---
 
@@ -176,23 +176,31 @@ moon under a bright star. The sky was pink and orange. Then I fell back to sleep
 <p>Spectactor: When I leave, I will carry you with me.</p>
  <p><em>The spectactors lay the scripts on the chairs and leave. The sound recording plays back into the space.</em></p>
 </div>
-<div class="lyd">
+<div class="lyd1">
 <audio controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/rec_01 10_06_22.mp3" type="audio/mpeg"></audio>
-
+</div>
+<div class="lyd2">
 <audio controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/rec_02 17_06_22.mp3" type="audio/mpeg"></audio>
-
+</div>
+<div class="lyd3">
 <audio controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/rec_03 23_06_22.mp3" type="audio/mpeg"></audio>
-
+</div>
+<div class="lyd4">
 <audio controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/rec_04 30_06_22.mp3" type="audio/mpeg"></audio>
-
+</div>
+<div class="lyd5">
 <audio controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/rec_05 07_07_22.mp3" type="audio/mpeg"></audio>
-
+</div>
+<div class="lyd6">
 <audio controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/rec_06 14_07_22.mp3" type="audio/mpeg"></audio>
-
+</div>
+<div class="lyd7">
 <audio controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/rec_07 21_07_22.mp3" type="audio/mpeg"></audio>
-
+</div>
+<div class="lyd8">
 <audio controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/rec_08 28_07_22.mp3" type="audio/mpeg"></audio>
-
+</div>
+<div class="lyd9">
 <audio controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/rec_09 04_08_22.mp3" type="audio/mpeg"></audio>
 
 </div>
