@@ -3,23 +3,13 @@ title: Nothing that goes through me belongs to me
 artistName: Spect-actor
 location: O-Overgaden
 date: 2022-06-10T15:30:00.000Z
-css: |
+css: |-
   .bread {
-  font-size: 7;
+  font-size: 10;
   position: absolute
-  }
-
-  div.scroll {
-  position:relative;
-  max-width: 100vw;
-  max-height:100vh;
-  overflow: auto;
-  text-align: justify;
   }
 _template: advanced
 ---
-
-<div class="scroll">	
 
 <p class="bread"><em>A circle of chairs. On each chair is a script. From the center of the circle a microphone is recording. 
 A group of spectactors enter. Each spectactor picks up a script and takes a seat.</em>
@@ -197,5 +187,3 @@ Spectactor: When I leave, I will carry you with me.
 <audio style="position:static; left:45%; top:75%" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/rec_08 28_07_22.mp3" type="audio/mpeg"></audio>
 
 <audio style="position:static; right:45%; top:85%" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/rec_09 04_08_22.mp3" type="audio/mpeg"></audio>
-
-</div>
