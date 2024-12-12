@@ -9,7 +9,7 @@ css: |-
 
   a {
   padding-left: 20px;
-  text-size: 10px
+  font-size: 10px
   }
 
 
