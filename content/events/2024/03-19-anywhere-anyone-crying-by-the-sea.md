@@ -97,8 +97,8 @@ css: |-
 
   div.a {
     text-align: right;
-  padding-top: 50px;
-  padding-right: 50px;
+  padding-top: 50%;
+  padding-right: 50%;
   }
 
   div.b {
@@ -123,5 +123,5 @@ css: |-
 _template: advanced
 ---
 
-<embed src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/test - cirta-poche. 12.12.24 - Crying by the Sea (2).pdf" 
+<embed src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/test - cirta-poche. 12.12.24 - Crying by the Sea (2).pdf" width="100vW" height="100vh" 
 type="application/pdf">
