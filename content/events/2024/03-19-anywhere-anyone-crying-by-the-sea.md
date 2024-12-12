@@ -123,4 +123,5 @@ css: |-
 _template: advanced
 ---
 
-<a href="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/test - cirta-poche. 12.12.24 - Crying by the Sea (2).pdf">DOWNLOAD SCRIPT</a>
+<embed src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/test - cirta-poche. 12.12.24 - Crying by the Sea (2).pdf" width="500" height="375" 
+type="application/pdf">
