@@ -103,7 +103,7 @@ css: |-
 
   div.a {
     text-align: right;
-  padding-top: 50%;
+  padding-top: 50px;
   padding-right: 50%;
   }
 
