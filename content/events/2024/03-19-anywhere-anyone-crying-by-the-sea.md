@@ -145,6 +145,9 @@ _template: advanced
 
 <p class="indryk1"><font size="4">The following scripts have been written throughout a series of workshops in Denmark and Tunisia. The scripts are open source and can be used freely with creditation by anyone. Feel free to edit the <strong>bold documents</strong> and create your own version in any language. Write your full name in the end of the document or by e-mail: <a href="mailto:theatrebuilding@theatrebuilding.com" target="_blank">theatrebuilding@theatrebuilding.com</a></font></p>
 
+<p class="indryk1"><font size="4">
+تمت كتابة النصوص التالية خلال سلسلة من ورش العمل في الدنمارك وتونس. هذه النصوص مفتوحة المصدر ويمكن لأي شخص استخدامها و اعتمادها بكل حرية . لا تتردد في إنشاء نسختك الخاصة بأي لغة. اكتب اسمك الكامل في نهاية النص أو عبر البريد الإلكتروني : theatrebuilding@theatrebuilding.com</a></font></p>
+
 <div class="a">
 <p>_</p>
 </div>
