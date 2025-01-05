@@ -149,10 +149,11 @@ _template: advanced
 <p class="indryk1"><font size="4">
 تمت كتابة النصوص التالية خلال سلسلة من ورش العمل في الدنمارك وتونس. هذه النصوص مفتوحة المصدر ويمكن لأي شخص استخدامها و اعتمادها بكل حرية . لا تتردد في إنشاء نسختك الخاصة بأي لغة. اكتب اسمك الكامل في نهاية النص أو عبر البريد الإلكتروني : <a href="mailto:theatrebuilding@theatrebuilding.com" target="_blank">theatrebuilding@theatrebuilding.com</a></font></p>
 
-<div class="a">
+<div class="b">
 <p>_</p>
 </div>
 
+<div class="a">
 <p class="indryk1"><font size="4"><em><a href="https://ossw.pubpub.org/pub/64r5yik1/draft?access=yrvo1ilp">1, Dansk, Monia</a></em></font></p>
 
 <p class="indryk2"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.%20Dansk%20Monia.wav" type="audio/mpeg"></audio></p>
