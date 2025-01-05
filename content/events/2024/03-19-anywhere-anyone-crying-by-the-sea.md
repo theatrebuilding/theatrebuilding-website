@@ -102,13 +102,14 @@ css: |-
   }
 
   div.a {
-    text-align: right;
+  text-align: right;
   padding-top: 50px;
-  padding-right: 50%;
+  padding-bottom: 50px;
+  padding-left: 50px;
   }
 
   div.b {
-    text-align: right;
+    text-align: left;
   padding-top: 50px;
   padding-bottom: 50px;
   padding-right: 50px;
@@ -130,17 +131,17 @@ _template: advanced
 ---
 
 <body>
-<div class="a">
+<div class="b">
 <p><font size="7"><strong>البكاء على حافة البحر</strong></font></p>
 </div>
-
+<div class="a">
 <p class="overskrift"><font size="7"><strong>Græder ved havet</strong></font></p>
 <p class="indryk1"><font size="5">open source writing, reading and listening space</font></p>
-
-<div class="a">
+<div class="b">
 <p><script src="//myradiostream.com/embed/theatrebuilding"></script></p>
 </div>
 
+<div class="a">
 <p class="indryk1"><font size="4">F&oslash;lgende manuskripter er blevet til gennem en r&aelig;kke workshops i Danmark og Tunesien. Manuskripterne er open source og kan bruges frit med kreditering af enhver. Rediger et af de dokumenter, der st&aring;r med <strong>fed</strong> og skab din egen version i hvilket som helst sprog. Skriv dit fulde navn for enden af dokumentet eller via e-mail: <a href="mailto:theatrebuilding@theatrebuilding.com" target="_blank">theatrebuilding@theatrebuilding.com</a></font></p>
 
 <p class="indryk1"><font size="4">The following scripts have been written throughout a series of workshops in Denmark and Tunisia. The scripts are open source and can be used freely with creditation by anyone. Feel free to edit the <strong>bold documents</strong> and create your own version in any language. Write your full name in the end of the document or by e-mail: <a href="mailto:theatrebuilding@theatrebuilding.com" target="_blank">theatrebuilding@theatrebuilding.com</a></font></p>
