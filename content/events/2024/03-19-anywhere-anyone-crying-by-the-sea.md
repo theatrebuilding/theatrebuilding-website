@@ -77,7 +77,7 @@ _template: advanced
     </div>
     <section class="ticket-section">
       <h2>Performances &amp; Ticket Links</h2>
-      <p>Tickets are bought online for the Danish premiere and on the door in at Teatre du Poche, in El Kef, Tunisia.</p>
+      <p>Tickets are bought online for the Danish premiere and on the door at Teatre du Poche, in El Kef, Tunisia.</p>
       <ul>
         <li>
           <strong>10/4/2025, at 19:00:</strong>
