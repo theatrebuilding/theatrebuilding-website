@@ -65,7 +65,7 @@ _template: advanced
 
 <body>
   <header class="header">
-    <div class="title-left">Crying by the Sea</div>
+    <div class="title-left">Gr&aelig;der ved havet</div>
     <div class="title-right">البكاء على حافة البحر</div>
   </header>
   <main>
@@ -97,7 +97,7 @@ _template: advanced
         </li>
         <li>
           <strong>13/4/2025, at 15:00:</strong>
-          <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179622?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179622" target="_blank">Buy Tickets (Denmark)</a>
+          <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179623?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179623" target="_blank">Buy Tickets (Denmark)</a>
         </li>
       </ul>
     </section>
