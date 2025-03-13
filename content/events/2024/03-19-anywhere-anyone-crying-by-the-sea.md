@@ -4,8 +4,13 @@ artistName: anyone
 location: Teaterøen & Theatre du Poche
 date: 2024-03-19T14:00:00.000Z
 altDate: 10/4-13/4 2025
-css: |2-
-    .header {
+css: |-
+  .indryk1
+
+  .indryk2
+   
+
+   .header {
       display: flex;
       justify-content: space-between;
       align-items: center;
@@ -106,7 +111,6 @@ _template: advanced
 <p><script src="//myradiostream.com/embed/theatrebuilding"></script></p>
 </div>
 
-```
 <div class="b">
 <p class="indryk1"><font size="4">F&oslash;lgende manuskripter er blevet til gennem en r&aelig;kke workshops i Danmark og Tunesien. Manuskripterne er open source og kan bruges frit med kreditering af enhver. Rediger et af de dokumenter, der st&aring;r med <strong>fed</strong> og skab din egen version i hvilket som helst sprog. Skriv dit fulde navn for enden af dokumentet eller via e-mail: <a href="mailto:theatrebuilding@theatrebuilding.com" target="_blank">theatrebuilding@theatrebuilding.com</a></font></p>
 
@@ -380,7 +384,6 @@ _template: advanced
   <div>
 </body>
 ```
-
   </main>
 <script>
     document.addEventListener('DOMContentLoaded', function() {
