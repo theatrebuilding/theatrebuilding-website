@@ -124,12 +124,10 @@ _template: advanced
 </script>
 
 <body>
-    <div class="a">
-    <p><font size="7"><strong>البكاء على حافة البحر</strong></font></p>
-    </div>
-    <div class="b">
-    <p class="overskrift"><font size="7"><strong>Græder ved havet</strong></font></p>
-    <p class="indryk1"><font size="5">open source writing, reading and listening space</font></p>
+
+<div class="a">
+<p><script src="//myradiostream.com/embed/theatrebuilding"></script></p>
+</div>
 
 ```
 <div class="b">
