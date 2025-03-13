@@ -101,29 +101,6 @@ _template: advanced
         </li>
       </ul>
     </section>
-  </main>
-<script>
-    document.addEventListener('DOMContentLoaded', function() {
-      const premiereDate = new Date("April 10, 2025 19:00:00").getTime();
-      const countdownEl = document.getElementById("countdown");
-      const timer = setInterval(() => {
-        const now = new Date().getTime();
-        const distance = premiereDate - now;
-        const days = Math.floor(distance / (1000 * 60 * 60 * 24));
-        const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-        const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-        const seconds = Math.floor((distance % (1000 * 60)) / 1000);
-        if (distance < 0) {
-          clearInterval(timer);
-          countdownEl.innerHTML = "Premiere Started";
-        } else {
-          countdownEl.innerHTML = `${days}d ${hours}h ${minutes}m ${seconds}s`;
-        }
-      }, 1000);
-    });
-</script>
-
-<body>
 
 <div class="a">
 <p><script src="//myradiostream.com/embed/theatrebuilding"></script></p>
@@ -403,5 +380,27 @@ _template: advanced
   <div>
 </body>
 ```
+
+  </main>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const premiereDate = new Date("April 10, 2025 19:00:00").getTime();
+      const countdownEl = document.getElementById("countdown");
+      const timer = setInterval(() => {
+        const now = new Date().getTime();
+        const distance = premiereDate - now;
+        const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+        if (distance < 0) {
+          clearInterval(timer);
+          countdownEl.innerHTML = "Premiere Started";
+        } else {
+          countdownEl.innerHTML = `${days}d ${hours}h ${minutes}m ${seconds}s`;
+        }
+      }, 1000);
+    });
+</script>
 
 </body>
