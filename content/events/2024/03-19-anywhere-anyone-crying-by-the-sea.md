@@ -5,9 +5,17 @@ location: Teaterøen & Theatre du Poche
 date: 2024-03-19T14:00:00.000Z
 altDate: 10/4-13/4 2025
 css: |-
-  .indryk1
+  .indryk1 {
+    margin-left: 20px;
+  }
 
-  .indryk2
+  .indryk2 {
+    margin-left: 40px;
+  }
+
+  .indryk3 {
+    margin-left: 60px;
+  }
    
 
    .header {
