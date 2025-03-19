@@ -399,8 +399,11 @@ _template: advanced
 
 <p class="indryk2"><font size="4"><strong><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?usp=sharing">1.8, Dansk</a></strong></font></p>
 
+<p class="indryk1"><font size="4"><strong><a href="https://docs.google.com/document/d/1gOb3V-DMcYzhp5OluC5F7mft0RDbnf27/edit?usp=sharing&ouid=101296431883674874071&rtpof=true&sd=true">Moody, a spect-actor, English</a></strong></font></p>
+
 <div class="b">
 <a href="https://app.console.xyz/c/theatrebuilding/chat?r=53226998-2bc9-43bc-8e1a-d83f6cc7ef5f"><img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/console.png " style="height:42px"></a> <a href="https://www.instagram.com/cryingbythesea/"><img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/Black-icon-Instagram-logo-transparent-PNG.png" style="height:42px"></a>
+
   <div>
 </body>
 ```
