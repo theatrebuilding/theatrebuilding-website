@@ -29,6 +29,18 @@ css: |
     margin-left: 120px;
   }
    
+
+   .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px;
+
+    }
+    .header .title-left,
+    .header .title-right {
+      font-size: 1.5em;
+    }
 _template: advanced
 ---
 
