@@ -4,7 +4,7 @@ artistName: anyone
 location: Teaterøen & Theatre du Poche
 date: 2024-03-19T14:00:00.000Z
 altDate: 10/4-13/4 2025
-css: |
+css: |-
   .indryk1 {
     margin-left: 20px;
   }
@@ -40,6 +40,50 @@ css: |
     .header .title-left,
     .header .title-right {
       font-size: 1.5em;
+    }
+
+    .image-container img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    #countdown {
+      font-family: "courier new", sans-serif;
+      font-size: 5em;
+      padding-top: 0.5em;
+      padding-bottom: 0.5em;
+    }
+
+    main {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+
+    }
+
+    .countdown-container {
+      text-align: center;
+      margin: 40px 0;
+    }
+    .countdown-container h2 {
+      margin-bottom: 20px;
+      font-size: 1.75em;
+    }
+
+    .ticket-section ul {
+      list-style: none;
+      padding: 0;
+    }
+    .ticket-section li {
+      margin: 10px 0;
+    }
+    .ticket-section a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    .ticket-section a:hover {
+      text-decoration: underline;
     }
 _template: advanced
 ---
