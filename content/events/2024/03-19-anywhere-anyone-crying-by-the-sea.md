@@ -36,13 +36,6 @@ css: |-
   .indryk6 {
     margin-left: 120px;
   }
-  .ticket1 {
-  text-align: right;
-      margin-right: 20px;
-      font-size: 1.75em;
-    }
-
-
 
    .header {
       display: flex;
@@ -103,42 +96,34 @@ _template: advanced
 ---
 
 <body>
-<main>
     <div class="a">البكاء على حافة البحر</div>    
     <div class="b">Gr&aelig;der ved havet</div>
+   <main>
     <div class="image-container">
       <img src="https://billetto.imgix.net/u53kwpztacowffpzx4qdnqjv3bjf?w=1440&h=810&fit=crop&auto=compress%2Cformat&rect=0%2C460%2C1920%2C1080&s=6acf7e5adc93bf1925c61ba7a8f7cf47" alt="Premiere Image">
     </div>
     <div class="countdown-container">
       <div id="countdown"></div>
     </div>
-      <ul>
-        <li>
-         <div class="b"> <strong>10/4/2025, at 19:00:</strong>
-          <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179452?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179452" target="_blank">Buy Tickets (Denmark) 50 kr.</a> </div>
-          </li>
-        <li>
-                    <div class="a"><strong>10/4/2025, at 18:00:</strong>
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Tickets in Tunisia are sold on the door. Reservation possible here.</a></div> 
-        </li>
-        <li>
-          <strong>11/4/2025, at 19:00:</strong>
-          <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179613?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179613" target="_blank">Buy Tickets (Denmark)</a> Tickets in Tunisia are sold on the door.
-        </li>
-        <li>
-          <strong>12/4/2025, at 15:00:</strong>
-          <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179621?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179621" target="_blank">Buy Tickets (Denmark)</a> Tickets in Tunisia are sold on the door.
-        </li>
-        <li>
-          <strong>12/4/2025, at 19:00:</strong>
-          <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179622?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179622" target="_blank">Buy Tickets (Denmark)</a> Tickets in Tunisia are sold on the door.
-        </li>
-        <li>
-          <strong>13/4/2025, at 15:00:</strong>
-          <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179623?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179623" target="_blank">Buy Tickets (Denmark)</a> Tickets in Tunisia are sold on the door.
-        </li>
-      </ul>
-    </section>
+         <p class="b"> <strong>10/4/2025, at 19:00:</strong>
+          <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179452?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179452" target="_blank">Buy Tickets (Denmark) 50 kr.</a> </p>
+                    <p class="a"><strong>10/4/2025, at 18:00:</strong>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Tickets in Tunisia are sold on the door. Reservation possible here.</a></p> 
+
+```
+      <strong>11/4/2025, at 19:00:</strong>
+      <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179613?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179613" target="_blank">Buy Tickets (Denmark)</a> Tickets in Tunisia are sold on the door.
+
+      <strong>12/4/2025, at 15:00:</strong>
+      <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179621?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179621" target="_blank">Buy Tickets (Denmark)</a> Tickets in Tunisia are sold on the door.
+
+      <strong>12/4/2025, at 19:00:</strong>
+      <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179622?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179622" target="_blank">Buy Tickets (Denmark)</a> Tickets in Tunisia are sold on the door.
+
+      <strong>13/4/2025, at 15:00:</strong>
+      <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179623?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179623" target="_blank">Buy Tickets (Denmark)</a> Tickets in Tunisia are sold on the door.
+```
+
 <p></p>
 <div class="a">
 <p><script src="//myradiostream.com/embed/theatrebuilding"></script></p>
