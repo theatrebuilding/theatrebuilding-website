@@ -160,18 +160,19 @@ _template: advanced
 <p class="a"><strong>13/4/2025, at 14:00:</strong>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Tickets in Tunisia are sold on the door. 2-5 TND. Reservation possible here.</a></p> 
 
-<p></p>
+<br></br>
+
 <div class="c">
 <p><script src="//myradiostream.com/embed/theatrebuilding"></script></p>
 </div>
-<p></p>
+<br></br>
 <div class="b">
 <p class="indryk1"><font size="4">F&oslash;lgende manuskripter er blevet til gennem en r&aelig;kke workshops i Danmark og Tunesien. Manuskripterne er open source og kan bruges frit med kreditering af enhver. Rediger et af de dokumenter, der st&aring;r med <strong>fed</strong> og skab din egen version i hvilket som helst sprog. Skriv dit fulde navn for enden af dokumentet eller via e-mail: <a href="mailto:theatrebuilding@theatrebuilding.com" target="_blank">theatrebuilding@theatrebuilding.com</a></font></p>
-<p></p>
+<br></br>
 
 <p class= "a"><font size="4">
 تمت كتابة النصوص التالية خلال سلسلة من ورش العمل في الدنمارك وتونس. هذه النصوص مفتوحة المصدر ويمكن لأي شخص استخدامها و اعتمادها بكل حرية . لا تتردد في إنشاء نسختك الخاصة بأي لغة. اكتب اسمك الكامل في نهاية النص أو عبر البريد الإلكتروني : <a href="mailto:theatrebuilding@theatrebuilding.com" target="_blank">theatrebuilding@theatrebuilding.com</a></font></p>
-<p></p>
+<br></br>
 <p class="indryk1"><font size="4">The following scripts have been written throughout a series of workshops in Denmark and Tunisia. The scripts are open source and can be used freely with creditation by anyone. Feel free to edit the <strong>bold documents</strong> and create your own version in any language. Write your full name in the end of the document or by e-mail: <a href="mailto:theatrebuilding@theatrebuilding.com" target="_blank">theatrebuilding@theatrebuilding.com</a></font></p>
 <p></p>
 
