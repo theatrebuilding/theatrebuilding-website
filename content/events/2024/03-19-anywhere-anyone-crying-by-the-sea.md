@@ -109,6 +109,20 @@ _template: advanced
     <div class="countdown-container">
       <div id="countdown"></div>
 </div>
+
+   <p class="a"> يدخل جمهوران كل منهما مسرحه في قارته في نفس الوقت
+</p>  
+<p class="b"> To publikummer tr&aelig;der ind i hver sin teatersal på hvert sit kontinent på samme tid.</p>
+
+ <p class="a"> لا يوجد شيء في المسرح سوى عرض رقمي على الحائط النهائي
+</p>
+
+<p class="b">Der er intet andet i salen end en digital projektion på endev&aelig;ggen.</p>
+ <p class="a">في الصورة، يرى كل منهما الآخر
+ </p>
+
+<p class="b">I billedet ser de hinanden.</p>
+
 <p class="b"> <strong><a href="https://www.google.com/maps/place/Teater%C3%B8en/@55.696556,12.6098728,17z/data=!3m1!4b1!4m6!3m5!1s0x465252da5ae5b679:0x4bc919cc29fa0aac!8m2!3d55.696556!4d12.6124477!16s%2Fg%2F1yfdpdp6d?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D" target="_blank">Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark</a></strong></p>
 
 <p class="a"> <strong> <strong><a href="https://www.google.com/maps/place/Th%C3%A9%C3%A2tre+De+Poche+Kef/@36.1812071,8.7068335,17z/data=!3m1!4b1!4m6!3m5!1s0x12fba44bd5db4483:0x27ad9abeb47e82ea!8m2!3d36.1812071!4d8.7094084!16s%2Fg%2F11f5ghspbx?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D" target="_blank"> Theatre du Poche, El kef, Tunisia</a></strong></p>
