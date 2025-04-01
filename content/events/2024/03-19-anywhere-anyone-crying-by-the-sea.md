@@ -7,13 +7,13 @@ altDate: 10/4-13/4 2025
 css: |-
   .a  {
   text-align: right;
-  margin-left: 10%;
-  text-size: medium;
+  margin-left: 20px;
+  text-size: large;
   }
   .b {
   text-align: left;
-  margin-right: 10%;
-  text-size: medium;
+  margin-right: 20px;
+  text-size: large;
   }
 
   .c {
