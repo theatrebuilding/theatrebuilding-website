@@ -7,11 +7,11 @@ altDate: 10/4-13/4 2025
 css: |-
   .a  {
   text-align: right;
-  margin-right: 20px;
+  margin-left: 40px;
 
   .b {
   text-align: left;
-  margin-right: 20px;
+  margin-right: 40px;
 
   .indryk1 {
     margin-left: 20px;
@@ -111,17 +111,29 @@ _template: advanced
                     <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Tickets in Tunisia are sold on the door. Reservation possible here.</a></p> 
 
 ```
-      <strong>11/4/2025, at 19:00:</strong>
-      <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179613?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179613" target="_blank">Buy Tickets (Denmark)</a> Tickets in Tunisia are sold on the door.
+     <p class="b"> <strong>11/4/2025, at 19:00:</strong>
+      <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179613?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179613" target="_blank">Buy Tickets (Denmark)</a> Tickets in Tunisia are sold on the door.</p>
 
-      <strong>12/4/2025, at 15:00:</strong>
-      <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179621?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179621" target="_blank">Buy Tickets (Denmark)</a> Tickets in Tunisia are sold on the door.
+                <p class="a"><strong>11/4/2025, at 18:00:</strong>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Tickets in Tunisia are sold on the door. Reservation possible here.</a></p> 
 
-      <strong>12/4/2025, at 19:00:</strong>
-      <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179622?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179622" target="_blank">Buy Tickets (Denmark)</a> Tickets in Tunisia are sold on the door.
+      <p class="b"><strong>12/4/2025, at 15:00:</strong>
+      <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179621?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179621" target="_blank">Buy Tickets (Denmark)</a> Tickets in Tunisia are sold on the door.</p>
 
-      <strong>13/4/2025, at 15:00:</strong>
-      <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179623?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179623" target="_blank">Buy Tickets (Denmark)</a> Tickets in Tunisia are sold on the door.
+                <p class="a"><strong>12/4/2025, at 14:00:</strong>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Tickets in Tunisia are sold on the door. Reservation possible here.</a></p> 
+
+     <p class="b"> <strong>12/4/2025, at 19:00:</strong>
+      <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179622?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179622" target="_blank">Buy Tickets (Denmark)</a> Tickets in Tunisia are sold on the door.</p>
+
+                <p class="a"><strong>12/4/2025, at 18:00:</strong>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Tickets in Tunisia are sold on the door. Reservation possible here.</a></p> 
+
+     <p class="b"> <strong>13/4/2025, at 15:00:</strong>
+      <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179623?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179623" target="_blank">Buy Tickets (Denmark)</a> Tickets in Tunisia are sold on the door.</p>
+
+                <p class="a"><strong>13/4/2025, at 14:00:</strong>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Tickets in Tunisia are sold on the door. Reservation possible here.</a></p> 
 ```
 
 <p></p>
