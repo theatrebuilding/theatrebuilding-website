@@ -103,12 +103,6 @@ _template: advanced
    <main>
    <p class="a"><strong> البكاء على حافة البحر</strong></p>  
 <p class="b"><strong> Gr&aelig;der ved havet</strong></p>
-    <div class="image-container">
-      <img src="https://billetto.imgix.net/u53kwpztacowffpzx4qdnqjv3bjf?w=1440&h=810&fit=crop&auto=compress%2Cformat&rect=0%2C460%2C1920%2C1080&s=6acf7e5adc93bf1925c61ba7a8f7cf47" alt="Premiere Image">
-    </div>
-    <div class="countdown-container">
-      <div id="countdown"></div>
-</div>
 
    <p class="a"> يدخل جمهوران كل منهما مسرحه في قارته في نفس الوقت
 </p>  
@@ -122,6 +116,16 @@ _template: advanced
  </p>
 
 <p class="b">I billedet ser de hinanden.</p>
+
+```
+<div class="image-container">
+  <img src="https://billetto.imgix.net/u53kwpztacowffpzx4qdnqjv3bjf?w=1440&h=810&fit=crop&auto=compress%2Cformat&rect=0%2C460%2C1920%2C1080&s=6acf7e5adc93bf1925c61ba7a8f7cf47" alt="Premiere Image">
+</div>
+<div class="countdown-container">
+  <div id="countdown"></div>
+```
+
+</div>
 
 <p class="b"> <strong><a href="https://www.google.com/maps/place/Teater%C3%B8en/@55.696556,12.6098728,17z/data=!3m1!4b1!4m6!3m5!1s0x465252da5ae5b679:0x4bc919cc29fa0aac!8m2!3d55.696556!4d12.6124477!16s%2Fg%2F1yfdpdp6d?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D" target="_blank">Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark</a></strong></p>
 
