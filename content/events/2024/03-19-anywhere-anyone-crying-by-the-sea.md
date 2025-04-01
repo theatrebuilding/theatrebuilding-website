@@ -97,8 +97,8 @@ _template: advanced
 
 <body>
    <main>
- <p class="a"> البكاء على حافة البحر</p>  
-               <p class="a"> Gr&aelig;der ved havet</p>
+   <p class="a"><strong> البكاء على حافة البحر</strong></p>  
+<p class="b"><strong> Gr&aelig;der ved havet</strong></p>
     <div class="image-container">
       <img src="https://billetto.imgix.net/u53kwpztacowffpzx4qdnqjv3bjf?w=1440&h=810&fit=crop&auto=compress%2Cformat&rect=0%2C460%2C1920%2C1080&s=6acf7e5adc93bf1925c61ba7a8f7cf47" alt="Premiere Image">
     </div>
