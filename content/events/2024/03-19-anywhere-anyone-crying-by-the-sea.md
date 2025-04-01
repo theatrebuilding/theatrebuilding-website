@@ -102,19 +102,6 @@ _template: advanced
 <body>
    <main>
 
-   <p class="a"> يدخل جمهوران كل منهما مسرحه في قارته في نفس الوقت
-</p>  
-<p class="b"> To publikummer tr&aelig;der ind i hver sin teatersal på hvert sit kontinent på samme tid.</p>
-
- <p class="a"> لا يوجد شيء في المسرح سوى عرض رقمي على الحائط النهائي
-</p>
-
-<p class="b">Der er intet andet i salen end en digital projektion på endev&aelig;ggen.</p>
- <p class="a">في الصورة، يرى كل منهما الآخر
- </p>
-
-<p class="b">I billedet ser de hinanden.</p>
-
 ```
 <div class="image-container">
   <img src="https://billetto.imgix.net/u53kwpztacowffpzx4qdnqjv3bjf?w=1440&h=810&fit=crop&auto=compress%2Cformat&rect=0%2C460%2C1920%2C1080&s=6acf7e5adc93bf1925c61ba7a8f7cf47" alt="Premiere Image">
