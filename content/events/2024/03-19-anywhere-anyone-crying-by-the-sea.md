@@ -13,6 +13,10 @@ css: |-
   text-align: left;
   margin-right: 40px;
   }
+
+  .c {
+  text-align: center;
+  }
   .indryk1 {
     margin-left: 20px;
   }
@@ -105,48 +109,55 @@ _template: advanced
     <div class="countdown-container">
       <div id="countdown"></div>
 </div>
+<p class="b"> <strong><a href="https://www.google.com/maps/place/Teater%C3%B8en/@55.696556,12.6098728,17z/data=!3m1!4b1!4m6!3m5!1s0x465252da5ae5b679:0x4bc919cc29fa0aac!8m2!3d55.696556!4d12.6124477!16s%2Fg%2F1yfdpdp6d?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D" target="_blank">Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark</a></strong></p>
+
+<p class="a"> <strong> <strong><a href="https://www.google.com/maps/place/Th%C3%A9%C3%A2tre+De+Poche+Kef/@36.1812071,8.7068335,17z/data=!3m1!4b1!4m6!3m5!1s0x12fba44bd5db4483:0x27ad9abeb47e82ea!8m2!3d36.1812071!4d8.7094084!16s%2Fg%2F11f5ghspbx?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D" target="_blank"> Theatre du Poche, El kef, Tunisia</a></strong></p>
+
 <p class="b"> <strong>10/4/2025, at 19:00:</strong>
 <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179452?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179452" target="_blank">Buy Tickets (Denmark) 50 kr.</a></p>
 <p></p>
+
 <p class="a"><strong>10/4/2025, at 18:00:</strong>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Tickets in Tunisia are sold on the door. Reservation possible here.</a></p> 
 <p></p>
 <p class="b"> <strong>11/4/2025, at 19:00:</strong>
-<a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179613?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179613" target="_blank">Buy Tickets (Denmark)</a> Tickets in Tunisia are sold on the door.</p>
+<a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179613?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179613" target="_blank">Buy Tickets (Denmark) 50 kr.</a></p>
 <p></p>
 <p class="a"><strong>11/4/2025, at 18:00:</strong>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Tickets in Tunisia are sold on the door. Reservation possible here.</a></p> 
 <p></p>
 <p class="b"><strong>12/4/2025, at 15:00:</strong>
-<a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179621?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179621" target="_blank">Buy Tickets (Denmark)</a> Tickets in Tunisia are sold on the door.</p>
+<a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179621?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179621" target="_blank">Buy Tickets (Denmark) 50 kr.</a></p>
 <p></p>
 <p class="a"><strong>12/4/2025, at 14:00:</strong>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Tickets in Tunisia are sold on the door. Reservation possible here.</a></p> 
 <p></p>
 <p class="b"> <strong>12/4/2025, at 19:00:</strong>
-<a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179622?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179622" target="_blank">Buy Tickets (Denmark)</a> Tickets in Tunisia are sold on the door.</p>
+<a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179622?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179622" target="_blank">Buy Tickets (Denmark) 50 kr.</a></p>
 <p></p>
 <p class="a"><strong>12/4/2025, at 18:00:</strong>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Tickets in Tunisia are sold on the door. Reservation possible here.</a></p> 
 <p></p>
 <p class="b"> <strong>13/4/2025, at 15:00:</strong>
-<a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179623?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179623" target="_blank">Buy Tickets (Denmark)</a> Tickets in Tunisia are sold on the door.</p>
+<a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179623?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179623" target="_blank">Buy Tickets (Denmark) 50 kr.</a></p>
 <p></p>
 <p class="a"><strong>13/4/2025, at 14:00:</strong>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Tickets in Tunisia are sold on the door. Reservation possible here.</a></p> 
 
 <p></p>
-<div class="a">
+<div class="c">
 <p><script src="//myradiostream.com/embed/theatrebuilding"></script></p>
 </div>
 <p></p>
 <div class="b">
 <p class="indryk1"><font size="4">F&oslash;lgende manuskripter er blevet til gennem en r&aelig;kke workshops i Danmark og Tunesien. Manuskripterne er open source og kan bruges frit med kreditering af enhver. Rediger et af de dokumenter, der st&aring;r med <strong>fed</strong> og skab din egen version i hvilket som helst sprog. Skriv dit fulde navn for enden af dokumentet eller via e-mail: <a href="mailto:theatrebuilding@theatrebuilding.com" target="_blank">theatrebuilding@theatrebuilding.com</a></font></p>
 <p></p>
-<p class="indryk1"><font size="4">The following scripts have been written throughout a series of workshops in Denmark and Tunisia. The scripts are open source and can be used freely with creditation by anyone. Feel free to edit the <strong>bold documents</strong> and create your own version in any language. Write your full name in the end of the document or by e-mail: <a href="mailto:theatrebuilding@theatrebuilding.com" target="_blank">theatrebuilding@theatrebuilding.com</a></font></p>
-<p></p>
+
 <p class= "a"><font size="4">
 تمت كتابة النصوص التالية خلال سلسلة من ورش العمل في الدنمارك وتونس. هذه النصوص مفتوحة المصدر ويمكن لأي شخص استخدامها و اعتمادها بكل حرية . لا تتردد في إنشاء نسختك الخاصة بأي لغة. اكتب اسمك الكامل في نهاية النص أو عبر البريد الإلكتروني : <a href="mailto:theatrebuilding@theatrebuilding.com" target="_blank">theatrebuilding@theatrebuilding.com</a></font></p>
+<p></p>
+<p class="indryk1"><font size="4">The following scripts have been written throughout a series of workshops in Denmark and Tunisia. The scripts are open source and can be used freely with creditation by anyone. Feel free to edit the <strong>bold documents</strong> and create your own version in any language. Write your full name in the end of the document or by e-mail: <a href="mailto:theatrebuilding@theatrebuilding.com" target="_blank">theatrebuilding@theatrebuilding.com</a></font></p>
+<p></p>
 
 <div class="a">
 <p>_</p>
