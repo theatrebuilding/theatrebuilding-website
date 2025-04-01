@@ -105,8 +105,10 @@ _template: advanced
       <p>Tickets are bought online for the Danish premiere and on the door at Teatre du Poche, in El Kef, Tunisia.</p>
       <ul>
         <li>
-          <strong>10/4/2025, at 19:00:</strong>
-          <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179452?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179452" target="_blank">Buy Tickets (Denmark)</a> Tickets in Tunisia are sold on the door.
+         <div class="title-left"> <strong>10/4/2025, at 19:00:</strong>
+          <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179452?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179452" target="_blank">Buy Tickets (Denmark) 50 kr.</a> </div>
+                    <div class="title-right"><strong>10/4/2025, at 18:00:</strong>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Tickets in Tunisia are sold on the door. Reservation possible here.</a></div> 
         </li>
         <li>
           <strong>11/4/2025, at 19:00:</strong>
