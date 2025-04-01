@@ -5,6 +5,14 @@ location: Teaterøen & Theatre du Poche
 date: 2024-03-19T14:00:00.000Z
 altDate: 10/4-13/4 2025
 css: |-
+  .a  {
+  text-align: right;
+  margin-right: 20px;
+
+  .b {
+  text-align: left;
+  margin-right: 20px;
+
   .indryk1 {
     margin-left: 20px;
   }
@@ -35,11 +43,7 @@ css: |-
     }
 
 
-  .ticket2 {
-  text-align: right;
-      margin-right: 20px;
-      font-size: 1.75em;
-    }
+
    .header {
       display: flex;
       justify-content: space-between;
@@ -99,25 +103,22 @@ _template: advanced
 ---
 
 <body>
-  <header class="header">
-    <div class="title-left">Gr&aelig;der ved havet</div>
-    <div class="title-right">البكاء على حافة البحر</div>
-  </header>
-  <main>
+<main>
+    <div class="a">البكاء على حافة البحر</div>    
+    <div class="b">Gr&aelig;der ved havet</div>
     <div class="image-container">
       <img src="https://billetto.imgix.net/u53kwpztacowffpzx4qdnqjv3bjf?w=1440&h=810&fit=crop&auto=compress%2Cformat&rect=0%2C460%2C1920%2C1080&s=6acf7e5adc93bf1925c61ba7a8f7cf47" alt="Premiere Image">
     </div>
     <div class="countdown-container">
       <div id="countdown"></div>
     </div>
-    <section class="ticket-section">
-      <h2>Performances &amp; Ticket Links</h2>
-      <p>Tickets are bought online for the Danish premiere and on the door at Teatre du Poche, in El Kef, Tunisia.</p>
       <ul>
         <li>
-         <div class="ticket1"> <strong>10/4/2025, at 19:00:</strong>
+         <div class="b"> <strong>10/4/2025, at 19:00:</strong>
           <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179452?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179452" target="_blank">Buy Tickets (Denmark) 50 kr.</a> </div>
-                    <div class="ticket2"><strong>10/4/2025, at 18:00:</strong>
+          </li>
+        <li>
+                    <div class="a"><strong>10/4/2025, at 18:00:</strong>
                     <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Tickets in Tunisia are sold on the door. Reservation possible here.</a></div> 
         </li>
         <li>
@@ -145,10 +146,10 @@ _template: advanced
 <p></p>
 <div class="b">
 <p class="indryk1"><font size="4">F&oslash;lgende manuskripter er blevet til gennem en r&aelig;kke workshops i Danmark og Tunesien. Manuskripterne er open source og kan bruges frit med kreditering af enhver. Rediger et af de dokumenter, der st&aring;r med <strong>fed</strong> og skab din egen version i hvilket som helst sprog. Skriv dit fulde navn for enden af dokumentet eller via e-mail: <a href="mailto:theatrebuilding@theatrebuilding.com" target="_blank">theatrebuilding@theatrebuilding.com</a></font></p>
-
+<p></p>
 <p class="indryk1"><font size="4">The following scripts have been written throughout a series of workshops in Denmark and Tunisia. The scripts are open source and can be used freely with creditation by anyone. Feel free to edit the <strong>bold documents</strong> and create your own version in any language. Write your full name in the end of the document or by e-mail: <a href="mailto:theatrebuilding@theatrebuilding.com" target="_blank">theatrebuilding@theatrebuilding.com</a></font></p>
-
-<p class= "rtl"><font size="4">
+<p></p>
+<p class= "a"><font size="4">
 تمت كتابة النصوص التالية خلال سلسلة من ورش العمل في الدنمارك وتونس. هذه النصوص مفتوحة المصدر ويمكن لأي شخص استخدامها و اعتمادها بكل حرية . لا تتردد في إنشاء نسختك الخاصة بأي لغة. اكتب اسمك الكامل في نهاية النص أو عبر البريد الإلكتروني : <a href="mailto:theatrebuilding@theatrebuilding.com" target="_blank">theatrebuilding@theatrebuilding.com</a></font></p>
 
 <div class="a">
