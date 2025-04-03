@@ -4,53 +4,7 @@ artistName: ''
 location: THEATREBUILDING
 date: 2025-04-03T20:00:00.000Z
 altDate: NOW
-css: |-
-  body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
-      margin: 0;
-      padding: 0;
-  }
-
-  .container {
-      width: 70%;
-      margin: 30px auto;
-      padding: 20px;
-      background: #fff;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  }
-
-  .form-group {
-      margin-bottom: 15px;
-  }
-
-  .form-group label {
-      display: block;
-      margin-bottom: 5px;
-  }
-
-  .form-group input[type="text"],
-  .form-group input[type="email"],
-  .form-group textarea {
-      width: 100%;
-      padding: 8px;
-      border: 1px solid #ddd;
-      border-radius: 4px;
-      box-sizing: border-box;
-  }
-
-  .form-group input[type="submit"] {
-      background-color: #5cb85c;
-      color: white;
-      padding: 10px 15px;
-      border: none;
-      border-radius: 4px;
-      cursor: pointer;
-  }
-
-  .form-group input[type="submit"]:hover {
-      background-color: #4cae4c;
-  }
+css: ''
 _template: advanced
 ---
 
