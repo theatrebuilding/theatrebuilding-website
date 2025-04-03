@@ -17,7 +17,7 @@ _template: advanced
 <!-- Subscription Form -->
 
 <div class="container">
-<form action="https://github.com/htmonial/Contact/edit/main/contact.php" method="post">
+<form action="/contact.php" method="post">
     <input name="email" class="email" type="text" placeholder="Enter your email address ...">
     <button type="submit" class="btn_email">Send</button>
 </form>
