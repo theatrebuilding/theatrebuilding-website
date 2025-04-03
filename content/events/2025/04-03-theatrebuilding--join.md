@@ -60,7 +60,9 @@ opacity: 0.8;
   </div>
 
   <div class="container">
-    <input type="submit" value="Subscribe">
+    <input type="submit" value="Join">
+<button><a href="mailto:administration@theatrebuilding.com"></a>Join</button>
+
   </div>
 </form>
 
