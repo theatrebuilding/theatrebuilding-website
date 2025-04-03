@@ -4,7 +4,11 @@ artistName: ''
 location: THEATREBUILDING
 date: 2025-04-03T20:00:00.000Z
 altDate: NOW
-css: ''
+css: |-
+  .container {
+  padding: 20%;
+  background-color: #f1f1f1;
+  }
 _template: advanced
 ---
 
