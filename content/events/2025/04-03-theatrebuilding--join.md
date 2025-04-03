@@ -16,7 +16,7 @@ _template: advanced
 <center>
 <!-- Subscription Form -->
 <div class="container">
-<form action="/contact.php" method="post">
+<form action="https://theatrebuilding.com/contact.php" method="post">
     <input name="email" class="email" type="text" placeholder="Enter your email address ...">
     <button type="submit" class="btn_email">Send</button>
 </form>
