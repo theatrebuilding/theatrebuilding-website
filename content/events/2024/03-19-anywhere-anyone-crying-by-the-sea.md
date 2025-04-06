@@ -15,48 +15,52 @@ css: |-
   margin-right: 20px;
   text-size: large;
   }
-
   .c {
   text-align: center;
   }
   .indryk1 {
     margin-left: 20px;
   }
-
   .indryk2 {
     margin-left: 40px;
   }
-
   .indryk3 {
     margin-left: 60px;
   }
-
   .indryk4 {
     margin-left: 80px;
   }
-
   .indryk5 {
     margin-left: 100px;
   }
-
   .indryk6 {
     margin-left: 120px;
   }
   .indryk7 {
     margin-left: 140px;
   }
-
   .indryk8 {
     margin-left: 160px;
   }
-
   .indryk9 {
     margin-left: 180px;
   }
-
   .indryk10 {
     margin-left: 200px;
   }
+  .indryk11 {
+    margin-left: 220px;
+  }
+  .indryk12 {
+    margin-left: 240px;
+  }
+  .indryk13 {
+    margin-left: 260px;
+  }
+  .indryk14 {
+    margin-left: 280px;
+  }
+
 
    .header {
       display: flex;
@@ -199,6 +203,11 @@ _template: advanced
 
 <p class="indryk2"><font size="4"><strong><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?usp=sharing">1.8, Dansk</a></strong></font></p>
 
+<p class="indryk11"><font size="4"><em><a href="https://docs.google.com/document/d/148g_X0UuuACPjc-QcbpNpAL0Q3TsLATE8dDc-V-aelo/edit?tab=t.0">1.8.8 (1.4.2025)</a></em></font></p>
+<p class="indryk10"><font size="4"><em><a href="https://docs.google.com/document/d/1vdEDhXYwDm9NrXA0FZGodjk0mqPuqMXAMyzKXP_s9jc/edit?tab=t.0">1.8.7 (27.3.2025)</a></em></font></p>
+<p class="indryk9"><font size="4"><em><a href="https://docs.google.com/document/d/1DEPTQIP5IgwCNwW4_A-EqghjradbUzeWcnYLmqoDjf4/edit?tab=t.0">1.8.6 (26.3.2025)</a></em></font></p>
+<p class="indryk8"><font size="4"><em><a href="https://docs.google.com/document/d/1oWGI58m6A2X4pRnQm5FhiFU9XRqdHw_-KfViEwb91Ew/edit?usp=sharing">1.8.5</a></em></font></p>
+<p class="indryk7"><font size="4"><em><a href="https://docs.google.com/document/d/1oWGI58m6A2X4pRnQm5FhiFU9XRqdHw_-KfViEwb91Ew/edit?usp=sharing">1.8.5</a></em></font></p>
 <p class="indryk6"><font size="4"><em><a href="https://docs.google.com/document/d/1GqP2_p-dC0KuuAlql9BRBG5FhgVgkT2prr2JYgAzVOc/edit?tab=t.0">1.8.4</a></em></font></p>
 <p class="indryk5"><font size="4"><em><a href="https://docs.google.com/document/d/1gYvAceyYN-NQQ5ksFOCybv7O6kLixT4f/edit?usp=drive_link&ouid=101296431883674874071&rtpof=true&sd=true ">1.8.3</a></em></font></p>
 <p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1bq00ltnWIW-dbX1IYcqL3-8ClbnRaAHZgNEwAfy8XS8/edit?usp=drive_link">1.8.2</a></em></font></p>
