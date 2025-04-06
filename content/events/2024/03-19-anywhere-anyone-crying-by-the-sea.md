@@ -60,6 +60,18 @@ css: |-
   .indryk14 {
     margin-left: 280px;
   }
+  .indryk15 {
+    margin-left: 300px;
+  }
+  .indryk16 {
+    margin-left: 320px;
+  }
+  .indryk17 {
+    margin-left: 340px;
+  }
+  .indryk18 {
+    margin-left: 360px;
+  }
 
 
    .header {
@@ -201,8 +213,8 @@ _template: advanced
 
 <div class="b">
 
-<p class="indryk2"><font size="4"><strong><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?usp=sharing">1.8, Dansk</a></strong></font></p>
-
+<p class="indryk16"><font size="4"><strong><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?usp=sharing">1.8.13</a></strong></font></p>
+<p class="indryk15"><font size="4"><em><a href="https://docs.google.com/document/d/1zrmHKgRkG9zegdFQqsmoaJJBx5KW4WLUbdlbG9ceWGo/edit?tab=t.0">1.8.12 (5.4.2025)</a></em></font></p>
 <p class="indryk14"><font size="4"><em><a href="https://docs.google.com/document/d/1rQMopua6_PiIbtkWykmBlHdRkekJqV9CU64TAB3rM3I/edit?tab=t.0">1.8.11 (4.4.2025)</a></em></font></p>
 <p class="indryk13"><font size="4"><em><a href="https://docs.google.com/document/d/1kWi39-sTFKvqBGjZbfhI-iVvNmSCk1-xDuaqNIAXbq4/edit?tab=t.0">1.8.10 (3.4.2025)</a></em></font></p>
 <p class="indryk12"><font size="4"><em><a href="https://docs.google.com/document/d/1wC8C-isxAeYokUT0tsR9kt3h7wdNO1gQ2gHmdOcW_Ec/edit?tab=t.0">1.8.9 (2.4.2025)</a></em></font></p>
