@@ -42,6 +42,21 @@ css: |-
   .indryk6 {
     margin-left: 120px;
   }
+  .indryk7 {
+    margin-left: 140px;
+  }
+
+  .indryk8 {
+    margin-left: 160px;
+  }
+
+  .indryk9 {
+    margin-left: 180px;
+  }
+
+  .indryk10 {
+    margin-left: 200px;
+  }
 
    .header {
       display: flex;
@@ -183,6 +198,12 @@ _template: advanced
 <div class="b">
 
 <p class="indryk2"><font size="4"><strong><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?usp=sharing">1.8, Dansk</a></strong></font></p>
+
+<p class="indryk6"><font size="4"><em><a href="https://docs.google.com/document/d/1GqP2_p-dC0KuuAlql9BRBG5FhgVgkT2prr2JYgAzVOc/edit?tab=t.0">1.8.4</a></em></font></p>
+<p class="indryk5"><font size="4"><em><a href="https://docs.google.com/document/d/1gYvAceyYN-NQQ5ksFOCybv7O6kLixT4f/edit?usp=drive_link&ouid=101296431883674874071&rtpof=true&sd=true ">1.8.3</a></em></font></p>
+<p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1bq00ltnWIW-dbX1IYcqL3-8ClbnRaAHZgNEwAfy8XS8/edit?usp=drive_link">1.8.2</a></em></font></p>
+<p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1g3WApzrIega6TjQ6rS6ltJTCIV9cyoi8uImi6rs3wT0/edit?usp=drive_link">1.8.1</a></em></font></p>
+<p class="indryk2"><font size="4"><em><a href="https://docs.google.com/document/d/1R7CL4MXzArmiTJGUYt8hJ3E8e5dC20vN-UdfSPI4Cxw/edit?tab=t.0">1.8</a></em></font></p>
 <p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/1crupZvwLP-Uc8scWwBSTdT_YSCz1Usiz1w0YFJrc2NI/edit?usp=sharing">1.7.1, Dansk</a></strong></font></p>
 <p class="indryk2"><font size="4"><em><a href="https://docs.google.com/document/d/190Z0oSrI7RB4kFOB7HaCA8s4QeXyw1vqr_Tam4BBYX8/edit">1.7, Dansk</a></em></font></p>
 <p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/13eWi94lmhK3lNhURrUXLw4GVN5RsA9RyMyLn_XYDJjk/edit?usp=sharing">1.6.1, Dansk</a></strong></font></p>
