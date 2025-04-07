@@ -222,12 +222,12 @@ _template: advanced
 <p class="indryk10"><font size="4"><em><a href="https://docs.google.com/document/d/148g_X0UuuACPjc-QcbpNpAL0Q3TsLATE8dDc-V-aelo/edit?tab=t.0">1.8.8 (1.4.2025 - Theatre du Poche x Teater&oslash;len)</a></em></font></p>
 <p class="indryk9"><font size="4"><em><a href="https://docs.google.com/document/d/1vdEDhXYwDm9NrXA0FZGodjk0mqPuqMXAMyzKXP_s9jc/edit?tab=t.0">1.8.7 (27.3.2025 - Theatre du Poche x Teater&oslash;len)</a></em></font></p>
 <p class="indryk8"><font size="4"><em><a href="https://docs.google.com/document/d/1DEPTQIP5IgwCNwW4_A-EqghjradbUzeWcnYLmqoDjf4/edit?tab=t.0">1.8.6 (26.3.2025 - Theatre du Poche x Teater&oslash;len)</a></em></font></p>
-<p class="indryk7"><font size="4"><em><a href="https://docs.google.com/document/d/1oWGI58m6A2X4pRnQm5FhiFU9XRqdHw_-KfViEwb91Ew/edit?usp=sharing">1.8.5</a></em></font></p>
-<p class="indryk6"><font size="4"><em><a href="https://docs.google.com/document/d/1GqP2_p-dC0KuuAlql9BRBG5FhgVgkT2prr2JYgAzVOc/edit?tab=t.0">1.8.4</a></em></font></p>
-<p class="indryk5"><font size="4"><em><a href="https://docs.google.com/document/d/1gYvAceyYN-NQQ5ksFOCybv7O6kLixT4f/edit?usp=drive_link&ouid=101296431883674874071&rtpof=true&sd=true ">1.8.3</a></em></font></p>
-<p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1bq00ltnWIW-dbX1IYcqL3-8ClbnRaAHZgNEwAfy8XS8/edit?usp=drive_link">1.8.2</a></em></font></p>
-<p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1g3WApzrIega6TjQ6rS6ltJTCIV9cyoi8uImi6rs3wT0/edit?usp=drive_link">1.8.1</a></em></font></p>
-<p class="indryk2"><font size="4"><em><a href="https://docs.google.com/document/d/1R7CL4MXzArmiTJGUYt8hJ3E8e5dC20vN-UdfSPI4Cxw/edit?tab=t.0">1.8</a></em></font></p>
+<p class="indryk7"><font size="4"><em><a href="https://docs.google.com/document/d/1oWGI58m6A2X4pRnQm5FhiFU9XRqdHw_-KfViEwb91Ew/edit?usp=sharing">1.8.5 (26.3.2025 - Theatre du Poche x Teater&oslash;len)</a></em></font></p>
+<p class="indryk6"><font size="4"><em><a href="https://docs.google.com/document/d/1GqP2_p-dC0KuuAlql9BRBG5FhgVgkT2prr2JYgAzVOc/edit?tab=t.0">1.8.4 (25.3.2025 - Theatre du Poche x Teater&oslash;len)</a></em></font></p>
+<p class="indryk5"><font size="4"><em><a href="https://docs.google.com/document/d/1gYvAceyYN-NQQ5ksFOCybv7O6kLixT4f/edit?usp=drive_link&ouid=101296431883674874071&rtpof=true&sd=true ">1.8.3 (23.3.2025 - Haut)</a></em></font></p>
+<p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1bq00ltnWIW-dbX1IYcqL3-8ClbnRaAHZgNEwAfy8XS8/edit?usp=drive_link">1.8.2 (22.3.2025 - Haut)</a></em></font></p>
+<p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1g3WApzrIega6TjQ6rS6ltJTCIV9cyoi8uImi6rs3wT0/edit?usp=drive_link">1.8.1 (22.3.2025 - Haut)</a></em></font></p>
+<p class="indryk2"><font size="4"><em><a href="https://docs.google.com/document/d/1R7CL4MXzArmiTJGUYt8hJ3E8e5dC20vN-UdfSPI4Cxw/edit?tab=t.0">1.8 - Theatre du Poche x Teater&oslash;len</a></em></font></p>
 <p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/1crupZvwLP-Uc8scWwBSTdT_YSCz1Usiz1w0YFJrc2NI/edit?usp=sharing">1.7.1, Dansk</a></strong></font></p>
 <p class="indryk2"><font size="4"><em><a href="https://docs.google.com/document/d/190Z0oSrI7RB4kFOB7HaCA8s4QeXyw1vqr_Tam4BBYX8/edit">1.7, Dansk</a></em></font></p>
 <p class="indryk3"><font size="4"><strong><a href="https://docs.google.com/document/d/13eWi94lmhK3lNhURrUXLw4GVN5RsA9RyMyLn_XYDJjk/edit?usp=sharing">1.6.1, Dansk</a></strong></font></p>
