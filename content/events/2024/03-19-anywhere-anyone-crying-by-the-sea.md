@@ -213,15 +213,15 @@ _template: advanced
 
 <div class="b">
 
-<p class="indryk16"><font size="4"><strong><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?usp=sharing">1.8.13</a></strong></font></p>
-<p class="indryk15"><font size="4"><em><a href="https://docs.google.com/document/d/1zrmHKgRkG9zegdFQqsmoaJJBx5KW4WLUbdlbG9ceWGo/edit?tab=t.0">1.8.12 (5.4.2025)</a></em></font></p>
-<p class="indryk14"><font size="4"><em><a href="https://docs.google.com/document/d/1rQMopua6_PiIbtkWykmBlHdRkekJqV9CU64TAB3rM3I/edit?tab=t.0">1.8.11 (4.4.2025)</a></em></font></p>
-<p class="indryk13"><font size="4"><em><a href="https://docs.google.com/document/d/1kWi39-sTFKvqBGjZbfhI-iVvNmSCk1-xDuaqNIAXbq4/edit?tab=t.0">1.8.10 (3.4.2025)</a></em></font></p>
-<p class="indryk12"><font size="4"><em><a href="https://docs.google.com/document/d/1wC8C-isxAeYokUT0tsR9kt3h7wdNO1gQ2gHmdOcW_Ec/edit?tab=t.0">1.8.9 (2.4.2025)</a></em></font></p>
-<p class="indryk11"><font size="4"><em><a href="https://docs.google.com/document/d/148g_X0UuuACPjc-QcbpNpAL0Q3TsLATE8dDc-V-aelo/edit?tab=t.0">1.8.8 (1.4.2025)</a></em></font></p>
-<p class="indryk10"><font size="4"><em><a href="https://docs.google.com/document/d/1vdEDhXYwDm9NrXA0FZGodjk0mqPuqMXAMyzKXP_s9jc/edit?tab=t.0">1.8.7 (27.3.2025)</a></em></font></p>
-<p class="indryk9"><font size="4"><em><a href="https://docs.google.com/document/d/1DEPTQIP5IgwCNwW4_A-EqghjradbUzeWcnYLmqoDjf4/edit?tab=t.0">1.8.6 (26.3.2025)</a></em></font></p>
-<p class="indryk8"><font size="4"><em><a href="https://docs.google.com/document/d/1oWGI58m6A2X4pRnQm5FhiFU9XRqdHw_-KfViEwb91Ew/edit?usp=sharing">1.8.5</a></em></font></p>
+<p class="indryk16"><font size="4"><strong><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?usp=sharing">1.8.14</a></strong></font></p>
+<p class="indryk15"><font size="4"><strong><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?usp=sharing">1.8.13 (7.4.2025 - Uniarts, Finland)</a></strong></font></p>
+<p class="indryk14"><font size="4"><em><a href="https://docs.google.com/document/d/1zrmHKgRkG9zegdFQqsmoaJJBx5KW4WLUbdlbG9ceWGo/edit?tab=t.0">1.8.12 (5.4.2025 - Theatre du Poche x Teater&oslash;len)</a></em></font></p>
+<p class="indryk13"><font size="4"><em><a href="https://docs.google.com/document/d/1rQMopua6_PiIbtkWykmBlHdRkekJqV9CU64TAB3rM3I/edit?tab=t.0">1.8.11 (4.4.2025 - Theatre du Poche x Teater&oslash;len)</a></em></font></p>
+<p class="indryk12"><font size="4"><em><a href="https://docs.google.com/document/d/1kWi39-sTFKvqBGjZbfhI-iVvNmSCk1-xDuaqNIAXbq4/edit?tab=t.0">1.8.10 (3.4.2025 - Theatre du Poche x Teater&oslash;len)</a></em></font></p>
+<p class="indryk11"><font size="4"><em><a href="https://docs.google.com/document/d/1wC8C-isxAeYokUT0tsR9kt3h7wdNO1gQ2gHmdOcW_Ec/edit?tab=t.0">1.8.9 (2.4.2025 - Theatre du Poche x Teater&oslash;len)</a></em></font></p>
+<p class="indryk10"><font size="4"><em><a href="https://docs.google.com/document/d/148g_X0UuuACPjc-QcbpNpAL0Q3TsLATE8dDc-V-aelo/edit?tab=t.0">1.8.8 (1.4.2025 - Theatre du Poche x Teater&oslash;len)</a></em></font></p>
+<p class="indryk9"><font size="4"><em><a href="https://docs.google.com/document/d/1vdEDhXYwDm9NrXA0FZGodjk0mqPuqMXAMyzKXP_s9jc/edit?tab=t.0">1.8.7 (27.3.2025 - Theatre du Poche x Teater&oslash;len)</a></em></font></p>
+<p class="indryk8"><font size="4"><em><a href="https://docs.google.com/document/d/1DEPTQIP5IgwCNwW4_A-EqghjradbUzeWcnYLmqoDjf4/edit?tab=t.0">1.8.6 (26.3.2025 - Theatre du Poche x Teater&oslash;len)</a></em></font></p>
 <p class="indryk7"><font size="4"><em><a href="https://docs.google.com/document/d/1oWGI58m6A2X4pRnQm5FhiFU9XRqdHw_-KfViEwb91Ew/edit?usp=sharing">1.8.5</a></em></font></p>
 <p class="indryk6"><font size="4"><em><a href="https://docs.google.com/document/d/1GqP2_p-dC0KuuAlql9BRBG5FhgVgkT2prr2JYgAzVOc/edit?tab=t.0">1.8.4</a></em></font></p>
 <p class="indryk5"><font size="4"><em><a href="https://docs.google.com/document/d/1gYvAceyYN-NQQ5ksFOCybv7O6kLixT4f/edit?usp=drive_link&ouid=101296431883674874071&rtpof=true&sd=true ">1.8.3</a></em></font></p>
