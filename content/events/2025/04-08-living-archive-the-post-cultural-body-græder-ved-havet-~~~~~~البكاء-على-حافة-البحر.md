@@ -2,7 +2,7 @@
 title: Græder ved havet ~~~~~~البكاء على حافة البحر
 artistName: The Post-Cultural Body
 location: living archive
-date: 2025-04-08T00:00:00.000Z
+date: 2025-04-05T00:00:00.000Z
 altDate: now
 css: |-
   .a  {
