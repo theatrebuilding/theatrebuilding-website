@@ -4,71 +4,11 @@ artistName: anyone
 location: Teaterøen & Theatre du Poche
 date: 2024-03-19T14:00:00.000Z
 altDate: 10/4-13/4 2025
-css: ''
+css: "img {\nopacity: 1.0;\nfilter:alpha(opacity=100); /* For IE8 and earlier */\nwidth: 10%;\n}\nimg:hover {\n.monaco-editor .editor-widget {\n          display: none !important;\n          visibility: hidden !important;\n        }\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nopacity:\_0.0;\nfilter:\_alpha(opacity=0);\_/*\_For\_IE8\_and\_earlier\_*/\nwidth:\_10%;\nposition:\_center;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEnter to Rename, undefined to Preview\n\n\n\n\n\n}\na:link\n{\ncolor: white;\ntext-decoration: none;\ncursor: crosshair\n}\na:visited {\ncolor: white;\ntext-decoration: none;\ncursor: crosshair\n}\na:hover {\ncolor: red;\ntext-decoration: none;\ncursor: crosshair\n}\na:active {\ncolor: red;\ntext-decoration: none;\ncursor: crosshair\n}\n.image-container img {\nwidth: 20%;\nheight: auto;\ndisplay: block;\nposition: fixed;\nleft: 10%;\nbottom: 20%;\n}\n"
 _template: advanced
 ---
 
-<head>
-<style>
-
-img {
-opacity: 1.0;
-filter:alpha(opacity=100); /\* For IE8 and earlier \*/
-width: 10%;
-}
-
-img:hover {
-
-```
-opacity: 0.0;
-filter: alpha(opacity=0); /* For IE8 and earlier */
-width: 10%;
-position: center;
-```
-
-}
-a:link
-
-{
-color: white;
-text-decoration: none;
-cursor: crosshair
-}
-
-a:visited {
-color: white;
-text-decoration: none;
-cursor: crosshair
-}
-
-a:hover {
-color: red;
-text-decoration: none;
-cursor: crosshair
-}
-
-a:active {
-color: red;
-text-decoration: none;
-cursor: crosshair
-}
-
-.image-container img {
-width: 20%;
-height: auto;
-position: fixed;
-left: 10%;
-bottom: 20%;
-}
-
-</style>
-</head>
 <body>
-<div style="position:fixed; right: 7%; bottom: 5%"><script src="//myradiostream.com/embed/theatrebuilding"></script></div>
-
- <div class="image-container"><a href="https://www.theatrebuilding.com/events/2025/04-08-living-archive-the-post-cultural-body-gr%C3%A6der-ved-havet-~~~~~~%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%AD%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1/" target="_blank"><img src="https://naarduikkeerher.dk/crying%20by%20the%20sea%20arabic%2008.png" alt="Premiere Image"></a></div>
-
-<p style="position:fixed; text-align: left; left: 7%; top:80%; font-size: 40px; font-style: italic"></div></p>
 
 <iframe src="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?tab=t.0" style="border:0px #ffffff none;" name="script" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="100%" width="100%" allowfullscreen></iframe>
 
