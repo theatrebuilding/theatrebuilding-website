@@ -56,7 +56,6 @@ cursor: crosshair
 .image-container img {
 width: 20%;
 height: auto;
-display: block;
 position: fixed;
 left: 10%;
 bottom: 20%;
