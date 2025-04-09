@@ -369,7 +369,7 @@ _template: advanced
 
   <div>
 
-  <iframe src="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?tab=t.0" name="script" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="100%" width="100%" allowfullscreen></iframe>
+  <iframe src="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?tab=t.0" name="script" scrolling="yes" frameborder="0" marginheight="0px" marginwidth="0px" height="100%" width="100%" allowfullscreen></iframe>
 
 <script>
     document.addEventListener('DOMContentLoaded', function() {
