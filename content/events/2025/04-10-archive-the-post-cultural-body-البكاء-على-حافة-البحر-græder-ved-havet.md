@@ -1,7 +1,7 @@
 ---
 title: البكاء على حافة البحر Græder ved havet
 artistName: The Post-Cultural Body
-location: archive
+location: Living archive
 date: 2025-04-10T15:54:00.000Z
 css: |
   .a  {
