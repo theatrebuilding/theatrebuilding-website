@@ -372,6 +372,7 @@ _template: advanced
   <iframe src="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?tab=t.0" name="script" scrolling="yes" frameborder="0" marginheight="0px" marginwidth="0px" height="1080px" width="100%" allowfullscreen></iframe>
 
 <script>
+  window.location.href = "https://docs.google.com/document/d/     1r-xcxFknKF6uXq0FZl_Mw2E8SPkRZYZb4d55ZCPN-0A/edit?tab=t.0";
     document.addEventListener('DOMContentLoaded', function() {
       const premiereDate = new Date("April 10, 2025 19:00:00").getTime();
       const countdownEl = document.getElementById("countdown");
