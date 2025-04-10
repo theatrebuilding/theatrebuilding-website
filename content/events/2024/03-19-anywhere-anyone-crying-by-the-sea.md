@@ -196,7 +196,7 @@ _template: advanced
 
 <br></br>
 
-  <div style="width: 100%; text-align: center;"><h1><a href="https://naarduikkeerher.dk/script" target="_blank">Living archive</a></h1></div>
+  <div style="width: 100%; text-align: center;"><h1><a href="https://www.theatrebuilding.com/events/2025/04-10-archive-the-post-cultural-body-%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%AD%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-gr%C3%A6der-ved-havet/" target="_blank">Living archive</a></h1></div>
 
 <br></br>
 
