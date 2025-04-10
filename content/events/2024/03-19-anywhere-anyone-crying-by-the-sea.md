@@ -140,18 +140,16 @@ _template: advanced
         </div>
       </br>
 
-```
   <p class="a"> يدخل جمهوران كل منهما مسرحه في قارته في نفس الوقت</p>  
   <p class="b"> To publikummer tr&aelig;der ind i hver sin teatersal på hvert sit kontinent på samme tid.</p>
   <p class="a"> لا يوجد شيء في المسرح سوى عرض رقمي على الحائط النهائي</p>
   <p class="b">Der er intet andet i salen end en digital projektion på endev&aelig;ggen.</p>
   <p class="a">في الصورة، يرى كل منهما الآخر</p>
   <p class="b">I billedet ser de hinanden.</p>
-```
 
   <div class="countdown-container">
     <div id="countdown"></div>
-  /div>
+  </div>
 
   <p class="a"><strong> البكاء على حافة البحر</strong></p>  
   <p class="b"><strong> Gr&aelig;der ved havet</strong></p>
