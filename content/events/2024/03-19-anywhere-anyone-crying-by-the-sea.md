@@ -147,10 +147,6 @@ _template: advanced
   <p class="a">في الصورة، يرى كل منهما الآخر</p>
   <p class="b">I billedet ser de hinanden.</p>
 
-  <div class="countdown-container">
-    <div id="countdown"></div>
-  </div>
-
   <p class="a"><strong> البكاء على حافة البحر</strong></p>  
   <p class="b"><strong> Gr&aelig;der ved havet</strong></p>
 
@@ -158,12 +154,9 @@ _template: advanced
  <br></br>
  <p class="a"> <em><a href="https://www.google.com/maps/place/Th%C3%A9%C3%A2tre+De+Poche+Kef/@36.1812071,8.7068335,17z/data=!3m1!4b1!4m6!3m5!1s0x12fba44bd5db4483:0x27ad9abeb47e82ea!8m2!3d36.1812071!4d8.7094084!16s%2Fg%2F11f5ghspbx?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D" target="_blank"> Theatre du Poche, El kef, Tunisia</a></em></p>
  <br></br>
- <p class="b"> <strong>10/4/2025, at 19:00:</strong>
- <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179452?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179452" target="_blank">Buy Tickets (Denmark) 50 kr.</a></p>
- <br></br>
- <p class="a"><strong>10/4/2025, at 18:00:</strong>
- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Tickets in Tunisia are sold on the door. 2-5 TND. Reservation possible here.</a></p> 
- <br></br>
+
+<br></br>
+
  <p class="b"> <strong>11/4/2025, at 19:00:</strong>
  <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179613?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179613" target="_blank">Buy Tickets (Denmark) 50 kr.</a></p>
  <br></br>
@@ -203,28 +196,7 @@ _template: advanced
  <div class="b">
  <a href="https://app.console.xyz/c/theatrebuilding/chat?r=53226998-2bc9-43bc-8e1a-d83f6cc7ef5f"><img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/console.png " style="height:42px"></a> <a href="https://www.instagram.com/cryingbythesea/"><img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/Black-icon-Instagram-logo-transparent-PNG.png" style="height:42px"></a>
 
-   <div>
-
- <script>
-     document.addEventListener('DOMContentLoaded', function() {
-       const premiereDate = new Date("April 10, 2025 19:00:00").getTime();
-       const countdownEl = document.getElementById("countdown");
-       const timer = setInterval(() => {
-         const now = new Date().getTime();
-         const distance = premiereDate - now;
-         const days = Math.floor(distance / (1000 * 60 * 60 * 24));
-         const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-         const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-         const seconds = Math.floor((distance % (1000 * 60)) / 1000);
-         if (distance < 0) {
-           clearInterval(timer);
-           countdownEl.innerHTML = "Premiere Started";
-         } else {
-           countdownEl.innerHTML = `${days}d ${hours}h ${minutes}m ${seconds}s`;
-         }
-       }, 1000);
-     });
- </script>
+   </div>
 
    </main>
    </body>
