@@ -134,11 +134,6 @@ _template: advanced
 
 <body>
     <main>
-      </br>
-        <div style="width: 100%; text-align: center;">
-          <h1><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos" target="_blank">SCRIPT / MANUS / النص</a></h1>
-        </div>
-      </br>
 
   <p class="a"> يدخل جمهوران كل منهما مسرحه في قارته في نفس الوقت</p>  
   <p class="b"> To publikummer tr&aelig;der ind i hver sin teatersal på hvert sit kontinent på samme tid.</p>
@@ -149,6 +144,14 @@ _template: advanced
 
   <p class="a"><strong> البكاء على حافة البحر</strong></p>  
   <p class="b"><strong> Gr&aelig;der ved havet</strong></p>
+
+```
+  </br>
+    <div style="width: 100%; text-align: center;">
+      <h1><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos" target="_blank">SCRIPT / MANUS / النص</a></h1>
+    </div>
+  </br>
+```
 
  <p class="b"> <em><a href="https://www.google.com/maps/place/Teater%C3%B8en/@55.696556,12.6098728,17z/data=!3m1!4b1!4m6!3m5!1s0x465252da5ae5b679:0x4bc919cc29fa0aac!8m2!3d55.696556!4d12.6124477!16s%2Fg%2F1yfdpdp6d?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D" target="_blank">Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark</a></em></p>
  <br></br>
