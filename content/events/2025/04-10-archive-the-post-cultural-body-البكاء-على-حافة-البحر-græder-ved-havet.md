@@ -215,7 +215,6 @@ _template: advanced
  <p class="indryk23"><font size="4"><em><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?tab=t.0">1.8.21 (10.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
  <p class="indryk22"><font size="4"><em><a href="https://docs.google.com/document/d/1RAMY1x7I73Nn6QtibjqJ4An2ro8nIYVtb97GJTTt-0k/edit?tab=t.0">1.8.20 (10.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
  <p class="indryk21"><font size="4"><em><a href="https://docs.google.com/document/d/1Jf7ma77-ffUAocZ51XPSQ4vNnhNGG70X1KA9wD1X4c0/edit?tab=t.0">1.8.19 (10.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
- <p class="indryk20"><font size="4"><em><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?tab=t.0">1.8.18 (10.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
  <p class="indryk19"><font size="4"><em><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?tab=t.0">1.8.17 (10.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
  <p class="indryk18"><font size="4"><em><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?tab=t.0">1.8.16 (9.4.2025 - Mj&oslash;sensgade)</a></em></font></p>
  <p class="indryk17"><font size="4"><em><a href="https://docs.google.com/document/d/1nYHG60rzO4CoJ9z9p5fCSuAKN1oFFBeZ0RTW6waLI7A/edit?tab=t.0">1.8.15 (8.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
