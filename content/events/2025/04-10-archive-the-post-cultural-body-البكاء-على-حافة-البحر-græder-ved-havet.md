@@ -71,6 +71,30 @@ css: |
   .indryk18 {
     margin-left: 360px;
   }
+  }
+  .indryk19 {
+    margin-left: 380px;
+  }
+  }
+  .indryk20 {
+    margin-left: 400px;
+  }
+  }
+  .indryk21 {
+    margin-left: 420px;
+  }
+  }
+  .indryk22 {
+    margin-left: 440px;
+  }
+  }
+  .indryk23 {
+    margin-left: 460px;
+  }
+  }
+  .indryk24 {
+    margin-left: 480px;
+  }
 
 
 
@@ -188,7 +212,13 @@ _template: advanced
 
  <div class="b">
 
- <p class="indryk17"><font size="4"><strong><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?usp=sharing">1.8.15</a></strong></font></p>
+ <p class="indryk23"><font size="4"><em><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?tab=t.0">1.8.21 (10.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
+ <p class="indryk22"><font size="4"><em><a href="https://docs.google.com/document/d/1RAMY1x7I73Nn6QtibjqJ4An2ro8nIYVtb97GJTTt-0k/edit?tab=t.0">1.8.20 (10.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
+ <p class="indryk21"><font size="4"><em><a href="https://docs.google.com/document/d/1Jf7ma77-ffUAocZ51XPSQ4vNnhNGG70X1KA9wD1X4c0/edit?tab=t.0">1.8.19 (10.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
+ <p class="indryk20"><font size="4"><em><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?tab=t.0">1.8.18 (10.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
+ <p class="indryk19"><font size="4"><em><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?tab=t.0">1.8.17 (10.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
+ <p class="indryk18"><font size="4"><em><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?tab=t.0">1.8.16 (9.4.2025 - Mj&oslash;sensgade)</a></em></font></p>
+ <p class="indryk17"><font size="4"><em><a href="https://docs.google.com/document/d/1nYHG60rzO4CoJ9z9p5fCSuAKN1oFFBeZ0RTW6waLI7A/edit?tab=t.0">1.8.15 (8.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
  <p class="indryk16"><font size="4"><em><a href="https://docs.google.com/document/d/15x_rI3Zw9hoGQGeoJrGH44zepKu1y93OZfxXNdekywM/edit?usp=sharing">1.8.14 (7.4.2025 - Theatre du Poche)</a></em></font></p>
  <p class="indryk15"><font size="4"><em><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?usp=sharing">1.8.13 (7.4.2025 - Uniarts, Finland)</a></em></font></p>
  <p class="indryk14"><font size="4"><em><a href="https://docs.google.com/document/d/1zrmHKgRkG9zegdFQqsmoaJJBx5KW4WLUbdlbG9ceWGo/edit?tab=t.0">1.8.12 (5.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
