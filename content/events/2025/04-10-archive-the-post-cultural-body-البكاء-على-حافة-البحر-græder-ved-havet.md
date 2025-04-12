@@ -211,7 +211,8 @@ _template: advanced
  </div>
 
  <div class="b">
- <p class="indryk7"><font size="4"><em><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?tab=t.0">1.8.23 (12.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
+  <p class="indryk8"><font size="4"><strong><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?tab=t.0">1.8.24 (12.4.2025 - Theatre du Poche x Teater&oslash;en)</a></strong></font></p>
+ <p class="indryk7"><font size="4"><em><a href="https://docs.google.com/document/d/132B3VR7pR0TAgYX9mCoXBbQ5x_xVeesK1BkrbZQlUEM/edit?tab=t.0">1.8.23 (12.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
  <p class="indryk6"><font size="4"><em><a href="https://docs.google.com/document/d/1ffxSYeVyh1Vf3nKCPgXKHT16_HpVZiLYWhZ5ow2MqgU/edit?tab=t.0">1.8.22 (11.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
   <p class="indryk5"><font size="4"><em><a href="https://docs.google.com/document/d/1nJ97HIEwa1Cj32ErtykpKEVimtBbESTIi8tuOyDEUgk/edit?tab=t.0">1.8.21 (11.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
  <p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?tab=t.0">1.8.20 (10.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
