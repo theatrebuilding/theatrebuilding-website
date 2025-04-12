@@ -142,7 +142,7 @@ _template: advanced
   <p class="a">في الصورة، يرى كل منهما الآخر</p>
   <p class="b">I billedet ser de hinanden.</p>
 
-<br></br> <div style="width: 100%; text-align: center; font-size: large"> <h1><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos" target="_blank">SCRIPT / MANUS / النص</a></h1> </div> <br></br>
+<br></br> <div style="width: 100%; text-align: center; font-size: x-large"> <h1><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos" target="_blank">MANUS / SCRIPT / النص</a></h1> </div> <br></br>
 
   <p class="a"><strong> البكاء على حافة البحر</strong></p>  
   <p class="b"><strong> Gr&aelig;der ved havet</strong></p>
@@ -177,7 +177,7 @@ _template: advanced
 
 <br></br>
 
-  <div style="width: 100%; text-align: center;"><h1><a href="https://www.theatrebuilding.com/events/2025/04-10-archive-the-post-cultural-body-%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%AD%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-gr%C3%A6der-ved-havet/" target="_blank">Living archive</a></h1></div>
+  <div style="width: 100%; text-align: center; font-size: x-large"><h1><a href="https://www.theatrebuilding.com/events/2025/04-10-archive-the-post-cultural-body-%D8%A7%D9%84%D8%A8%D9%83%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%AD%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-gr%C3%A6der-ved-havet/" target="_blank">Living archive</a></h1></div>
 
 <br></br>
 
