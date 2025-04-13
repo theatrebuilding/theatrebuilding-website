@@ -153,12 +153,6 @@ _template: advanced
 
 <br></br>
 
- <p class="b">12/4/2025, at 19:00:
- <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179622?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179622" target="_blank">Buy Tickets (Denmark) 50 kr.</a></p>
- <br></br>
- <p class="a">12/4/2025, at 18:00:
- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Tickets in Tunisia are sold on the door. 2-5 TND. Reservation possible here.</a></p> 
- <br></br>
  <p class="b">13/4/2025, at 15:00:
  <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1179623?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1179623" target="_blank">Buy Tickets (Denmark) 50 kr.</a></p>
  <br></br>
