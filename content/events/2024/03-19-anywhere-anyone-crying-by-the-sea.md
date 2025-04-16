@@ -163,13 +163,19 @@ _template: advanced
  <div class="b">
   <p class="indryk13"><font size="4"><strong><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?tab=t.0">1.8.29</a></strong></font></p>
            <p class="indryk12"><font size="4"><em><a href="https://docs.google.com/document/d/1dMa_A27Dz9BD0DRPzigP5YRTh2tT5lezb2YOutkD_YU/edit?tab=t.0">1.8.28 (13.4.2025)</a></em></font></p>
-         <p class="indryk11"><font size="4"><em><a href="https://docs.google.com/document/d/1mVMIu44T1KKSXBC2raq4b9uTtZJ81_mb9hjSggQ4jxQ/edit?tab=t.0">1.8.27 (13.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
+          <p class="indryk11"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/TB-Premier_TN_Rec4_130425.mp3" type="audio/mpeg"></audio></p>
+         <p class="indryk11"><font size="4"><em><a href="https://docs.google.com/document/d/
+         1mVMIu44T1KKSXBC2raq4b9uTtZJ81_mb9hjSggQ4jxQ/edit?tab=t.0">1.8.27 (13.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
        <p class="indryk10"><font size="4"><em><a href="https://docs.google.com/document/d/1UNrTWmp2WVJOW1sRyaNlZvX3NhUyoa-0T0QI2IP0Tyk/edit?tab=t.0">1.8.26 (13.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
+                 <p class="indryk9"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/TB-Premier_TN_Rec3_120425_2.mp3" type="audio/mpeg"></audio></p>
      <p class="indryk9"><font size="4"><em><a href="https://docs.google.com/document/d/12rU44Z0bMakxFhLMtyoxc_wS8dFM-exFZ7AXcmHOyF4/edit?tab=t.0">1.8.25 (12.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
+     <p class="indryk8"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/TB-Premier_TN_Rec3_120425_1.mp3" type="audio/mpeg"></audio></p>
    <p class="indryk8"><font size="4"><em><a href="https://docs.google.com/document/d/1yjOiSb-En1CrB_qGdS9y95y73sk-i-ujVVZI4vO5ttE/edit?tab=t.0">1.8.24 (12.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
  <p class="indryk7"><font size="4"><em><a href="https://docs.google.com/document/d/132B3VR7pR0TAgYX9mCoXBbQ5x_xVeesK1BkrbZQlUEM/edit?tab=t.0">1.8.23 (12.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
+      <p class="indryk6"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/TB-Premier_TN_Rec2_110425.mp3" type="audio/mpeg"></audio></p>
  <p class="indryk6"><font size="4"><em><a href="https://docs.google.com/document/d/1ffxSYeVyh1Vf3nKCPgXKHT16_HpVZiLYWhZ5ow2MqgU/edit?tab=t.0">1.8.22 (11.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
   <p class="indryk5"><font size="4"><em><a href="https://docs.google.com/document/d/1nJ97HIEwa1Cj32ErtykpKEVimtBbESTIi8tuOyDEUgk/edit?tab=t.0">1.8.21 (11.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
+        <p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/TB-Premier_TN_Rec1_100425.mp3" type="audio/mpeg"></audio></p>
  <p class="indryk4"><font size="4"><em><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?tab=t.0">1.8.20 (10.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
  <p class="indryk3"><font size="4"><em><a href="https://docs.google.com/document/d/1RAMY1x7I73Nn6QtibjqJ4An2ro8nIYVtb97GJTTt-0k/edit?tab=t.0">1.8.19 (10.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
  <p class="indryk2"><font size="4"><em><a href="https://docs.google.com/document/d/1Jf7ma77-ffUAocZ51XPSQ4vNnhNGG70X1KA9wD1X4c0/edit?tab=t.0">1.8.18 (10.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
