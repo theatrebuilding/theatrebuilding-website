@@ -161,7 +161,7 @@ _template: advanced
 <br></br>
 
  <div class="b">
-  <p class="indryk11"><font size="4"><strong><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?tab=t.0">1.8.29</a></strong></font></p>
+  <p class="indryk13"><font size="4"><strong><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?tab=t.0">1.8.29</a></strong></font></p>
            <p class="indryk12"><font size="4"><em><a href="https://docs.google.com/document/d/1dMa_A27Dz9BD0DRPzigP5YRTh2tT5lezb2YOutkD_YU/edit?tab=t.0">1.8.28 (13.4.2025)</a></em></font></p>
          <p class="indryk11"><font size="4"><em><a href="https://docs.google.com/document/d/1mVMIu44T1KKSXBC2raq4b9uTtZJ81_mb9hjSggQ4jxQ/edit?tab=t.0">1.8.27 (13.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
        <p class="indryk10"><font size="4"><em><a href="https://docs.google.com/document/d/1UNrTWmp2WVJOW1sRyaNlZvX3NhUyoa-0T0QI2IP0Tyk/edit?tab=t.0">1.8.26 (13.4.2025 - Theatre du Poche x Teater&oslash;en)</a></em></font></p>
