@@ -142,10 +142,6 @@ _template: advanced
   <p class="a">في الصورة، يرى كل منهما الآخر</p>
   <p class="b">I billedet ser de hinanden.</p>
 
- <div class="c">
- <p><script src="//myradiostream.com/embed/theatrebuilding"></script></p>
- </div>
-
 <br></br>
 
  <div class="b">
