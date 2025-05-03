@@ -157,7 +157,9 @@ _template: advanced
 <br></br>
 
  <div class="b">
-  <p class="indryk13"><font size="4"><strong><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?tab=t.0">1.8.29</a></strong></font></p>
+  <p class="indryk13"><font size="4"><strong><a href="https://docs.google.com/document/d/1Gd64Ib6onPI-mHRf4-y-o8HvtyCzmTr2dlhjvsb9Yos/edit?tab=t.0">1.8.31</a></strong></font></p>
+             <p class="indryk12"><font size="4"><em><a href="https://docs.google.com/document/d/1jLLQKH1qGYoSF_SZ1iqbCh12gnvs20WRvhOrjDMkTLs/edit?tab=t.0">1.8.30 (3.5.2025)</a></em></font></p>
+             <p class="indryk12"><font size="4"><em><a href="https://docs.google.com/document/d/1jLLQKH1qGYoSF_SZ1iqbCh12gnvs20WRvhOrjDMkTLs/edit?tab=t.0">1.8.29 (13.4.2025)</a></em></font></p>
            <p class="indryk12"><font size="4"><em><a href="https://docs.google.com/document/d/1dMa_A27Dz9BD0DRPzigP5YRTh2tT5lezb2YOutkD_YU/edit?tab=t.0">1.8.28 (13.4.2025)</a></em></font></p>
           <p class="indryk11"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/TB-Premier_TN_Rec4_130425.mp3" type="audio/mpeg"></audio></p>
          <p class="indryk11"><font size="4"><em><a href="https://docs.google.com/document/d/
