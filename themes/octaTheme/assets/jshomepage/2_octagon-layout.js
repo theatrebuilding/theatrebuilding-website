@@ -97,15 +97,27 @@ function positionOctagons() {
       octagon.style.transform = `translate(${translateValue}, ${translateValue})`;
     });
 
-    // Set dimensions and position of the octagon grid and its container
-    const cellDims = (layer * distanceBetweenOctagons) + 10;
+    // Set dimensions and position of the octagon grid and its container.
+    // Use ring radius + actual octagon footprint so scroll bounds match
+    // what is visibly rendered on screen.
+    const ringRadius = Math.max(0, (layer - 2) * distanceBetweenOctagons);
+    const firstOctagon = octagons[0];
+    const octagonStyle = firstOctagon ? window.getComputedStyle(firstOctagon) : null;
+    const octagonOuterWidth = firstOctagon
+      ? firstOctagon.offsetWidth + parseFloat(octagonStyle.marginLeft) + parseFloat(octagonStyle.marginRight)
+      : octagonSize;
+    const octagonOuterHeight = firstOctagon
+      ? firstOctagon.offsetHeight + parseFloat(octagonStyle.marginTop) + parseFloat(octagonStyle.marginBottom)
+      : octagonSize;
+    const cellDimsW = Math.ceil((ringRadius * 2) + octagonOuterWidth);
+    const cellDimsH = Math.ceil((ringRadius * 2) + octagonOuterHeight);
     const canvasMarginW = window.innerWidth;
     const canvasMarginH = window.innerHeight;
-    octagonGrid.style.width = cellDims + "px";
-    octagonGrid.style.height = cellDims + "px";
+    octagonGrid.style.width = cellDimsW + "px";
+    octagonGrid.style.height = cellDimsH + "px";
     octagonGrid.style.transform = `translate(${canvasMarginW}px,${canvasMarginH}px)`;
-    gridContainer.style.width = (canvasMarginW * 2) + cellDims + "px";
-    gridContainer.style.height = (canvasMarginH * 2) + cellDims + "px";
+    gridContainer.style.width = (canvasMarginW * 2) + cellDimsW + "px";
+    gridContainer.style.height = (canvasMarginH * 2) + cellDimsH + "px";
   }
   return { maxX, maxY }; // Return the maximum X and Y positions
 }

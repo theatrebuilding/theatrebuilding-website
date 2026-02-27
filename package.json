@@ -12,9 +12,9 @@
     "hugo-draft": "hugo -F -D",
     "hugo-public": "hugo -F",
     "start": "npm run hugo-server",
-    "dev": "hugo server -F -D",
-    "build": "npm run hugo-public",
-    "build-future": "npm run hugo-draft"
+    "dev": "tinacms dev -c \"hugo server -F -D\"",
+    "build": "tinacms build && npm run hugo-public",
+    "build-future": "tinacms build && npm run hugo-draft"
   },
   "keywords": [],
   "author": "",
@@ -24,9 +24,23 @@
     "graceful-fs": "^4.2.11",
     "postcss": "^8.5.6",
     "postcss-cli": "^11.0.1",
+    "tinacms": "^3.5.1",
     "yaml": "^2.8.2"
   },
   "devDependencies": {
-    "hugo-extended": "^0.157.0"
+    "@tinacms/cli": "^2.1.7",
+    "hugo-extended": "^0.157.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "overrides": {
+    "@vitejs/plugin-react": "5.1.4",
+    "@remix-run/router": "1.23.2",
+    "dompurify": "^3.3.1",
+    "esbuild": "0.27.3",
+    "mermaid": "10.9.4",
+    "react-router": "6.30.3",
+    "react-router-dom": "6.30.3",
+    "vite": "5.4.21"
   }
 }

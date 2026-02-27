@@ -27,8 +27,9 @@ if ( isMobileDevice() ) {
     // Get viewport and document dimensions
     const viewportWidth = window.innerWidth;
     const viewportHeight = window.innerHeight;
-    const bodyWidth = document.body.scrollWidth;
-    const bodyHeight = document.body.scrollHeight;
+    const root = document.documentElement;
+    const bodyWidth = Math.max(document.body.scrollWidth, root.scrollWidth);
+    const bodyHeight = Math.max(document.body.scrollHeight, root.scrollHeight);
     
     // Adjust scroll position for looping scroll
     newScrollX = (newScrollX < 0) ? bodyWidth + newScrollX : (newScrollX + viewportWidth > bodyWidth) ? newScrollX - bodyWidth + viewportWidth : newScrollX;
