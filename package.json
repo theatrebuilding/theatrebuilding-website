@@ -26,6 +26,7 @@
     "postcss-cli": "^11.0.1",
     "tinacms": "^3.5.1",
     "yaml": "^2.8.2"
+    
   },
   "devDependencies": {
     "@tinacms/cli": "^2.1.7",
