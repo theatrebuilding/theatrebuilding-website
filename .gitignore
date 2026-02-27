@@ -3,3 +3,4 @@ node_modules
 resources
 public
 .env
+package-lock.json
