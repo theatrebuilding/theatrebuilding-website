@@ -1,4 +1,5 @@
 [build]
+  command = "tinacms build && rm -f tina/__generated__/client.ts && npm run hugo-public"
   publish = "public"
 
 [build.environment]
