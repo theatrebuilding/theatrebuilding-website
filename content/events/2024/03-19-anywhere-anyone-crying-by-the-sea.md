@@ -134,43 +134,33 @@ _template: advanced
 
 <body>
     <main>
-
   <p class="a"> يدخل جمهوران كل منهما مسرحه في قارته في نفس الوقت</p>  
-  <p class="b"> To publikummer tr&aelig;der ind i hver sin teatersal på hvert sit kontinent på samme tid.</p>
+  <p class="b"><em>to publikummer tr&aelig;der ind i hver sin teatersal på hvert sit kontinent på samme tid</em></p>
   <p class="a"> لا يوجد شيء في المسرح سوى عرض رقمي على الحائط النهائي</p>
-  <p class="b">Der er intet andet i salen end en digital projektion på endev&aelig;ggen.</p>
+  <p class="b"><em>der er intet andet i salen end en digital projektion på endev&aelig;ggen</em></p>
   <p class="a">في الصورة، يرى كل منهما الآخر</p>
-  <p class="b">I billedet ser de hinanden.</p>
-
-<div class="b"="image-container">
-   <img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/DK%20looking%20at%20TN%20-%201%20bit,%20less%20pixels.png" alt="DK looking at TN">
- </div>
-
- <div class="a"="image-container">
-   <img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/TN%20looking%20at%20DK,%201%20bit,%20less%20pixels.png" alt="TN looking at DK">
-   <div class="b"> <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1846032?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1846032" target="_blank">Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark, 11/6/2026, 19:00 (UTC+2)</a></div>
- </div>
+  <p class="b"><em>i billedet ser de hinanden</em></p>
 
  <p class="b">
-
+ <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1846032?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1846032" target="_blank">Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark, 11/6 2026, 19:00 (UTC+2)</a></p>
  <p class="a">
- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Theatre du Poche, El kef, Tunisia, 11/6/2026, 18:00 (UTC+1)</a></p> 
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Theatre du Poche, El kef, Tunisia, 11/6 2026, 18:00 (UTC+1)</a></p> 
  <p class="b">
- <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866985?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866985" target="_blank">Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark, 12/6/2026, 19:00 (UTC+2)</a></p>
+ <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866985?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866985" target="_blank">Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark, 12/6 2026, 19:00 (UTC+2)</a></p>
  <p class="a">
- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Theatre du Poche, El kef, Tunisia, 12/6/2026, 18:00 (UTC+1)</a></p> 
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Theatre du Poche, El kef, Tunisia, 12/6 2026, 18:00 (UTC+1)</a></p> 
  <p class="b">
- <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866987?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866987" target="_blank">Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark, 13/6/2026, 15:00 (UTC+2)</a></p>
+ <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866987?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866987" target="_blank">Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark, 13/6 2026, 15:00 (UTC+2)</a></p>
  <p class="a">
- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Theatre du Poche, El kef, Tunisia, 13/6/2026, 14:00 (UTC+1)</a></p> 
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Theatre du Poche, El kef, Tunisia, 13/6 2026, 14:00 (UTC+1)</a></p> 
  <p class="b">
- <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866988?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866988" target="_blank">Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark, 13/6/2026, 19:00 (UTC+2)</a></p>
+ <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866988?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866988" target="_blank">Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark, 13/6 2026, 19:00 (UTC+2)</a></p>
  <p class="a">
- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Theatre du Poche, El kef, Tunisia, 13/6/2026, 18:00 (UTC+1)</a></p> 
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Theatre du Poche, El kef, Tunisia, 13/6 2026, 18:00 (UTC+1)</a></p> 
  <p class="b"> 
- <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866990?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866990" target="_blank">Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark, 14/6/2026, 15:00 (UTC+2)</a></p>
+ <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866990?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866990" target="_blank">Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark, 14/6 2026, 15:00 (UTC+2)</a></p>
  <p class="a">
- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Theatre du Poche, El kef, Tunisia, 14/6/2026, 14:00 (UTC+1)</a></p> 
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Theatre du Poche, El kef, Tunisia, 14/6 2026, 14:00 (UTC+1)</a></p> 
 
  <div class="c">
 <p class="indryk11"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/TB-Premier_TN_Rec4_130425.mp3" type="audio/mpeg"></audio></p>
@@ -254,7 +244,10 @@ _template: advanced
  <p class="indryk2"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.%20Dansk%20Monia.wav" type="audio/mpeg"></audio></p>
 </div>
 
-<br></br>
+<div class="b"="image-container">
+   <img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/DK%20looking%20at%20TN%20-%201%20bit,%20less%20pixels.png" alt="DK looking at TN"></div>
+ <div class="a"="image-container">
+   <img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/TN%20looking%20at%20DK,%201%20bit,%20less%20pixels.png" alt="TN looking at DK"></div>
 
  <div class="a">
  <a href="https://app.console.xyz/c/theatrebuilding/chat?r=53226998-2bc9-43bc-8e1a-d83f6cc7ef5f"><img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/console.png " style="height:42px"></a> <a href="https://www.instagram.com/cryingbythesea/"><img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/Black-icon-Instagram-logo-transparent-PNG.png" style="height:42px"></a>
