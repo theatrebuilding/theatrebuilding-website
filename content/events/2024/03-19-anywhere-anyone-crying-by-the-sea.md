@@ -142,14 +142,8 @@ _template: advanced
   <p class="a">في الصورة، يرى كل منهما الآخر</p>
   <p class="b">I billedet ser de hinanden.</p>
 
-```
 <div class="image-container">
    <img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/crying by the sea arabic 08.png" alt="Premiere Image">
- </div>
- <div class="countdown-container">
-   <div id="countdown"></div>
-```
-
  </div>
 
  <p class="b"> <em><a href="https://www.google.com/maps/place/Teater%C3%B8en/@55.696556,12.6098728,17z/data=!3m1!4b1!4m6!3m5!1s0x465252da5ae5b679:0x4bc919cc29fa0aac!8m2!3d55.696556!4d12.6124477!16s%2Fg%2F1yfdpdp6d?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D" target="_blank">Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark</a></em></p>
