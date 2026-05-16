@@ -5,6 +5,11 @@ location: Teaterøen & Theatre du Poche
 date: 2024-03-19T14:00:00.000Z
 altDate: 11-14/6 2026
 css: |-
+  body {
+    background-color: black;
+  color: white
+  }
+
   .a  {
   text-align: right;
   margin-left: 20px;
