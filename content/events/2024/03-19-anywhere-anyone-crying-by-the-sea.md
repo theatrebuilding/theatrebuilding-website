@@ -144,8 +144,9 @@ _template: advanced
 البكاء على حافة البحر
  </strong></p>
  <p class="b"><strong> Gr&aelig;der ved havet</strong></p>
+ <p class="c"><strong>Crying by the Sea</strong></p>
 <p class="c"><strong>11/6-14/6 2026</strong></p>
- <p class="b"><em>Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark</em></p>
+ <p class="b"><strong>Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark</strong></p>
    <p class="a"><strong>Theatre du Poche, El kef, Tunisia</strong></p>
  <p class="b">
  <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1846032?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1846032" target="_blank">11/6 2026, 19:00 (UTC+2)</a></p>
