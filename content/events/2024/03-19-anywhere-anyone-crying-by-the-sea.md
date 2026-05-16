@@ -10,6 +10,21 @@ css: |-
   color: white
   }
 
+  a:link {
+    color: white;
+  }
+
+  a:visited {
+    color: white;
+  }
+
+  a:hover {
+    color: none;
+  }
+
+  a:active {
+    color: white;
+  }
   .a  {
   text-align: right;
   margin-left: 20px;
