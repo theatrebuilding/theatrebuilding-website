@@ -148,10 +148,11 @@ _template: advanced
 
  <div class="a"="image-container">
    <img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/TN%20looking%20at%20DK,%201%20bit,%20less%20pixels.png" alt="TN looking at DK">
+   <div class="b"> <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1846032?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1846032" target="_blank">Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark, 11/6/2026, 19:00 (UTC+2)</a></div>
  </div>
 
  <p class="b">
- <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1846032?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1846032" target="_blank">Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark, 11/6/2026, 19:00 (UTC+2)</a></p>
+
  <p class="a">
  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Theatre du Poche, El kef, Tunisia, 11/6/2026, 18:00 (UTC+1)</a></p> 
  <p class="b">
