@@ -142,43 +142,28 @@ _template: advanced
   <p class="a">في الصورة، يرى كل منهما الآخر</p>
   <p class="b">I billedet ser de hinanden.</p>
 
-<div class="image-container">
-   <img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/crying by the sea arabic 08.png" alt="Premiere Image">
- </div>
-
  <p class="b"> <em><a href="https://www.google.com/maps/place/Teater%C3%B8en/@55.696556,12.6098728,17z/data=!3m1!4b1!4m6!3m5!1s0x465252da5ae5b679:0x4bc919cc29fa0aac!8m2!3d55.696556!4d12.6124477!16s%2Fg%2F1yfdpdp6d?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D" target="_blank">Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark</a></em></p>
- <br></br>
  <p class="a"> <em><a href="https://www.google.com/maps/place/Th%C3%A9%C3%A2tre+De+Poche+Kef/@36.1812071,8.7068335,17z/data=!3m1!4b1!4m6!3m5!1s0x12fba44bd5db4483:0x27ad9abeb47e82ea!8m2!3d36.1812071!4d8.7094084!16s%2Fg%2F11f5ghspbx?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D" target="_blank"> Theatre du Poche, El kef, Tunisia</a></em></p>
- <br></br>
- <p class="b"> <strong>11/6/2026, 19:00 DK</strong>
- <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1846032?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1846032" target="_blank">Buy Tickets (Denmark) 50 kr.</a></p>
- <br></br>
- <p class="a"><strong>11/6/2026, 18:00 TN</strong>
- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Tickets in Tunisia are sold on the door. 2 TND. Reservation possible here.</a></p> 
- <br></br>
- <p class="b"> <strong>12/6/2026, 19:00 DK</strong>
- <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866985?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866985" target="_blank">Buy Tickets (Denmark) 50 kr.</a></p>
- <br></br>
- <p class="a"><strong>12/6/2026, 18:00 TN</strong>
- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Tickets in Tunisia are sold on the door. 2 TND. Reservation possible here.</a></p> 
- <br></br>
- <p class="b"><strong>13/6/2026, 15:00 DK</strong>
- <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866987?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866987" target="_blank">Buy Tickets (Denmark) 50 kr.</a></p>
- <br></br>
- <p class="a"><strong>13/6/2026, 14:00 TN</strong>
- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Tickets in Tunisia are sold on the door. 2 TND. Reservation possible here.</a></p> 
- <br></br>
- <p class="b"> <strong>13/6/2026, 19:00 DK</strong>
- <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866988?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866988" target="_blank">Buy Tickets (Denmark) 50 kr.</a></p>
- <br></br>
- <p class="a"><strong>13/6/2026, 18:00 TN</strong>
- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Tickets in Tunisia are sold on the door. 2 TND. Reservation possible here.</a></p> 
- <br></br>
- <p class="b"> <strong>14/6/2026, 15:00 DK</strong>
- <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866990?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866990" target="_blank">Buy Tickets (Denmark) 50 kr.</a></p>
- <br></br>
- <p class="a"><strong>14/6/2026, 14:00 DK</strong>
- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Tickets in Tunisia are sold on the door. 2 TND. Reservation possible here.</a></p> 
+ <p class="b">
+ <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1846032?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1846032" target="_blank">11/6/2026, 19:00 (UTC+2)</a></p>
+ <p class="a">
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">11/6/2026, 18:00 (UTC+1)</a></p> 
+ <p class="b">
+ <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866985?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866985" target="_blank">12/6/2026, 19:00 (UTC+2)</a></p>
+ <p class="a">
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">12/6/2026, 18:00 (UTC+1)</a></p> 
+ <p class="b">
+ <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866987?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866987" target="_blank">13/6/2026, 15:00 (UTC+2)</a></p>
+ <p class="a">
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">13/6/2026, 14:00 (UTC+1)</a></p> 
+ <p class="b">
+ <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866988?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866988" target="_blank">13/6/2026, 19:00 (UTC+2)</a></p>
+ <p class="a">
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">13/6/2026, 18:00 (UTC+1)</a></p> 
+ <p class="b"> 
+ <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866990?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866990" target="_blank">14/6/2026, 15:00 (UTC+2)</a></p>
+ <p class="a">
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">14/6/2026, 14:00 (UTC+1)</a></p> 
 
 <div class="b"="image-container">
    <img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/DK%20looking%20at%20TN%20-%201%20bit,%20less%20pixels.png" alt="DK looking at TN">
@@ -188,7 +173,7 @@ _template: advanced
    <img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/TN%20looking%20at%20DK,%201%20bit,%20less%20pixels.png" alt="TN looking at DK">
  </div>
 
- <div class="b">
+ <div class="c">
           <p class="indryk11"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/TB-Premier_TN_Rec4_130425.mp3" type="audio/mpeg"></audio></p>
 
 ```
@@ -270,6 +255,7 @@ _template: advanced
  <p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1%20English%20Monia.wav" type="audio/mpeg"></audio></p>
 
  <p class="indryk2"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.%20Dansk%20Monia.wav" type="audio/mpeg"></audio></p>
+</div>
 
 <br></br>
 
