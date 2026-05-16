@@ -272,11 +272,10 @@ _template: advanced
 
  <p class="indryk2"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.%20Dansk%20Monia.wav" type="audio/mpeg"></audio></p>
 </div>
-
-<div class="b"="image-container">
-   <img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/DK%20looking%20at%20TN%20-%201%20bit,%20less%20pixels.png" alt="DK looking at TN"></div>
  <div class="a"="image-container">
    <img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/TN%20looking%20at%20DK,%201%20bit,%20less%20pixels.png" alt="TN looking at DK"></div>
+<div class="b"="image-container">
+   <img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/DK%20looking%20at%20TN%20-%201%20bit,%20less%20pixels.png" alt="DK looking at TN"></div>
 
  <div class="c">
  <a href="https://www.instagram.com/cryingbythesea/"><img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/Black-icon-Instagram-logo-transparent-PNG.png" style="height:42px"></a>
