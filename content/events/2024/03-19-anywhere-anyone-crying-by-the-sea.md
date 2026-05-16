@@ -161,26 +161,35 @@ _template: advanced
   <p class="a">في الصورة، يرى كل منهما الآخر</p>
   <p class="b"><em>i billedet ser de hinanden</em></p>
 
- <p class="b">
- <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1846032?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1846032" target="_blank">11/6 2026, 19:00 (UTC+2), Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark</a></p>
  <p class="a">
  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">11/6 2026, 18:00 (UTC+1), Theatre du Poche, El kef, Tunisia</a></p> 
+
  <p class="b">
- <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866985?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866985" target="_blank">12/6 2026, 19:00 (UTC+2), Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark</a></p>
+ <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1846032?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1846032" target="_blank">11/6 2026, 19:00 (UTC+2), Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark</a></p>
+
  <p class="a">
  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">12/6 2026, 18:00 (UTC+1), Theatre du Poche, El kef, Tunisia</a></p> 
- <p class="b">
- <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866987?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866987" target="_blank">13/6 2026, 15:00 (UTC+2), Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark</a></p>
+
+<p class="b">
+ <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866985?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866985" target="_blank">12/6 2026, 19:00 (UTC+2), Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark</a></p>
+
  <p class="a">
  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">13/6 2026, 14:00 (UTC+1), Theatre du Poche, El kef, Tunisia</a></p> 
+
  <p class="b">
- <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866988?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866988" target="_blank">13/6 2026, 19:00 (UTC+2), Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark</a></p>
+ <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866987?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866987" target="_blank">13/6 2026, 15:00 (UTC+2), Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark</a></p>
+
  <p class="a">
  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">13/6 2026, 18:00 (UTC+1), Theatre du Poche, El kef, Tunisia</a></p> 
- <p class="b"> 
- <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866990?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866990" target="_blank">14/6 2026, 15:00 (UTC+2), Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark</a></p>
+
+ <p class="b">
+ <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866988?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866988" target="_blank">13/6 2026, 19:00 (UTC+2), Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark</a></p>
+
  <p class="a">
  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">14/6 2026, 14:00 (UTC+1), Theatre du Poche, El kef, Tunisia</a></p> 
+
+ <p class="b"> 
+ <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866990?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866990" target="_blank">14/6 2026, 15:00 (UTC+2), Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark</a></p>
 
  <div class="c">
 <p class="indryk11"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/TB-Premier_TN_Rec4_130425.mp3" type="audio/mpeg"></audio></p>
