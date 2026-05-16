@@ -140,27 +140,33 @@ _template: advanced
   <p class="b"><em>der er intet andet i salen end en digital projektion på endev&aelig;ggen</em></p>
   <p class="a">في الصورة، يرى كل منهما الآخر</p>
   <p class="b"><em>i billedet ser de hinanden</em></p>
-
+  <p class="a"><strong>
+البكاء على حافة البحر
+ </strong></p>
+ <p class="b"><strong> Gr&aelig;der ved havet</strong></p>
+<p class="c"><strong>11/6-14/6 2026</strong></p>
+ <p class="b"><em>Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark</em></p>
+   <p class="a"><strong>Theatre du Poche, El kef, Tunisia</strong></p>
  <p class="b">
- <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1846032?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1846032" target="_blank">Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark, 11/6 2026, 19:00 (UTC+2)</a></p>
+ <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1846032?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1846032" target="_blank">11/6 2026, 19:00 (UTC+2)</a></p>
  <p class="a">
- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Theatre du Poche, El kef, Tunisia, 11/6 2026, 18:00 (UTC+1)</a></p> 
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">11/6 2026, 18:00 (UTC+1)</a></p> 
  <p class="b">
- <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866985?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866985" target="_blank">Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark, 12/6 2026, 19:00 (UTC+2)</a></p>
+ <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866985?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866985" target="_blank">12/6 2026, 19:00 (UTC+2)</a></p>
  <p class="a">
- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Theatre du Poche, El kef, Tunisia, 12/6 2026, 18:00 (UTC+1)</a></p> 
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">12/6 2026, 18:00 (UTC+1)</a></p> 
  <p class="b">
- <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866987?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866987" target="_blank">Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark, 13/6 2026, 15:00 (UTC+2)</a></p>
+ <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866987?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866987" target="_blank">13/6 2026, 15:00 (UTC+2)</a></p>
  <p class="a">
- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Theatre du Poche, El kef, Tunisia, 13/6 2026, 14:00 (UTC+1)</a></p> 
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">13/6 2026, 14:00 (UTC+1)</a></p> 
  <p class="b">
- <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866988?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866988" target="_blank">Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark, 13/6 2026, 19:00 (UTC+2)</a></p>
+ <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866988?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866988" target="_blank">13/6 2026, 19:00 (UTC+2)</a></p>
  <p class="a">
- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Theatre du Poche, El kef, Tunisia, 13/6 2026, 18:00 (UTC+1)</a></p> 
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">13/6 2026, 18:00 (UTC+1)</a></p> 
  <p class="b"> 
- <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866990?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866990" target="_blank">Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark, 14/6 2026, 15:00 (UTC+2)</a></p>
+ <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866990?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866990" target="_blank">14/6 2026, 15:00 (UTC+2)</a></p>
  <p class="a">
- <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">Theatre du Poche, El kef, Tunisia, 14/6 2026, 14:00 (UTC+1)</a></p> 
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmC2fEYiFenqAdO7wmpYrJjoij_6XG6A82EngeGKLT5dPnFQ/viewform?usp=sharing" target="_blank">14/6 2026, 14:00 (UTC+1)</a></p> 
 
  <div class="c">
 <p class="indryk11"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/TB-Premier_TN_Rec4_130425.mp3" type="audio/mpeg"></audio></p>
