@@ -158,7 +158,7 @@ _template: advanced
 
    <p class="indryk2"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.%20Dansk%20Monia.wav" type="audio/mpeg"></audio></p>
  <p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.3%20Dansk%20Henri.wav" type="audio/mpeg"></audio></p>
-
+ <p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/Bilel%201.6.mp3" type="audio/mpeg"></audio></p>
   <p class="b"><em>to publikummer tr&aelig;der ind i hver sin teatersal på hvert sit kontinent på samme tid</em></p> 
 
 <p class="c">&#10024;Tickets&#10024;</p>
@@ -192,9 +192,7 @@ _template: advanced
  <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866990?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866990" target="_blank">14/6 2026, 15:00 (UTC+2), Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark</a></p>
 
  <div>
-<p class="indryk11"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/TB-Premier_TN_Rec4_130425.mp3" type="audio/mpeg"></audio></p>
 
-<p class="indryk9"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/TB-Premier_TN_Rec3_120425_2.mp3" type="audio/mpeg"></audio></p>
   <p class="a"> لا يوجد شيء في المسرح سوى عرض رقمي على الحائط النهائي</p>
 
 <p class="indryk8"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/TB-Premier_TN_Rec3_120425_1.mp3" type="audio/mpeg"></audio></p>
@@ -209,12 +207,10 @@ _template: advanced
 
  <p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.7.mp3" type="audio/mpeg"></audio></p>
 
- <p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/Bilel%201.6.mp3" type="audio/mpeg"></audio></p>
-
  <p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.5.mp3" type="audio/mpeg"></audio></p>
 
  <p class="indryk6"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.5.3.2.1.%20Moody.wav" type="audio/mpeg"></audio></p>
-
+ <p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/Mongi%201.mp3" type="audio/mpeg"></audio></p>
  <p class="indryk5"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.5.3.2.wav" type="audio/mpeg"></audio></p>
  <p class="indryk5"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/Moody%20rewrite.wav" type="audio/mpeg"></audio></p>
 
@@ -224,7 +220,7 @@ _template: advanced
  <p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.3%20Arij%20et%20Nesrine.mp3" type="audio/mpeg"></audio></p>
 
  <p class="indryk6"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.5.2.1.1.%20Rania.wav" type="audio/mpeg"></audio></p>
-
+<p class="indryk11"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/TB-Premier_TN_Rec4_130425.mp3" type="audio/mpeg"></audio></p>
  <p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.5.2..wav" type="audio/mpeg"></audio></p>
  <p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/Kacem%20yasmine%201.2.mp3" type="audio/mpeg"></audio></p>
 
@@ -233,8 +229,8 @@ _template: advanced
  <div class="a"="image-container">
    <img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/TN%20looking%20at%20DK,%201%20bit,%20less%20pixels.png" alt="TN looking at DK"></div>
  <p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.5%20Munji.wav" type="audio/mpeg"></audio></p>
- <p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/Mongi%201.mp3" type="audio/mpeg"></audio></p>
 
+ <p class="indryk5"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.1.4%20English%20Jazbo.wav" type="audio/mpeg"></audio></p>
  <p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.4%20Danish%20Katrine.wav" type="audio/mpeg"></audio></p>
 
  <p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.3..wav" type="audio/mpeg"></audio></p>
@@ -257,12 +253,10 @@ _template: advanced
    <img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/DK%20looking%20at%20TN%20-%201%20bit,%20less%20pixels.png" alt="DK looking at TN"></div>
  <p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.2.%20Eliza.wav" type="audio/mpeg"></audio></p>
  <p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.2%20English%20Eliza.wav" type="audio/mpeg"></audio></p>
-
+<p class="indryk9"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/TB-Premier_TN_Rec3_120425_2.mp3" type="audio/mpeg"></audio></p>
  <p class="indryk5"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.1.6%20Ahmed.wav" type="audio/mpeg"></audio></p>
 
  <p class="indryk6"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.1.5.1.%20Monia.wav" type="audio/mpeg"></audio></p>
-
- <p class="indryk5"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.1.4%20English%20Jazbo.wav" type="audio/mpeg"></audio></p>
 
  <p class="indryk5"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.1.3%20English%20Ahmed%20(2).wav" type="audio/mpeg"></audio></p>
  <p class="indryk5"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.1.3%20English%20Ahmed.wav" type="audio/mpeg"></audio></p>
