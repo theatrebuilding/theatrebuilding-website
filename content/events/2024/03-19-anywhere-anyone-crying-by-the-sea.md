@@ -28,18 +28,18 @@ css: |-
   .a  {
   text-align: right;
   margin-left: 20px;
-  text-size: large;
+  text-size: 20px;
   }
   .b {
   text-align: left;
   margin-right: 20px;
-  text-size: large;
+  text-size: 20px;
   }
   .c {
   text-align: center;
   }
   .indryk1 {
-    margin-left: 20px;
+    margin-left: 200px;
   }
   .indryk2 {
     margin-left: 40px;
@@ -48,40 +48,40 @@ css: |-
     margin-left: 60px;
   }
   .indryk4 {
-    margin-left: 80px;
+    margin-left: 140px;
   }
   .indryk5 {
     margin-left: 100px;
   }
   .indryk6 {
-    margin-left: 120px;
+    margin-left: 75px;
   }
   .indryk7 {
-    margin-left: 140px;
+    margin-left: 10%;
   }
   .indryk8 {
     margin-left: 160px;
   }
   .indryk9 {
-    margin-left: 180px;
+    margin-left: 45px;
   }
   .indryk10 {
-    margin-left: 200px;
+    margin-left: 90px;
   }
   .indryk11 {
-    margin-left: 220px;
+    margin-left: 130px;
   }
   .indryk12 {
-    margin-left: 240px;
+    margin-left: 25px;
   }
   .indryk13 {
-    margin-left: 260px;
+    margin-left: 78px;
   }
   .indryk14 {
-    margin-left: 280px;
+    margin-left: 110px;
   }
   .indryk15 {
-    margin-left: 300px;
+    margin-left: 400px;
   }
   .indryk16 {
     margin-left: 320px;
@@ -161,6 +161,7 @@ _template: advanced
   <p class="a">في الصورة، يرى كل منهما الآخر</p>
   <p class="b"><em>i billedet ser de hinanden</em></p>
 
+<p class="c">Tickets</p>
  <p class="c">
  <a href="https://cryptpad.fr/form/#/2/form/view/Szi06jWRRfwbW+N-5WaBN7Kj4Y+4eyh6MWsfmJVDi-g/" target="_blank">11/6 2026, 18:00 (UTC+1), Theatre du Poche, El kef, Tunisia</a></p> 
 
@@ -191,7 +192,7 @@ _template: advanced
  <p class="c"> 
  <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1866990?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1866990" target="_blank">14/6 2026, 15:00 (UTC+2), Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark</a></p>
 
- <div class="c">
+ <div>
 <p class="indryk11"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/TB-Premier_TN_Rec4_130425.mp3" type="audio/mpeg"></audio></p>
 
 <p class="indryk9"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/TB-Premier_TN_Rec3_120425_2.mp3" type="audio/mpeg"></audio></p>
