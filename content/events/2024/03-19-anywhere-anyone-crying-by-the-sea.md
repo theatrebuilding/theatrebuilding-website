@@ -155,16 +155,15 @@ _template: advanced
 <body>
     <main>
   <p class="a"> يدخل جمهوران كل منهما مسرحه في قارته في نفس الوقت</p>  
-  <p class="b"><em>to publikummer tr&aelig;der ind i hver sin teatersal på hvert sit kontinent på samme tid</em></p>
-  <p class="a"> لا يوجد شيء في المسرح سوى عرض رقمي على الحائط النهائي</p>
-  <p class="b"><em>der er intet andet i salen end en digital projektion på endev&aelig;ggen</em></p>
-  <p class="a">في الصورة، يرى كل منهما الآخر</p>
-  <p class="b"><em>i billedet ser de hinanden</em></p>
 
-<p class="c">Tickets</p>
+   <p class="indryk2"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.%20Dansk%20Monia.wav" type="audio/mpeg"></audio></p>
+ <p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.3%20Dansk%20Henri.wav" type="audio/mpeg"></audio></p>
+
+  <p class="b"><em>to publikummer tr&aelig;der ind i hver sin teatersal på hvert sit kontinent på samme tid</em></p> 
+
+<p class="c">&#10024;Tickets&#10024;</p>
  <p class="c">
  <a href="https://cryptpad.fr/form/#/2/form/view/Szi06jWRRfwbW+N-5WaBN7Kj4Y+4eyh6MWsfmJVDi-g/" target="_blank">11/6 2026, 18:00 (UTC+1), Theatre du Poche, El kef, Tunisia</a></p> 
-
  <p class="c">
  <a href="https://billetto.dk/e/graeder-ved-havet-billetter-1846032?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1846032" target="_blank">11/6 2026, 19:00 (UTC+2), Teater&oslash;en, Magneten, K&oslash;benhavn, Denmark</a></p>
 
@@ -196,13 +195,14 @@ _template: advanced
 <p class="indryk11"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/TB-Premier_TN_Rec4_130425.mp3" type="audio/mpeg"></audio></p>
 
 <p class="indryk9"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/TB-Premier_TN_Rec3_120425_2.mp3" type="audio/mpeg"></audio></p>
+  <p class="a"> لا يوجد شيء في المسرح سوى عرض رقمي على الحائط النهائي</p>
 
 <p class="indryk8"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/TB-Premier_TN_Rec3_120425_1.mp3" type="audio/mpeg"></audio></p>
 
 <p class="indryk6"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/TB-Premier_TN_Rec2_110425.mp3" type="audio/mpeg"></audio></p>
 
 <p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/TB-Premier_TN_Rec1_100425.mp3" type="audio/mpeg"></audio></p>
-
+  <p class="b"><em>der er intet andet i salen end en digital projektion på endev&aelig;ggen</em></p>
  <p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.6%20Dansk%20Monia.wav" type="audio/mpeg"></audio></p>
 
  <p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/01-240705_1119.wav" type="audio/mpeg"></audio></p>
@@ -230,14 +230,14 @@ _template: advanced
 
  <p class="indryk5"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.5.1.1.%20Yasmine.wav" type="audio/mpeg"></audio></p>
  <p class="indryk5"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/Yesmine%201.1.1.mp3" type="audio/mpeg"></audio></p>
-
+ <div class="a"="image-container">
+   <img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/TN%20looking%20at%20DK,%201%20bit,%20less%20pixels.png" alt="TN looking at DK"></div>
  <p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.5%20Munji.wav" type="audio/mpeg"></audio></p>
  <p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/Mongi%201.mp3" type="audio/mpeg"></audio></p>
 
  <p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.4%20Danish%20Katrine.wav" type="audio/mpeg"></audio></p>
 
  <p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.3..wav" type="audio/mpeg"></audio></p>
- <p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.3%20Dansk%20Henri.wav" type="audio/mpeg"></audio></p>
 
  <p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.2%2C%20dansk.%20Monia.wav" type="audio/mpeg"></audio></p>
 
@@ -253,7 +253,8 @@ _template: advanced
  <p class="indryk6"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.2.1.1.1%20English%20Eliza.wav" type="audio/mpeg"></audio></p>
 
  <p class="indryk5"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.2.1%20English%20Nanna.wav" type="audio/mpeg"></audio></p>
-
+<div class="b"="image-container">
+   <img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/DK%20looking%20at%20TN%20-%201%20bit,%20less%20pixels.png" alt="DK looking at TN"></div>
  <p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.2.%20Eliza.wav" type="audio/mpeg"></audio></p>
  <p class="indryk4"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.2%20English%20Eliza.wav" type="audio/mpeg"></audio></p>
 
@@ -265,20 +266,18 @@ _template: advanced
 
  <p class="indryk5"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.1.3%20English%20Ahmed%20(2).wav" type="audio/mpeg"></audio></p>
  <p class="indryk5"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.1.3%20English%20Ahmed.wav" type="audio/mpeg"></audio></p>
-
+ <p class="a">في الصورة، يرى كل منهما الآخر</p>
  <p class="indryk6"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.1.2.1.%20David%20Jazbo%20Monia.wav" type="audio/mpeg"></audio></p>
 
  <p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1.%20English%20Monia.wav" type="audio/mpeg"></audio></p>
  <p class="indryk3"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.1%20English%20Monia.wav" type="audio/mpeg"></audio></p>
 
- <p class="indryk2"><audio style="top: 10px; bottom: 0px; left: 100px; right: 20px;" controls="" controlslist="nodownload noplaybackrate"><source src="https://naarduikkeerher.dk/GVHLYD/1.%20Dansk%20Monia.wav" type="audio/mpeg"></audio></p>
+  <p class="b"><em>i billedet ser de hinanden</em></p>
+
 </div>
- <div class="a"="image-container">
-   <img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/TN%20looking%20at%20DK,%201%20bit,%20less%20pixels.png" alt="TN looking at DK"></div>
-<div class="b"="image-container">
-   <img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/DK%20looking%20at%20TN%20-%201%20bit,%20less%20pixels.png" alt="DK looking at TN"></div>
-<br></br>
-<br></br>
+
+<br></br> <br></br>
+
  <div class="c">
  <a href="https://www.instagram.com/cryingbythesea/"><img src="https://assets.tina.io/377fc629-4171-400f-ae86-673770a07f3f/Black-icon-Instagram-logo-transparent-PNG.png" style="height:42px"></a>
 
