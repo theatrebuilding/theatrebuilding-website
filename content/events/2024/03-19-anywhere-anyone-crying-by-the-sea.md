@@ -57,7 +57,7 @@ css: |-
     margin-left: 75px;
   }
   .indryk7 {
-    margin-left: 10%;
+    margin-left: 340px;
   }
   .indryk8 {
     margin-left: 160px;
@@ -84,13 +84,13 @@ css: |-
     margin-left: 400px;
   }
   .indryk16 {
-    margin-left: 320px;
+    margin-left: 155px;
   }
   .indryk17 {
-    margin-left: 340px;
+    margin-left: 175px;
   }
   .indryk18 {
-    margin-left: 360px;
+    margin-left: 35px;
   }
 
 
